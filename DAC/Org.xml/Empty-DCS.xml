@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?>
+<DTADataSet>
+  <!-- DCS ID for return values -->
+  <DCS_ID>
+    <ExportID></ExportID>
+    <Description></Description>
+    <ExportIDWithDescription> - </ExportIDWithDescription>
+	<Type>Lamp or Display</Type>
+  </DCS_ID>
+  <!-- Device and Button ID for Buttons -->
+  <Clickabledata>
+    <ID></ID>
+    <DeviceID></DeviceID>
+    <ButtonID></ButtonID>
+    <Discription></Discription>
+	<Type>Switch or Rotary</Type>
+  </Clickabledata>
+  <!-- Devices -->
+  <Devices>
+    <DeviceID></DeviceID>
+    <Discription></Discription>
+  </Devices>
+</DTADataSet>
