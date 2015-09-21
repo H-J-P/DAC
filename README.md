@@ -1,18 +1,16 @@
-# DAC
-
-			DAC (DCS to Arcaze Communicator)
 			
 			Column token:
 			---------------------------------------------------------------------------
-			A  = Active
-			I  = Init   (not changeable)
-			R  = Reverse
-			S  = Send not zero values (useful for rotary switches and pushbuttons)
-			T  = Test
-			LP = Left padding
-			dM = dimming mode: 0 == off
-			dT = dimming time interval [sec.]
-			dV = dimming value
+			A   = Active
+			I   = Init   (not changeable)
+			R   = Reverse
+			S   = Send not zero values (useful for rotary switches and pushbuttons)
+			T   = Test
+			LP  = Left padding
+			dM  = dimming mode: 0 == off
+			dT  = dimming time interval [sec.]
+			dV  = dimming value
+			Max = max value (range 0.0 - 1.0 only LED driver 3)
 			
 			For rotary switches, please check R and S for all positions.
 			
