@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <NewDataSet>
   <Config>
-    <LastFile>A-10C.xml</LastFile>
+    <LastFile>MiG-15Bis.xml</LastFile>
     <IP>127.0.0.1</IP>
     <PortListener>26026</PortListener>
     <Tlc5943Brightness>65</Tlc5943Brightness>
