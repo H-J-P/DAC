@@ -36,6 +36,168 @@
     <ExportIDWithDescription>99 - RIGHT_BOMB_Lamp</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
+  <DCS_ID>
+    <ExportID>57</ExportID>
+    <Description>lamp_GeneratorOff</Description>
+    <ExportIDWithDescription>57 - lamp_GeneratorOff</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>58</ExportID>
+    <Description>lamp_Ignition</Description>
+    <ExportIDWithDescription>58 - lamp_Ignition</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>119</ExportID>
+    <Description>lamp_IsolatingValve</Description>
+    <ExportIDWithDescription>119 - lamp_IsolatingValve</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>75</ExportID>
+    <Description>lamp_LeftGearExt</Description>
+    <ExportIDWithDescription>75 - lamp_LeftGearExt</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>74</ExportID>
+    <Description>lamp_LeftGearRet</Description>
+    <ExportIDWithDescription>74 - lamp_LeftGearRet</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>79</ExportID>
+    <Description>lamp_RightGearExt</Description>
+    <ExportIDWithDescription>79 - lamp_RightGearExt</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>78</ExportID>
+    <Description>lamp_RightGearRet</Description>
+    <ExportIDWithDescription>78 - lamp_RightGearRet</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>77</ExportID>
+    <Description>lamp_NoseGearExt</Description>
+    <ExportIDWithDescription>77 - lamp_NoseGearExt</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>76</ExportID>
+    <Description>lamp_NoseGearRet</Description>
+    <ExportIDWithDescription>76 - lamp_NoseGearRet</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>53</ExportID>
+    <Description>lamp_ExtendGears</Description>
+    <ExportIDWithDescription>53 - lamp_ExtendGears</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>56</ExportID>
+    <Description>lamp_Remain300 (fuel)</Description>
+    <ExportIDWithDescription>56 - lamp_Remain300 (fuel)</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>50</ExportID>
+    <Description>lamp_AftEmpty (fuel)</Description>
+    <ExportIDWithDescription>50 - lamp_AftEmpty (fuel)</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>52</ExportID>
+    <Description>lamp_DropTanks</Description>
+    <ExportIDWithDescription>52 - lamp_DropTanks</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>51</ExportID>
+    <Description>lamp_BoostPressure (fuel)</Description>
+    <ExportIDWithDescription>51 - lamp_BoostPressure (fuel)</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>113</ExportID>
+    <Description>lamp_TrimmerNeutral</Description>
+    <ExportIDWithDescription>113 - lamp_TrimmerNeutral</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>59</ExportID>
+    <Description>lamp_FlapsExt</Description>
+    <ExportIDWithDescription>59 - lamp_FlapsExt</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>124</ExportID>
+    <Description>lamp_AirBrakeExt</Description>
+    <ExportIDWithDescription>124 - lamp_AirBrakeExt</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>135</ExportID>
+    <Description>lamp_FireDetected</Description>
+    <ExportIDWithDescription>135 - lamp_FireDetected</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>183</ExportID>
+    <Description>lamp_ARC_5</Description>
+    <ExportIDWithDescription>183 - lamp_ARC_5</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>218</ExportID>
+    <Description>light_ARC_5_scale</Description>
+    <ExportIDWithDescription>218 - light_ARC_5_scale</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>54</ExportID>
+    <Description>Marker (MRP-48P)</Description>
+    <ExportIDWithDescription>54 - Marker (MRP-48P)</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>226</ExportID>
+    <Description>light_LeftUV</Description>
+    <ExportIDWithDescription>226 - light_LeftUV</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>215</ExportID>
+    <Description>light_CenterUV</Description>
+    <ExportIDWithDescription>215 - light_CenterUV</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>227</ExportID>
+    <Description>light_RightUV</Description>
+    <ExportIDWithDescription>227 - light_RightUV</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>217</ExportID>
+    <Description>light_Panels</Description>
+    <ExportIDWithDescription>217 - light_Panels</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>216</ExportID>
+    <Description>light_AuxLeftPanel</Description>
+    <ExportIDWithDescription>216 - light_AuxLeftPanel</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>55</ExportID>
+    <Description>lamp_GunCamera</Description>
+    <ExportIDWithDescription>55 - lamp_GunCamera</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
   <Clickabledata>
     <ID>1</ID>
     <DeviceID>3</DeviceID>
