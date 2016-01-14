@@ -1,5 +1,6 @@
 <?xml version="1.0" standalone="yes"?>
 <DTADataSet>
+  <!-- WeaponStatusPanel -->
   <DCS_ID>
     <ExportID>100</ExportID>
     <Description>Cannon shells</Description>
@@ -270,12 +271,14 @@
     <ExportIDWithDescription>231 - Station 11 active (2nd lamp)</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
+  <!-- FuelQuantityIndicator -->
   <DCS_ID>
     <ExportID>300</ExportID>
     <Description>Total fuel</Description>
     <ExportIDWithDescription>300 - Total fuel</ExportIDWithDescription>
     <Type>Display</Type>
   </DCS_ID>
+  <!-- RWRStatusPanel -->
   <DCS_ID>
     <ExportID>440</ExportID>
     <Description>RWRStatusPanel Missile launch</Description>
@@ -288,6 +291,7 @@
     <ExportIDWithDescription>444 - RWRStatusPanel Scan</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
+  <!-- MechanicalDevicesIndicator -->
   <DCS_ID>
     <ExportID>501</ExportID>
     <Description>Nose Gear</Description>
@@ -330,6 +334,7 @@
     <ExportIDWithDescription>533 - Gear warning light, blinking</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
+  <!-- SightingSystem -->
   <DCS_ID>
     <ExportID>600</ExportID>
     <Description>ECM on</Description>
@@ -354,6 +359,7 @@
     <ExportIDWithDescription>603 - Launch Authorized</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
+  <!-- StatusLamp -->
   <DCS_ID>
     <ExportID>700</ExportID>
     <Description>LeftTailPlaneFailure</Description>
@@ -486,7 +492,7 @@
     <ExportIDWithDescription>721 - GearFailure</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
-  <DCS_ID>
+   <DCS_ID>
     <ExportID>722</ExportID>
     <Description>HydraulicsFailure</Description>
     <ExportIDWithDescription>722 - HydraulicsFailure</ExportIDWithDescription>
@@ -534,6 +540,7 @@
     <ExportIDWithDescription>729 - EngineStart right</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
+  <!-- FlareChaff -->
   <DCS_ID>
     <ExportID>800</ExportID>
     <Description>Chaff</Description>
@@ -546,22 +553,23 @@
     <ExportIDWithDescription>801 - Flare</ExportIDWithDescription>
     <Type>Display</Type>
   </DCS_ID>
+  <!-- AOA Indexer -->
   <DCS_ID>
     <ExportID>900</ExportID>
-    <Description>AOA Index low-speed</Description>
-    <ExportIDWithDescription>900 - AOA Index low-speed</ExportIDWithDescription>
+    <Description>Lamp AOA Indexer to big</Description>
+    <ExportIDWithDescription>900 - Lamp AOA Indexer to big</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>901</ExportID>
-    <Description>AOA Index on-speed</Description>
-    <ExportIDWithDescription>901 - AOA Index on-speed</ExportIDWithDescription>
+    <Description>Lamp AOA Indexer correct</Description>
+    <ExportIDWithDescription>901 - Lamp AOA Indexer correct</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>902</ExportID>
-    <Description>AOA Index high-speed</Description>
-    <ExportIDWithDescription>902 - AOA Index high-speed</ExportIDWithDescription>
+    <Description>Lamp AOA Indexer to small</Description>
+    <ExportIDWithDescription>902 - Lamp AOA Indexer to small</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
 </DTADataSet>

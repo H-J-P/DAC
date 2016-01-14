@@ -1,5 +1,6 @@
 <?xml version="1.0" standalone="yes"?>
 <DTADataSet>
+    <!-- WeaponStatusPanel -->
   <DCS_ID>
     <ExportID>100</ExportID>
     <Description>Cannon shells</Description>
@@ -270,12 +271,14 @@
     <ExportIDWithDescription>231 - Station 11 active (2nd lamp)</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
+  <!-- FuelQuantityIndicator -->
   <DCS_ID>
     <ExportID>300</ExportID>
     <Description>Total fuel</Description>
     <ExportIDWithDescription>300 - Total fuel</ExportIDWithDescription>
     <Type>Display</Type>
   </DCS_ID>
+  <!-- RWRlite -->
   <DCS_ID>
     <ExportID>400</ExportID>
     <Description>RWRlite primary AI</Description>
@@ -288,6 +291,7 @@
     <ExportIDWithDescription>401 - RWRlite primary SAM</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
+  <!-- MechanicalDevicesIndicator -->
   <DCS_ID>
     <ExportID>501</ExportID>
     <Description>Nose Gear</Description>
@@ -330,6 +334,7 @@
     <ExportIDWithDescription>533 - Gear warning light, blinking</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
+  <!-- SightingSystem -->
   <DCS_ID>
     <ExportID>600</ExportID>
     <Description>ECM on</Description>
@@ -348,6 +353,7 @@
     <ExportIDWithDescription>604 - Radar on</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
+  <!-- StatusLamp -->
   <DCS_ID>
     <ExportID>700</ExportID>
     <Description>LeftTailPlaneFailure</Description>
@@ -480,7 +486,7 @@
     <ExportIDWithDescription>721 - GearFailure</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
-  <DCS_ID>
+   <DCS_ID>
     <ExportID>722</ExportID>
     <Description>HydraulicsFailure</Description>
     <ExportIDWithDescription>722 - HydraulicsFailure</ExportIDWithDescription>
@@ -528,6 +534,7 @@
     <ExportIDWithDescription>729 - EngineStart right</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
+  <!-- Chaffs Flare -->
   <DCS_ID>
     <ExportID>800</ExportID>
     <Description>Chaff</Description>
