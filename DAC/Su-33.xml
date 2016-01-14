@@ -1,5 +1,6 @@
 <?xml version="1.0" standalone="yes"?>
 <DTADataSet>
+  <!-- WeaponStatusPanel -->
   <DCS_ID>
     <ExportID>100</ExportID>
     <Description>Cannon shells</Description>
@@ -78,6 +79,7 @@
     <ExportIDWithDescription>206 - Station 6 active</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
+  <!-- FuelQuantityIndicator -->
   <DCS_ID>
     <ExportID>300</ExportID>
     <Description>Total fuel</Description>
@@ -114,6 +116,7 @@
     <ExportIDWithDescription>308 - Bingo fuel</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
+  <!-- SPO15RWR -->
   <DCS_ID>
     <ExportID>401</ExportID>
     <Description>SPO15 primary left back side</Description>
@@ -420,6 +423,7 @@
     <ExportIDWithDescription>475 - SPO15 secoundary AWACS</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
+  <!-- MechanicalDevicesIndicator -->
   <DCS_ID>
     <ExportID>500</ExportID>
     <Description>Gear warning light</Description>
@@ -468,6 +472,7 @@
     <ExportIDWithDescription>533 - Gear warning light, blinking</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
+  <!-- SightingSystem -->
   <DCS_ID>
     <ExportID>600</ExportID>
     <Description>ECM on</Description>
@@ -492,6 +497,7 @@
     <ExportIDWithDescription>604 - Radar on</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
+  <!-- StatusLamp -->
   <DCS_ID>
     <ExportID>700</ExportID>
     <Description>LeftTailPlaneFailure</Description>
@@ -624,7 +630,7 @@
     <ExportIDWithDescription>721 - GearFailure</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
-  <DCS_ID>
+   <DCS_ID>
     <ExportID>722</ExportID>
     <Description>HydraulicsFailure</Description>
     <ExportIDWithDescription>722 - HydraulicsFailure</ExportIDWithDescription>
@@ -690,6 +696,7 @@
     <ExportIDWithDescription>732 - Over-G warning</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
+  <!-- PPDSP Panel -->
   <DCS_ID>
     <ExportID>800</ExportID>
     <Description>PPDSP Panel Chaff LED 1</Description>

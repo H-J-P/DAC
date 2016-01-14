@@ -1,10 +1,10 @@
 <?xml version="1.0" standalone="yes"?>
 <NewDataSet>
   <Config>
-    <LastFile>A-10C.xml</LastFile>
+    <LastFile>MiG-15Bis.xml</LastFile>
     <IP>127.0.0.1</IP>
     <PortListener>26026</PortListener>
-    <Tlc5943Brightness>7F</Tlc5943Brightness>
+    <Tlc5943Brightness>65</Tlc5943Brightness>
     <Display7219DigitsIntensity>05</Display7219DigitsIntensity>
     <TestData>*50=1:TAR00=1000:2007=1.2:2000=115.00:2001=131.000:2002=30.000:2006=123456:659=1:494=0.6:660=1:662=1:481=1:AOA03=1:16=0.7:FLP01=1.0</TestData>
     <IntervalTimer>20</IntervalTimer>

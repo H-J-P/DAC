@@ -102,17 +102,12 @@
     <ExportIDWithDescription>613 - lamp_CONTROL_TakeOffPosInd</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
-  <Arcaze>
-    <Arcaze>Arcaze V5.65 (000461000000)</Arcaze>
-    <Active>true</Active>
-    <ModulTypID>Arcaze USB</ModulTypID>
-    <ArcazeAdressAndModulTyp />
-  </Arcaze>
   <Clickabledata>
     <ID>728</ID>
     <DeviceID>25</DeviceID>
     <ButtonID>1</ButtonID>
     <Discription>Canopy Control</Discription>
+    <DcsID>718</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
@@ -120,6 +115,7 @@
     <DeviceID>25</DeviceID>
     <ButtonID>8</ButtonID>
     <Discription>Emergency Jettison</Discription>
+    <DcsID>818</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
@@ -127,6 +123,7 @@
     <DeviceID>25</DeviceID>
     <ButtonID>9</ButtonID>
     <Discription>Canopy Alternate Emergency Jettison</Discription>
+    <DcsID>817</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
@@ -134,6 +131,7 @@
     <DeviceID>25</DeviceID>
     <ButtonID>10</ButtonID>
     <Discription>Canopy declutch handle</Discription>
+    <DcsID>816</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
@@ -141,20 +139,23 @@
     <DeviceID>1</DeviceID>
     <ButtonID>1</ButtonID>
     <Discription>Battery-Starter</Discription>
+    <DcsID>653</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>734</ID>
     <DeviceID>1</DeviceID>
     <ButtonID>2</ButtonID>
-    <Discription>Inverter</Discription>
+    <Discription>Instrument Power Switch</Discription>
+    <DcsID>643</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>735</ID>
     <DeviceID>1</DeviceID>
     <ButtonID>3</ButtonID>
-    <Discription>Stop Starter</Discription>
+    <Discription>Stop-Starter</Discription>
+    <DcsID>664</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
@@ -162,6 +163,7 @@
     <DeviceID>1</DeviceID>
     <ButtonID>4</ButtonID>
     <Discription>Engine Master</Discription>
+    <DcsID>652</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
@@ -169,41 +171,39 @@
     <DeviceID>1</DeviceID>
     <ButtonID>5</ButtonID>
     <Discription>Generator</Discription>
-    <Type>Switch</Type>
-  </Clickabledata>
-  <Clickabledata>
-    <ID>738</ID>
-    <DeviceID>1</DeviceID>
-    <ButtonID>6</ButtonID>
-    <Discription>Generator Switch Cover</Discription>
+    <DcsID>671</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>739</ID>
     <DeviceID>1</DeviceID>
     <ButtonID>7</ButtonID>
-    <Discription>Generator Off Lamp Test</Discription>
+    <Discription>Generator Warning Light</Discription>
+    <DcsID>687</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>740</ID>
     <DeviceID>1</DeviceID>
     <ButtonID>8</ButtonID>
-    <Discription>Main Inverter Off Lamp Test</Discription>
+    <Discription>Main Instrument Inverter Failure Warning Light</Discription>
+    <DcsID>680</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>741</ID>
     <DeviceID>1</DeviceID>
     <ButtonID>9</ButtonID>
-    <Discription>Both Inverters Off Lamp Test</Discription>
+    <Discription>Both Instrument Inverter Failure Warning Light</Discription>
+    <DcsID>681</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>742</ID>
     <DeviceID>1</DeviceID>
     <ButtonID>10</ButtonID>
-    <Discription>Main Radar Inverter Off Lamp Test</Discription>
+    <Discription>Main Radar Inverter Inverter Failure Warning Light</Discription>
+    <DcsID>682</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
@@ -211,6 +211,7 @@
     <DeviceID>1</DeviceID>
     <ButtonID>11</ButtonID>
     <Discription>Bomb Rocket Tank Salvo</Discription>
+    <DcsID>760</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
@@ -218,6 +219,7 @@
     <DeviceID>1</DeviceID>
     <ButtonID>12</ButtonID>
     <Discription>Bomb Sel.</Discription>
+    <DcsID>761</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
@@ -225,6 +227,7 @@
     <DeviceID>1</DeviceID>
     <ButtonID>13</ButtonID>
     <Discription>Gyr'Syn Compass</Discription>
+    <DcsID>762</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
@@ -232,6 +235,7 @@
     <DeviceID>1</DeviceID>
     <ButtonID>14</ButtonID>
     <Discription>3f Inverter</Discription>
+    <DcsID>763</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
@@ -239,6 +243,7 @@
     <DeviceID>1</DeviceID>
     <ButtonID>15</ButtonID>
     <Discription>Turn Bank Ind.</Discription>
+    <DcsID>764</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
@@ -246,6 +251,7 @@
     <DeviceID>1</DeviceID>
     <ButtonID>16</ButtonID>
     <Discription>Rudder Trim &amp; Take-Off Ind.</Discription>
+    <DcsID>765</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
@@ -253,6 +259,7 @@
     <DeviceID>1</DeviceID>
     <ButtonID>17</ButtonID>
     <Discription>Alt Ail. Trim</Discription>
+    <DcsID>766</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
@@ -260,6 +267,7 @@
     <DeviceID>1</DeviceID>
     <ButtonID>18</ButtonID>
     <Discription>Ail &amp; Horiz. Trim &amp; Alt Horiz. Trim</Discription>
+    <DcsID>767</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
@@ -267,6 +275,7 @@
     <DeviceID>1</DeviceID>
     <ButtonID>19</ButtonID>
     <Discription>LDG Light Control</Discription>
+    <DcsID>768</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
@@ -274,6 +283,7 @@
     <DeviceID>1</DeviceID>
     <ButtonID>20</ButtonID>
     <Discription>LDG Lights</Discription>
+    <DcsID>769</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
@@ -281,6 +291,7 @@
     <DeviceID>1</DeviceID>
     <ButtonID>21</ButtonID>
     <Discription>Fire Warn.</Discription>
+    <DcsID>770</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
@@ -288,6 +299,7 @@
     <DeviceID>1</DeviceID>
     <ButtonID>22</ButtonID>
     <Discription>Bus Tie-In Control</Discription>
+    <DcsID>771</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
@@ -295,6 +307,7 @@
     <DeviceID>1</DeviceID>
     <ButtonID>23</ButtonID>
     <Discription>Speed Brake</Discription>
+    <DcsID>772</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
@@ -302,6 +315,7 @@
     <DeviceID>1</DeviceID>
     <ButtonID>24</ButtonID>
     <Discription>Free Air &amp; Oil Temp &amp; Air Sel.</Discription>
+    <DcsID>773</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
@@ -309,6 +323,7 @@
     <DeviceID>1</DeviceID>
     <ButtonID>25</ButtonID>
     <Discription>LDG Gear Warn.</Discription>
+    <DcsID>774</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
@@ -316,6 +331,7 @@
     <DeviceID>1</DeviceID>
     <ButtonID>26</ButtonID>
     <Discription>LDG Gear Control</Discription>
+    <DcsID>775</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
@@ -323,6 +339,7 @@
     <DeviceID>1</DeviceID>
     <ButtonID>27</ButtonID>
     <Discription>LDG Gear Pos Ind.</Discription>
+    <DcsID>776</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
@@ -330,6 +347,7 @@
     <DeviceID>1</DeviceID>
     <ButtonID>28</ButtonID>
     <Discription>Fuel Booster AFT</Discription>
+    <DcsID>777</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
@@ -337,6 +355,7 @@
     <DeviceID>1</DeviceID>
     <ButtonID>29</ButtonID>
     <Discription>Alt Emerg. Hyd. Cont. &amp; Hyd. Press Ind.</Discription>
+    <DcsID>778</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
@@ -344,6 +363,7 @@
     <DeviceID>1</DeviceID>
     <ButtonID>30</ButtonID>
     <Discription>Sight Power</Discription>
+    <DcsID>779</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
@@ -351,6 +371,7 @@
     <DeviceID>1</DeviceID>
     <ButtonID>31</ButtonID>
     <Discription>Sight Heater</Discription>
+    <DcsID>780</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
@@ -358,6 +379,7 @@
     <DeviceID>1</DeviceID>
     <ButtonID>32</ButtonID>
     <Discription>Sight A.C. Power Unit</Discription>
+    <DcsID>781</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
@@ -365,6 +387,7 @@
     <DeviceID>1</DeviceID>
     <ButtonID>33</ButtonID>
     <Discription>AN/ARN-6 Radio Compass</Discription>
+    <DcsID>782</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
@@ -372,6 +395,7 @@
     <DeviceID>1</DeviceID>
     <ButtonID>34</ButtonID>
     <Discription>Eng. Master Fuel Shut-Off</Discription>
+    <DcsID>783</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
@@ -379,6 +403,7 @@
     <DeviceID>1</DeviceID>
     <ButtonID>35</ButtonID>
     <Discription>Eng. Ign.</Discription>
+    <DcsID>784</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
@@ -386,6 +411,7 @@
     <DeviceID>1</DeviceID>
     <ButtonID>36</ButtonID>
     <Discription>Fuel Level</Discription>
+    <DcsID>785</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
@@ -393,6 +419,7 @@
     <DeviceID>1</DeviceID>
     <ButtonID>37</ButtonID>
     <Discription>Inv Gen. Failure Overvolt LTS Test</Discription>
+    <DcsID>786</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
@@ -400,6 +427,7 @@
     <DeviceID>1</DeviceID>
     <ButtonID>38</ButtonID>
     <Discription>Light Post IndCode</Discription>
+    <DcsID>787</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
@@ -407,6 +435,7 @@
     <DeviceID>1</DeviceID>
     <ButtonID>39</ButtonID>
     <Discription>Console &amp; Ped LTS</Discription>
+    <DcsID>788</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
@@ -414,6 +443,7 @@
     <DeviceID>1</DeviceID>
     <ButtonID>40</ButtonID>
     <Discription>Fuel Boost FWD</Discription>
+    <DcsID>789</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
@@ -421,6 +451,7 @@
     <DeviceID>1</DeviceID>
     <ButtonID>41</ButtonID>
     <Discription>Wing Flap LH.</Discription>
+    <DcsID>790</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
@@ -428,6 +459,7 @@
     <DeviceID>1</DeviceID>
     <ButtonID>42</ButtonID>
     <Discription>Wing Flap RH</Discription>
+    <DcsID>791</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
@@ -435,6 +467,7 @@
     <DeviceID>1</DeviceID>
     <ButtonID>43</ButtonID>
     <Discription>Light Fluor</Discription>
+    <DcsID>792</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
@@ -442,6 +475,7 @@
     <DeviceID>1</DeviceID>
     <ButtonID>44</ButtonID>
     <Discription>Sight Control</Discription>
+    <DcsID>793</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
@@ -449,6 +483,7 @@
     <DeviceID>1</DeviceID>
     <ButtonID>45</ButtonID>
     <Discription>AN/APC 3 Radio</Discription>
+    <DcsID>794</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
@@ -456,13 +491,15 @@
     <DeviceID>1</DeviceID>
     <ButtonID>46</ButtonID>
     <Discription>AN/APX-6 Radio IFF</Discription>
+    <DcsID>795</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>779</ID>
     <DeviceID>2</DeviceID>
     <ButtonID>1</ButtonID>
-    <Discription>Landing_Gear_Handle</Discription>
+    <Discription>Landing Gear Handle</Discription>
+    <DcsID>599</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
@@ -470,34 +507,39 @@
     <DeviceID>2</DeviceID>
     <ButtonID>2</ButtonID>
     <Discription>Landing Gear Emergency-up</Discription>
+    <DcsID>710</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>781</ID>
     <DeviceID>2</DeviceID>
     <ButtonID>4</ButtonID>
-    <Discription>Hydraulic Pressure Selector</Discription>
+    <Discription>Hydraulic Pressure Gage and Selector</Discription>
+    <DcsID>631</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>782</ID>
     <DeviceID>2</DeviceID>
     <ButtonID>6</ButtonID>
-    <Discription>Air Brake Emergency Lever</Discription>
+    <Discription>Speed Brake Emergency Lever</Discription>
+    <DcsID>674</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>783</ID>
     <DeviceID>2</DeviceID>
     <ButtonID>7</ButtonID>
-    <Discription>Alternate On Lamp Test</Discription>
+    <Discription>Alternate-on Warning Light Test</Discription>
+    <DcsID>684</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>784</ID>
     <DeviceID>2</DeviceID>
     <ButtonID>8</ButtonID>
-    <Discription>Alternate Hydraulic Override</Discription>
+    <Discription>Alternate Hydraulic Emergency Override Handle</Discription>
+    <DcsID>706</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
@@ -505,27 +547,31 @@
     <DeviceID>2</DeviceID>
     <ButtonID>3</ButtonID>
     <Discription>Flight Control</Discription>
+    <DcsID>647</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>786</ID>
     <DeviceID>2</DeviceID>
     <ButtonID>9</ButtonID>
-    <Discription>Horn Cut Out</Discription>
+    <Discription>Landing Gear Warning Horn Cutout</Discription>
+    <DcsID>815</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>786</ID>
+    <DeviceID>2</DeviceID>
+    <ButtonID>10</ButtonID>
+    <Discription>Landing Gear Emergency Release</Discription>
+    <DcsID>819</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>787</ID>
     <DeviceID>3</DeviceID>
     <ButtonID>1</ButtonID>
-    <Discription>Fuel Density Correction</Discription>
-    <Type>Switch</Type>
-  </Clickabledata>
-  <Clickabledata>
-    <ID>788</ID>
-    <DeviceID>3</DeviceID>
-    <ButtonID>2</ButtonID>
-    <Discription>Density Correction Cover</Discription>
+    <Discription>Fuel Densitometer Selection Switch</Discription>
+    <DcsID>672</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
@@ -533,69 +579,79 @@
     <DeviceID>3</DeviceID>
     <ButtonID>3</ButtonID>
     <Discription>Drop Tank Selector</Discription>
+    <DcsID>662</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>790</ID>
     <DeviceID>3</DeviceID>
     <ButtonID>4</ButtonID>
-    <Discription>Tanks Jettison</Discription>
+    <Discription>"Drop Tank Jettison</Discription>
+    <DcsID>701</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>791</ID>
     <DeviceID>3</DeviceID>
     <ButtonID>5</ButtonID>
-    <Discription>Outbd Tanks Empty Lamp Test</Discription>
+    <Discription>Outboard Drop Tank Empty Indicator Light</Discription>
+    <DcsID>695</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>793</ID>
     <DeviceID>14</DeviceID>
     <ButtonID>1</ButtonID>
-    <Discription>Oxygen Deluter Lever</Discription>
+    <Discription>Oxygen Regulator Diluter Lever</Discription>
+    <DcsID>703</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>794</ID>
     <DeviceID>14</DeviceID>
     <ButtonID>2</ButtonID>
-    <Discription>Oxygen Supply Lever</Discription>
-    <Type>Switch</Type>
+    <Discription>Oxygen Regulator Supply Lever</Discription>
+    <DcsID>704</DcsID>
+    <Type>Rotary</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>795</ID>
     <DeviceID>15</DeviceID>
     <ButtonID>1</ButtonID>
-    <Discription>Fire Detection Test</Discription>
+    <Discription>Engine Fire Warning Light Test</Discription>
+    <DcsID>635</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>796</ID>
     <DeviceID>15</DeviceID>
     <ButtonID>2</ButtonID>
-    <Discription>Fwd Fire Warning Lamp Test</Discription>
+    <Discription>Forward Engine Compartment Fire-warning Light</Discription>
+    <DcsID>685</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>797</ID>
     <DeviceID>15</DeviceID>
     <ButtonID>3</ButtonID>
-    <Discription>Aft Fire Warning Lamp Test</Discription>
+    <Discription>Aft Engine Compartment Fire-warning Light</Discription>
+    <DcsID>686</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>799</ID>
     <DeviceID>16</DeviceID>
     <ButtonID>1</ButtonID>
-    <Discription>Pressure Control</Discription>
+    <Discription>Cockpit Pressure Control</Discription>
+    <DcsID>650</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>800</ID>
     <DeviceID>16</DeviceID>
     <ButtonID>2</ButtonID>
-    <Discription>Pressure Schedule Selector</Discription>
+    <Discription>Cockpit Pressure Schedule Selector</Discription>
+    <DcsID>651</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
@@ -603,27 +659,23 @@
     <DeviceID>16</DeviceID>
     <ButtonID>3</ButtonID>
     <Discription>Pitot Heater</Discription>
+    <DcsID>646</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>802</ID>
     <DeviceID>16</DeviceID>
     <ButtonID>4</ButtonID>
-    <Discription>Heater Reostat</Discription>
+    <Discription>Cockpit Air Temperature Control Rheostat</Discription>
+    <DcsID>740</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>803</ID>
     <DeviceID>16</DeviceID>
     <ButtonID>5</ButtonID>
-    <Discription>Temperature Control</Discription>
-    <Type>Switch</Type>
-  </Clickabledata>
-  <Clickabledata>
-    <ID>804</ID>
-    <DeviceID>16</DeviceID>
-    <ButtonID>6</ButtonID>
-    <Discription>Temperature Control Cover</Discription>
+    <Discription>Cockpit Air Temperature Control</Discription>
+    <DcsID>737</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
@@ -631,76 +683,87 @@
     <DeviceID>16</DeviceID>
     <ButtonID>7</ButtonID>
     <Discription>Engine Anti-Ice &amp; Screen</Discription>
+    <DcsID>645</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>806</ID>
     <DeviceID>16</DeviceID>
     <ButtonID>8</ButtonID>
-    <Discription>Air Outlet Selector</Discription>
+    <Discription>Air Outlet Selector Lever</Discription>
+    <DcsID>741</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>887</ID>
+    <DeviceID>16</DeviceID>
+    <ButtonID>9</ButtonID>
+    <Discription>Windshield Anti-Ice Overheat Warning Light</Discription>
+    <DcsID>691</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>807</ID>
     <DeviceID>17</DeviceID>
     <ButtonID>1</ButtonID>
-    <Discription>Console &amp; Panel Lights</Discription>
-    <Type>Switch</Type>
+    <Discription>Console and Panel Light Rheostat</Discription>
+    <DcsID>812</DcsID>
+    <Type>Rotary</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>808</ID>
     <DeviceID>17</DeviceID>
     <ButtonID>2</ButtonID>
-    <Discription>Primary Lights</Discription>
-    <Type>Switch</Type>
+    <Discription>Instrument Panel Primary Light Rheostat</Discription>
+    <DcsID>813</DcsID>
+    <Type>Rotary</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>809</ID>
     <DeviceID>17</DeviceID>
     <ButtonID>3</ButtonID>
-    <Discription>Auxiliary Lights</Discription>
-    <Type>Switch</Type>
+    <Discription>Instrument Panel Auxiliary Light Rheostat</Discription>
+    <DcsID>811</DcsID>
+    <Type>Rotary</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>810</ID>
     <DeviceID>17</DeviceID>
     <ButtonID>4</ButtonID>
     <Discription>Compass Light</Discription>
+    <DcsID>654</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>811</ID>
     <DeviceID>18</DeviceID>
     <ButtonID>1</ButtonID>
-    <Discription>Land &amp; Taxi Lights</Discription>
+    <Discription>Landing &amp; Taxi Lights</Discription>
+    <DcsID>661</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>812</ID>
     <DeviceID>18</DeviceID>
     <ButtonID>2</ButtonID>
-    <Discription>Pos &amp; Fus Lights</Discription>
+    <Discription>Position &amp; Fuselage Lights</Discription>
+    <DcsID>656</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>813</ID>
     <DeviceID>18</DeviceID>
     <ButtonID>3</ButtonID>
-    <Discription>Ext. Lights Bright</Discription>
+    <Discription>Exterior Lighting Dimmert</Discription>
+    <DcsID>655</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>815</ID>
     <DeviceID>4</DeviceID>
     <ButtonID>1</ButtonID>
-    <Discription>Air Start</Discription>
-    <Type>Switch</Type>
-  </Clickabledata>
-  <Clickabledata>
-    <ID>816</ID>
-    <DeviceID>4</DeviceID>
-    <ButtonID>2</ButtonID>
-    <Discription>Air Start Cover</Discription>
+    <Discription>Emergency Ignition Switch</Discription>
+    <DcsID>733</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
@@ -708,6 +771,7 @@
     <DeviceID>4</DeviceID>
     <ButtonID>3</ButtonID>
     <Discription>Emergency Fuel</Discription>
+    <DcsID>630</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
@@ -715,6 +779,7 @@
     <DeviceID>13</DeviceID>
     <ButtonID>8</ButtonID>
     <Discription>Lateral Alternate Trim</Discription>
+    <DcsID>649</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
@@ -722,6 +787,7 @@
     <DeviceID>13</DeviceID>
     <ButtonID>9</ButtonID>
     <Discription>Longitudinal Alternate Trim</Discription>
+    <DcsID>738</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
@@ -729,20 +795,15 @@
     <DeviceID>13</DeviceID>
     <ButtonID>10</ButtonID>
     <Discription>Rudder Trim</Discription>
-    <Type>Switch</Type>
-  </Clickabledata>
-  <Clickabledata>
-    <ID>821</ID>
-    <DeviceID>13</DeviceID>
-    <ButtonID>11</ButtonID>
-    <Discription>Longitudinal Alternate Trim Cover</Discription>
+    <DcsID>648</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>822</ID>
     <DeviceID>13</DeviceID>
     <ButtonID>12</ButtonID>
-    <Discription>Take-Off Pos.Ind. Test</Discription>
+    <Discription>Take-off Position Indicator Light</Discription>
+    <DcsID>683</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
@@ -750,130 +811,127 @@
     <DeviceID>13</DeviceID>
     <ButtonID>1</ButtonID>
     <Discription>Wing Flaps Handle</Discription>
+    <DcsID>735</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>824</ID>
     <DeviceID>26</DeviceID>
     <ButtonID>1</ButtonID>
-    <Discription>Preset Channel Selector</Discription>
+    <Discription>AN/ARC-27 UHF Preset Channel Selector</Discription>
+    <DcsID>807</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>825</ID>
     <DeviceID>26</DeviceID>
     <ButtonID>2</ButtonID>
-    <Discription>Volume</Discription>
-    <Type>Switch</Type>
+    <Discription>AN/ARC-27 UHF Audio Volume</Discription>
+    <DcsID>806</DcsID>
+    <Type>Rotary</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>826</ID>
     <DeviceID>26</DeviceID>
     <ButtonID>3</ButtonID>
-    <Discription>Mode</Discription>
-    <Type>Switch</Type>
-  </Clickabledata>
-  <Clickabledata>
-    <ID>827</ID>
-    <DeviceID>26</DeviceID>
-    <ButtonID>4</ButtonID>
+    <Discription>AN/ARC-27 UHF Power Switch + G REC/ADF</Discription>
+    <DcsID>805</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>829</ID>
     <DeviceID>27</DeviceID>
     <ButtonID>1</ButtonID>
-    <Discription>Function Mode</Discription>
+    <Discription>AN/ARN-6 Function Selector Switch</Discription>
+    <DcsID>667</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>830</ID>
     <DeviceID>27</DeviceID>
     <ButtonID>2</ButtonID>
-    <Discription>Band Switch</Discription>
+    <Discription>AN/ARN-6 Frequency Band</Discription>
+    <DcsID>803</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>831</ID>
     <DeviceID>27</DeviceID>
     <ButtonID>3</ButtonID>
-    <Discription>Tuning</Discription>
-    <Type>Switch</Type>
+    <Discription>AN/ARN-6 Tuning Crank</Discription>
+    <DcsID>0</DcsID>
+    <Type>Rotary</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>832</ID>
     <DeviceID>27</DeviceID>
     <ButtonID>4</ButtonID>
-    <Discription>Volume</Discription>
+    <Discription>AN/ARN-6 Audio Volume Control</Discription>
+    <DcsID>802</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>833</ID>
     <DeviceID>27</DeviceID>
     <ButtonID>5</ButtonID>
-    <Discription>L-R Loop</Discription>
-    <Type>Switch</Type>
-  </Clickabledata>
-  <Clickabledata>
-    <ID>834</ID>
-    <DeviceID>27</DeviceID>
-    <ButtonID>6</ButtonID>
+    <Discription>AN/ARN-6 LOOP L-R</Discription>
+    <DcsID>666</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>835</ID>
     <DeviceID>27</DeviceID>
     <ButtonID>7</ButtonID>
-    <Discription>Scale Light</Discription>
+    <Discription>AN/ARN-6 Scale Light</Discription>
+    <DcsID>657</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>836</ID>
     <DeviceID>27</DeviceID>
     <ButtonID>8</ButtonID>
-    <Discription>Radio Compass Knob</Discription>
-    <Type>Switch</Type>
+    <Discription>AN/ARN-6 East/West Variation</Discription>
+    <DcsID>826</DcsID>
+    <Type>Rotary</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>837</ID>
     <DeviceID>29</DeviceID>
     <ButtonID>1</ButtonID>
-    <Discription>IFF Mode</Discription>
+    <Discription>AN/APX-6 IFF Master Switch</Discription>
+    <DcsID>810</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>838</ID>
     <DeviceID>29</DeviceID>
     <ButtonID>2</ButtonID>
-    <Discription>Mode 2</Discription>
+    <Discription>AN/APX-6 IFF Mode 2</Discription>
+    <DcsID>659</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>839</ID>
     <DeviceID>29</DeviceID>
     <ButtonID>3</ButtonID>
-    <Discription>Mode 3</Discription>
+    <Discription>AN/APX-6 IFF Mode 3</Discription>
+    <DcsID>660</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>840</ID>
     <DeviceID>29</DeviceID>
     <ButtonID>4</ButtonID>
-    <Discription>Destruct Switch</Discription>
-    <Type>Switch</Type>
-  </Clickabledata>
-  <Clickabledata>
-    <ID>841</ID>
-    <DeviceID>29</DeviceID>
-    <ButtonID>5</ButtonID>
-    <Discription>Destruct Switch Cover</Discription>
+    <Discription>AN/APX-6 IFF Destruct</Discription>
+    <DcsID>809</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>843</ID>
     <DeviceID>7</DeviceID>
     <ButtonID>1</ButtonID>
-    <Discription>Baro pressure QFE knob</Discription>
+    <Discription>Altimeter reference pressure adjusting</Discription>
+    <DcsID>0</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
@@ -881,13 +939,15 @@
     <DeviceID>20</DeviceID>
     <ButtonID>1</ButtonID>
     <Discription>Compass Correction</Discription>
+    <DcsID>0</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>846</ID>
     <DeviceID>20</DeviceID>
     <ButtonID>3</ButtonID>
-    <Discription>Fast Slave</Discription>
+    <Discription>Directional Indicator Fast Slaving</Discription>
+    <DcsID>598</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
@@ -895,104 +955,140 @@
     <DeviceID>24</DeviceID>
     <ButtonID>1</ButtonID>
     <Discription>Pull to Cage</Discription>
+    <DcsID>714</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>848</ID>
     <DeviceID>12</DeviceID>
     <ButtonID>1</ButtonID>
-    <Discription>Reset</Discription>
+    <Discription>Accelerometer Reset</Discription>
+    <DcsID>1004</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>850</ID>
     <DeviceID>10</DeviceID>
     <ButtonID>1</ButtonID>
-    <Discription>Set Clock Knob</Discription>
+    <Discription>Clock Set Clock Button 1</Discription>
+    <DcsID>0</DcsID>
     <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>888</ID>
+    <DeviceID>10</DeviceID>
+    <ButtonID>2</ButtonID>
+    <Discription>Clock Set Clock Button 2</Discription>
+    <DcsID>0</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>889</ID>
+    <DeviceID>10</DeviceID>
+    <ButtonID>3</ButtonID>
+    <Discription>Clock Set Clock</Discription>
+    <DcsID>0</DcsID>
+    <Type>Rotary</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>851</ID>
     <DeviceID>10</DeviceID>
-    <ButtonID>2</ButtonID>
-    <Discription>Elapsed Time Mechanism Button</Discription>
+    <ButtonID>4</ButtonID>
+    <Discription>Clock Elapsed Time Mechanism</Discription>
+    <DcsID>831</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>852</ID>
     <DeviceID>22</DeviceID>
     <ButtonID>1</ButtonID>
-    <Discription>Wing span adjustment knob</Discription>
-    <Type>Switch</Type>
+    <Discription>A-4 Sight Wing Span Adjustment</Discription>
+    <DcsID>716</DcsID>
+    <Type>Rotary</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>853</ID>
     <DeviceID>21</DeviceID>
     <ButtonID>1</ButtonID>
-    <Discription>Radar range sweep rheostat knob</Discription>
-    <Type>Switch</Type>
+    <Discription>A-4 Sight Radar Range Sweep Rheostat</Discription>
+    <DcsID>715</DcsID>
+    <Type>Rotary</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>854</ID>
     <DeviceID>22</DeviceID>
     <ButtonID>3</ButtonID>
-    <Discription>Sight reticle dimmer</Discription>
-    <Type>Switch</Type>
+    <Discription>A-4 Sight Reticle Dimmer Control</Discription>
+    <DcsID>734</DcsID>
+    <Type>Rotary</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>855</ID>
     <DeviceID>22</DeviceID>
     <ButtonID>16</ButtonID>
-    <Discription>Sight mechanical caging lever</Discription>
-    <Type>Switch</Type>
+    <Discription>A-4 Sight Mechanical Caging (gage)</Discription>
+    <DcsID>755</DcsID>
+    <Type>Rotary</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>856</ID>
     <DeviceID>22</DeviceID>
     <ButtonID>17</ButtonID>
-    <Discription>Sight mechanical caging lever</Discription>
+    <Discription>A-4 Sight Mechanical Cagingr (ungage)</Discription>
+    <DcsID>755</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>857</ID>
     <DeviceID>22</DeviceID>
     <ButtonID>15</ButtonID>
-    <Discription>Sight filament primary/secondary selection</Discription>
+    <Discription>A-4 Sight Filament Selector</Discription>
+    <DcsID>642</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>858</ID>
     <DeviceID>22</DeviceID>
     <ButtonID>11</ButtonID>
-    <Discription>Rocket-gun-bomb selector</Discription>
+    <Discription>A-4 Sight Sight Function Selector</Discription>
+    <DcsID>721</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>859</ID>
     <DeviceID>22</DeviceID>
     <ButtonID>12</ButtonID>
-    <Discription>Target speed switch</Discription>
+    <Discription>A-4 Sight Target Speed</Discription>
+    <DcsID>720</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>860</ID>
     <DeviceID>22</DeviceID>
     <ButtonID>13</ButtonID>
-    <Discription>Rocket depression angle pointer</Discription>
+    <Discription>A-4 Sight Rocket Depression Angle</Discription>
+    <DcsID>722</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>861</ID>
     <DeviceID>22</DeviceID>
     <ButtonID>14</ButtonID>
-    <Discription>Bomb target wind control</Discription>
+    <Discription>A-4 Sight Bomb-Target Wind Control</Discription>
+    <DcsID>727</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
+
+
+
+
+
   <Clickabledata>
     <ID>862</ID>
     <DeviceID>5</DeviceID>
     <ButtonID>1</ButtonID>
     <Discription>Guns selector</Discription>
+    <DcsID>668</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
@@ -1000,6 +1096,7 @@
     <DeviceID>5</DeviceID>
     <ButtonID>2</ButtonID>
     <Discription>Gun, Missile selector switch</Discription>
+    <DcsID>665</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
@@ -1007,6 +1104,7 @@
     <DeviceID>5</DeviceID>
     <ButtonID>3</ButtonID>
     <Discription>Gun heater</Discription>
+    <DcsID>636</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
@@ -1014,97 +1112,87 @@
     <DeviceID>5</DeviceID>
     <ButtonID>4</ButtonID>
     <Discription>Manual Pip Control</Discription>
-    <Type>Switch</Type>
-  </Clickabledata>
-  <Clickabledata>
-    <ID>866</ID>
-    <DeviceID>5</DeviceID>
-    <ButtonID>5</ButtonID>
-    <Discription>Manual Pip Control Setting</Discription>
+    <DcsID>663</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>867</ID>
     <DeviceID>5</DeviceID>
     <ButtonID>6</ButtonID>
-    <Discription>Bombs release auto manual</Discription>
+    <Discription>Demolition Bomb Release Selector</Discription>
+    <DcsID>639</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>868</ID>
     <DeviceID>5</DeviceID>
     <ButtonID>7</ButtonID>
-    <Discription>Bombs fuze selection</Discription>
+    <Discription>Demolition Bomb Arming (Fuze Selection)</Discription>
+    <DcsID>641</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>869</ID>
     <DeviceID>5</DeviceID>
     <ButtonID>8</ButtonID>
-    <Discription>Bombs station selection</Discription>
+    <Discription>Demolition Bomb Sequence Selector</Discription>
+    <DcsID>752</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>870</ID>
     <DeviceID>5</DeviceID>
     <ButtonID>9</ButtonID>
-    <Discription>Rockets release selection</Discription>
-    <Type>Switch</Type>
-  </Clickabledata>
-  <Clickabledata>
-    <ID>871</ID>
-    <DeviceID>5</DeviceID>
-    <ButtonID>10</ButtonID>
-    <Discription>Rockets release selection cover</Discription>
+    <Discription>Rocket Release Selector</Discription>
+    <DcsID>751</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>872</ID>
     <DeviceID>5</DeviceID>
     <ButtonID>11</ButtonID>
-    <Discription>Fuze delay setting</Discription>
+    <Discription>Rocket Fuze (Arming) Switch</Discription>
+    <DcsID>638</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>873</ID>
     <DeviceID>5</DeviceID>
     <ButtonID>12</ButtonID>
-    <Discription>Rockets jett</Discription>
+    <Discription>Rocket Jettison</Discription>
+    <DcsID>637</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>874</ID>
     <DeviceID>5</DeviceID>
     <ButtonID>13</ButtonID>
-    <Discription>LABS Gyro Switch</Discription>
+    <Discription>LABS Gyro Caging</Discription>
+    <DcsID>632</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>875</ID>
     <DeviceID>5</DeviceID>
     <ButtonID>14</ButtonID>
-    <Discription>LABS Switch</Discription>
-    <Type>Switch</Type>
-  </Clickabledata>
-  <Clickabledata>
-    <ID>876</ID>
-    <DeviceID>5</DeviceID>
-    <ButtonID>15</ButtonID>
-    <Discription>LABS Start Switch</Discription>
+    <Discription>LABS Start</Discription>
+    <DcsID>633</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>877</ID>
     <DeviceID>5</DeviceID>
     <ButtonID>16</ButtonID>
-    <Discription>Manual Pip Control Presets</Discription>
+    <Discription>Manual Pip Control Change Calibrated Dials</Discription>
+    <DcsID>796</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>878</ID>
     <DeviceID>5</DeviceID>
     <ButtonID>17</ButtonID>
-    <Discription>Bomb Rocket Tank Jettison</Discription>
+    <Discription>Bomb-Rocket-Tank Jettison</Discription>
+    <DcsID>702</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
@@ -1112,6 +1200,7 @@
     <DeviceID>5</DeviceID>
     <ButtonID>18</ButtonID>
     <Discription>Missile Control Switch</Discription>
+    <DcsID>820</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
@@ -1119,6 +1208,7 @@
     <DeviceID>5</DeviceID>
     <ButtonID>19</ButtonID>
     <Discription>Tone Volume</Discription>
+    <DcsID>821</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
@@ -1126,20 +1216,23 @@
     <DeviceID>5</DeviceID>
     <ButtonID>20</ButtonID>
     <Discription>Safe Launch Button</Discription>
+    <DcsID>822</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>883</ID>
     <DeviceID>5</DeviceID>
     <ButtonID>21</ButtonID>
-    <Discription>Target altitude knob</Discription>
-    <Type>Switch</Type>
+    <Discription>A-4 Sight Bombing Altimeter Target Altitude</Discription>
+    <DcsID>729</DcsID>
+    <Type>Rotary</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>884</ID>
     <DeviceID>5</DeviceID>
     <ButtonID>22</ButtonID>
-    <Discription>Index altitude handle</Discription>
+    <Discription>A-4 Sight Bombing Altimeter Index Altitude Handle</Discription>
+    <DcsID>731</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
@@ -1147,6 +1240,7 @@
     <DeviceID>5</DeviceID>
     <ButtonID>23</ButtonID>
     <Discription>Rocket Intervalometer</Discription>
+    <DcsID>1001</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
@@ -1154,6 +1248,7 @@
     <DeviceID>5</DeviceID>
     <ButtonID>24</ButtonID>
     <Discription>Rocket Intervalometer</Discription>
+    <DcsID>1001</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Devices>
