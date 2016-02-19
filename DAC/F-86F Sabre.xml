@@ -879,6 +879,14 @@
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
+    <ID>834</ID>
+    <DeviceID>27</DeviceID>
+    <ButtonID>6</ButtonID>
+    <Discription>AN/ARN-6 CW-VOICE Switch</Discription>
+    <DcsID>666</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
     <ID>835</ID>
     <DeviceID>27</DeviceID>
     <ButtonID>7</ButtonID>

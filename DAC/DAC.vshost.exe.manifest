@@ -85,14 +85,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DAC.exe" size="935936">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DAC.exe" size="936448">
       <assemblyIdentity name="DAC" version="0.9.8.9" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>AGLqem7cEWDnXEgeytAEG/xywug=</dsig:DigestValue>
+        <dsig:DigestValue>E6/iNK5FcYMJAl8wzaAp5aaANvo=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
