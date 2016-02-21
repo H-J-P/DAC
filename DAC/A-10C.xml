@@ -608,20 +608,20 @@
   </DCS_ID>
   <DCS_ID>
     <ExportID>3010</ExportID>
-    <Description>genericRadio aktive</Description>
-    <ExportIDWithDescription>3010 - genericRadio aktive</ExportIDWithDescription>
+    <Description>genericRadio active</Description>
+    <ExportIDWithDescription>3010 - genericRadio active</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>3011</ExportID>
-    <Description>genericRadio Preset aktive</Description>
-    <ExportIDWithDescription>3011 - genericRadio Preset aktive</ExportIDWithDescription>
+    <Description>genericRadio Preset active</Description>
+    <ExportIDWithDescription>3011 - genericRadio Preset active</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>3012</ExportID>
-    <Description>genericRadio Squelch aktive</Description>
-    <ExportIDWithDescription>3012 - genericRadio Squelch aktive</ExportIDWithDescription>
+    <Description>genericRadio Squelch active</Description>
+    <ExportIDWithDescription>3012 - genericRadio Squelch active</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <Clickabledata>

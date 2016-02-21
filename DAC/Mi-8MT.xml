@@ -933,6 +933,48 @@
     <ExportIDWithDescription>2006 - Display UV26</ExportIDWithDescription>
     <Type>Display</Type>
   </DCS_ID>
+  <DCS_ID>
+    <ExportID>3000</ExportID>
+    <Description>genericRadio Preset Channel and Frequency</Description>
+    <ExportIDWithDescription>3000 - genericRadio Preset Channel and Frequency</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>3001</ExportID>
+    <Description>genericRadio Preset Channel</Description>
+    <ExportIDWithDescription>3001 - genericRadio Preset Channel</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>3002</ExportID>
+    <Description>genericRadio Frequency</Description>
+    <ExportIDWithDescription>3002 - genericRadio Frequency</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>3010</ExportID>
+    <Description>genericRadio active</Description>
+    <ExportIDWithDescription>3010 - genericRadio active</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>3011</ExportID>
+    <Description>genericRadio Preset active</Description>
+    <ExportIDWithDescription>3011 - genericRadio Preset active</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>3012</ExportID>
+    <Description>genericRadio Squelch active</Description>
+    <ExportIDWithDescription>3012 - genericRadio Squelch active</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>3013</ExportID>
+    <Description>genericRadio Autotune active</Description>
+    <ExportIDWithDescription>3013 - genericRadio Autotune active</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
   <!-- ELEC_INTERFACE -->
   <Clickabledata>
     <ID>0</ID>
@@ -4162,6 +4204,78 @@
     <DcsID>323</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
+  <Clickabledata>
+    <ID>390</ID>
+    <DeviceID>1000</DeviceID>
+    <ButtonID>1</ButtonID>
+    <Discription>genericRadio selection switch</Discription>
+    <Type>Switch</Type>
+    <DcsID>0</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>391</ID>
+    <DeviceID>1000</DeviceID>
+    <ButtonID>2</ButtonID>
+    <Discription>genericRadio Frequency 1 {0.0 to 2.0 in 0.1 steps}</Discription>
+    <Type>Rotary</Type>
+    <DcsID>0</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>392</ID>
+    <DeviceID>1000</DeviceID>
+    <ButtonID>3</ButtonID>
+    <Discription>genericRadio Frequency 2 {0.0 to 2.0 in 0.1 steps}</Discription>
+    <Type>Rotary</Type>
+    <DcsID>0</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>393</ID>
+    <DeviceID>1000</DeviceID>
+    <ButtonID>4</ButtonID>
+    <Discription>genericRadio Volumen {0.0 to 2.0 in 0.1 steps}</Discription>
+    <Type>Rotary</Type>
+    <DcsID>0</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>394</ID>
+    <DeviceID>1000</DeviceID>
+    <ButtonID>5</ButtonID>
+    <Discription>genericRadio Preset Channel {0.0 to 2.0 in 0.1 steps}</Discription>
+    <Type>Rotary</Type>
+    <DcsID>0</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>395</ID>
+    <DeviceID>1000</DeviceID>
+    <ButtonID>6</ButtonID>
+    <Discription>genericRadio Load Button</Discription>
+    <Type>Switch</Type>
+    <DcsID>0</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>396</ID>
+    <DeviceID>1000</DeviceID>
+    <ButtonID>7</ButtonID>
+    <Discription>genericRadio Squelch Button</Discription>
+    <Type>Switch</Type>
+    <DcsID>0</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>397</ID>
+    <DeviceID>1000</DeviceID>
+    <ButtonID>8</ButtonID>
+    <Discription>genericRadio Manual-Preset Button</Discription>
+    <Type>Switch</Type>
+    <DcsID>0</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>398</ID>
+    <DeviceID>1000</DeviceID>
+    <ButtonID>9</ButtonID>
+    <Discription>genericRadio Power Button</Discription>
+    <Type>Switch</Type>
+    <DcsID>0</DcsID>
+  </Clickabledata>
 <!-- Devices -->
   <Devices>
     <DeviceID>1</DeviceID>
@@ -4370,5 +4484,9 @@
   <Devices>
     <DeviceID>58</DeviceID>
     <Discription>EXTERNAL_CARGO_SPEECH</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>1000</DeviceID>
+    <Discription>genericRadio</Discription>
   </Devices>
 </DTADataSet>

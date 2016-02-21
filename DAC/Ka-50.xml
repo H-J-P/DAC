@@ -878,20 +878,32 @@
   </DCS_ID>
   <DCS_ID>
     <ExportID>3000</ExportID>
-    <Description>genericRadio Frequency</Description>
-    <ExportIDWithDescription>3000 - genericRadio Frequency</ExportIDWithDescription>
+    <Description>genericRadio Preset Channel and Frequency</Description>
+    <ExportIDWithDescription>3000 - genericRadio Preset Channel and Frequency</ExportIDWithDescription>
     <Type>Display</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>3010</ExportID>
-    <Description>genericRadio aktive</Description>
-    <ExportIDWithDescription>3010 - genericRadio aktive</ExportIDWithDescription>
+    <Description>genericRadio active</Description>
+    <ExportIDWithDescription>3010 - genericRadio active</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>3011</ExportID>
-    <Description>genericRadio FM/AM aktive or Autotune</Description>
-    <ExportIDWithDescription>3011 - genericRadio FM/AM aktive or Autotune</ExportIDWithDescription>
+    <Description>genericRadio FM/AM active</Description>
+    <ExportIDWithDescription>3011 - genericRadio FM/AM active</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>3012</ExportID>
+    <Description>genericRadio Squelch active</Description>
+    <ExportIDWithDescription>3012 - genericRadio Squelch active</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>3013</ExportID>
+    <Description>genericRadio Autotune active</Description>
+    <ExportIDWithDescription>3013 - genericRadio Autotune active</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <!-- ELECTRICS POWER -->
@@ -3011,7 +3023,7 @@
     <ID>268</ID>
     <DeviceID>1000</DeviceID>
     <ButtonID>8</ButtonID>
-    <Discription>genericRadio FM/AM Button or Autotune</Discription>
+    <Discription>genericRadio FM/AM Button</Discription>
     <DcsID>0</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
@@ -3022,6 +3034,14 @@
     <Discription>genericRadio Power Button</Discription>
     <DcsID>0</DcsID>
     <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>270</ID>
+    <DeviceID>1000</DeviceID>
+    <ButtonID>6</ButtonID>
+    <Discription>genericRadio Autotune Button</Discription>
+    <Type>Switch</Type>
+    <DcsID>0</DcsID>
   </Clickabledata>
   <!-- Devisex -->
   <Devices>
