@@ -4,14 +4,14 @@
   <description asmv2:publisher="Heinz-Joerg Puhlmann" asmv2:product="D.A.C. - DCS Arcaze Communicator" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <deployment install="true" mapFileExtensions="true" />
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="DAC.exe.manifest" size="7943">
+    <dependentAssembly dependencyType="install" codebase="DAC.exe.manifest" size="8705">
       <assemblyIdentity name="DAC.exe" version="1.0.0.0" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="x86" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>cwO1+FkUpUlm5SUdYc8ZloCtR5c=</dsig:DigestValue>
+        <dsig:DigestValue>I3yHkLmP+2t+iZklPZ/2chM2V8o=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
