@@ -32,74 +32,74 @@
   </DCS_ID>
   <DCS_ID>
     <ExportID>617</ExportID>
-    <Description>lamp_ELEC_GenOff</Description>
-    <ExportIDWithDescription>617 - lamp_ELEC_GenOff</ExportIDWithDescription>
+    <Description>ELEC_GenOff</Description>
+    <ExportIDWithDescription>617 - ELEC_GenOff</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>610</ExportID>
-    <Description>lamp_ELEC_MainInstInverterOffSelectAlt</Description>
-    <ExportIDWithDescription>610 - lamp_ELEC_MainInstInverterOffSelectAlt</ExportIDWithDescription>
+    <Description>ELEC_MainInstInverterOffSelectAlt</Description>
+    <ExportIDWithDescription>610 - ELEC_MainInstInverterOffSelectAlt</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>611</ExportID>
-    <Description>lamp_ELEC_BothInstInvertersOff</Description>
-    <ExportIDWithDescription>611 - lamp_ELEC_BothInstInvertersOff</ExportIDWithDescription>
+    <Description>ELEC_BothInstInvertersOff</Description>
+    <ExportIDWithDescription>611 - ELEC_BothInstInvertersOff</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>612</ExportID>
-    <Description>lamp_ELEC_MainRadarInverterOff</Description>
-    <ExportIDWithDescription>612 - lamp_ELEC_MainRadarInverterOff</ExportIDWithDescription>
+    <Description>ELEC_MainRadarInverterOff</Description>
+    <ExportIDWithDescription>612 - ELEC_MainRadarInverterOff</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>614</ExportID>
-    <Description>lamp_HYDRO_AltFltContSysOper</Description>
-    <ExportIDWithDescription>614 - lamp_HYDRO_AltFltContSysOper</ExportIDWithDescription>
+    <Description>HYDRO_AltFltContSysOper</Description>
+    <ExportIDWithDescription>614 - HYDRO_AltFltContSysOper</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>39</ExportID>
-    <Description>lamp_HYDRO_LeftGear</Description>
-    <ExportIDWithDescription>39 - lamp_HYDRO_LeftGear</ExportIDWithDescription>
+    <Description>HYDRO_LeftGear</Description>
+    <ExportIDWithDescription>39 - HYDRO_LeftGear</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>41</ExportID>
-    <Description>lamp_HYDRO_RightGear</Description>
-    <ExportIDWithDescription>41 - lamp_HYDRO_RightGear</ExportIDWithDescription>
+    <Description>HYDRO_RightGear</Description>
+    <ExportIDWithDescription>41 - HYDRO_RightGear</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>40</ExportID>
-    <Description>lamp_HYDRO_NoseGear</Description>
-    <ExportIDWithDescription>40 - lamp_HYDRO_NoseGear</ExportIDWithDescription>
+    <Description>HYDRO_NoseGear</Description>
+    <ExportIDWithDescription>40 - HYDRO_NoseGear</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>625</ExportID>
-    <Description>lamp_FUEL_OutbdTanksEmpty</Description>
-    <ExportIDWithDescription>625 - lamp_FUEL_OutbdTanksEmpty</ExportIDWithDescription>
+    <Description>FUEL_OutbdTanksEmpty</Description>
+    <ExportIDWithDescription>625 - FUEL_OutbdTanksEmpty</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>615</ExportID>
-    <Description>lamp_FIRE_DETECTION_FwdFireWarning</Description>
-    <ExportIDWithDescription>615 - lamp_FIRE_DETECTION_FwdFireWarning</ExportIDWithDescription>
+    <Description>FIRE_DETECTION_FwdFireWarning</Description>
+    <ExportIDWithDescription>615 - FIRE_DETECTION_FwdFireWarning</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>616</ExportID>
-    <Description>lamp_FIRE_DETECTION_AftFireWarning</Description>
-    <ExportIDWithDescription>616 - lamp_FIRE_DETECTION_AftFireWarning</ExportIDWithDescription>
+    <Description>FIRE_DETECTION_AftFireWarning</Description>
+    <ExportIDWithDescription>616 - FIRE_DETECTION_AftFireWarning</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>613</ExportID>
-    <Description>lamp_CONTROL_TakeOffPosInd</Description>
-    <ExportIDWithDescription>613 - lamp_CONTROL_TakeOffPosInd</ExportIDWithDescription>
+    <Description>CONTROL_TakeOffPosInd</Description>
+    <ExportIDWithDescription>613 - CONTROL_TakeOffPosInd</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <Clickabledata>
@@ -114,7 +114,15 @@
     <ID>729</ID>
     <DeviceID>25</DeviceID>
     <ButtonID>8</ButtonID>
-    <Discription>Emergency Jettison</Discription>
+    <Discription>Emergency Jettison Handle, IN/RELEASE ALL(LMB)</Discription>
+    <DcsID>818</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>730</ID>
+    <DeviceID>25</DeviceID>
+    <ButtonID>18</ButtonID>
+    <Discription>Emergency Jettison Handle, RELEASE OUTBD ONLY(RMB)</Discription>
     <DcsID>818</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
@@ -1086,11 +1094,6 @@
     <DcsID>727</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
-
-
-
-
-
   <Clickabledata>
     <ID>862</ID>
     <DeviceID>5</DeviceID>
@@ -1246,13 +1249,29 @@
   <Clickabledata>
     <ID>885</ID>
     <DeviceID>5</DeviceID>
+    <ButtonID>53</ButtonID>
+    <Discription>G-Limit Light - Push to test</Discription>
+    <DcsID>225</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>886</ID>
+    <DeviceID>5</DeviceID>
+    <ButtonID>54</ButtonID>
+    <Discription>G-Limit Light - Rotate to adjust brightness {0.0,1.0} in 0.02 steps</Discription>
+    <DcsID>226</DcsID>
+    <Type>Rotary</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>887</ID>
+    <DeviceID>5</DeviceID>
     <ButtonID>23</ButtonID>
     <Discription>Rocket Intervalometer</Discription>
     <DcsID>1001</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
-    <ID>886</ID>
+    <ID>888</ID>
     <DeviceID>5</DeviceID>
     <ButtonID>24</ButtonID>
     <Discription>Rocket Intervalometer</Discription>
@@ -1379,21 +1398,4 @@
     <DeviceID>30</DeviceID>
     <Discription>INTERCOM</Discription>
   </Devices>
-  <Devices>
-    <DeviceID>31</DeviceID>
-    <Discription>ARCADE</Discription>
-  </Devices>
-  <ADC>
-    <ID>0</ID>
-    <Active>true</Active>
-    <Init>false</Init>
-    <Arcaze>Arcaze V5.65 (000461000000)</Arcaze>
-    <Channel>0</Channel>
-    <MinValue>0.0</MinValue>
-    <MaxValue>1.0</MaxValue>
-    <ReadValue>162</ReadValue>
-    <SendValue>0,158203125</SendValue>
-    <OldValue>162</OldValue>
-    <Target>830</Target>
-  </ADC>
 </DTADataSet>
