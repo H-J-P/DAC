@@ -1,4 +1,4 @@
-<?xml version="1.0" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <DTADataSet>
     <!-- WeaponStatusPanel -->
   <DCS_ID>
@@ -274,8 +274,20 @@
   <!-- FuelQuantityIndicator -->
   <DCS_ID>
     <ExportID>300</ExportID>
-    <Description>Total fuel</Description>
-    <ExportIDWithDescription>300 - Total fuel</ExportIDWithDescription>
+    <Description>Fuel (left)</Description>
+    <ExportIDWithDescription>300 - Fuel (left)</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>301</ExportID>
+    <Description>Fuel (right)</Description>
+    <ExportIDWithDescription>301 - Fuel (right)</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>302</ExportID>
+    <Description>Fuel (total)</Description>
+    <ExportIDWithDescription>302 - Fuel (total)</ExportIDWithDescription>
     <Type>Display</Type>
   </DCS_ID>
   <!-- RWRlite -->
@@ -546,5 +558,29 @@
     <Description>Flare</Description>
     <ExportIDWithDescription>801 - Flare</ExportIDWithDescription>
     <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>802</ExportID>
+    <Description>Chaff (blink)</Description>
+    <ExportIDWithDescription>802 - Chaff (blink)</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>803</ExportID>
+    <Description>Flare (blink)</Description>
+    <ExportIDWithDescription>803 - Flare (blink)</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>804</ExportID>
+    <Description>Chaff (minimum)</Description>
+    <ExportIDWithDescription>804 - Chaff (minimum)</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>805</ExportID>
+    <Description>Flare (minimum)</Description>
+    <ExportIDWithDescription>805 - Flare (minimum)</ExportIDWithDescription>
+    <Type>Lamp</Type>
   </DCS_ID>
 </DTADataSet>
