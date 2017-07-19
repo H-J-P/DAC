@@ -3701,7 +3701,7 @@
     <DeviceID>45</DeviceID>
     <ButtonID>1</ButtonID>
     <Discription>HSI - Heading Set Knob</Discription>
-    <Type>Switch</Type>
+    <Type>Rotary</Type>
     <DcsID>45</DcsID>
   </Clickabledata>
   <Clickabledata>
@@ -3709,7 +3709,7 @@
     <DeviceID>45</DeviceID>
     <ButtonID>2</ButtonID>
     <Discription>HSI - Course Set Knob</Discription>
-    <Type>Switch</Type>
+    <Type>Rotary</Type>
     <DcsID>44</DcsID>
   </Clickabledata>
   <Clickabledata>

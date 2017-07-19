@@ -1,627 +1,2145 @@
 <?xml version="1.0" standalone="yes"?>
 <DTADataSet>
+  <LEDs>
+    <Active>true</Active>
+    <Port>Port A</Port>
+    <Pin>Pin-18</Pin>
+    <Value>0</Value>
+    <Arcaze>000462000000</Arcaze>
+    <ModulID>0</ModulID>
+    <Resolution>1</Resolution>
+    <ModulTypeID>Arcaze USB</ModulTypeID>
+    <Init>false</Init>
+    <dimmValue>0</dimmValue>
+    <dimmMode>0</dimmMode>
+    <dimmInterval>0</dimmInterval>
+    <Test>false</Test>
+    <Reverse>false</Reverse>
+    <deviceIndex>0</deviceIndex>
+    <LEDMax>1.0</LEDMax>
+  </LEDs>
+  <LEDs>
+    <Active>true</Active>
+    <Port>Port A</Port>
+    <Pin>Pin-17</Pin>
+    <Value>0</Value>
+    <Arcaze>000462000000</Arcaze>
+    <ModulID>0</ModulID>
+    <Resolution>1</Resolution>
+    <ModulTypeID>Arcaze USB</ModulTypeID>
+    <Init>false</Init>
+    <dimmValue>0</dimmValue>
+    <dimmMode>0</dimmMode>
+    <dimmInterval>0</dimmInterval>
+    <Test>false</Test>
+    <Reverse>false</Reverse>
+    <deviceIndex>0</deviceIndex>
+    <LEDMax>1.0</LEDMax>
+  </LEDs>
+  <LEDs>
+    <Active>true</Active>
+    <Port>Port A</Port>
+    <Pin>Pin-16</Pin>
+    <Value>0</Value>
+    <Arcaze>000462000000</Arcaze>
+    <ModulID>0</ModulID>
+    <Resolution>1</Resolution>
+    <ModulTypeID>Arcaze USB</ModulTypeID>
+    <Init>false</Init>
+    <dimmValue>0</dimmValue>
+    <dimmMode>0</dimmMode>
+    <dimmInterval>0</dimmInterval>
+    <Test>false</Test>
+    <Reverse>false</Reverse>
+    <deviceIndex>0</deviceIndex>
+    <LEDMax>1.0</LEDMax>
+  </LEDs>
+  <LEDs>
+    <Active>true</Active>
+    <Port>Port A</Port>
+    <Pin>Pin-15</Pin>
+    <Value>0</Value>
+    <Arcaze>000462000000</Arcaze>
+    <ModulID>0</ModulID>
+    <Resolution>1</Resolution>
+    <ModulTypeID>Arcaze USB</ModulTypeID>
+    <Init>false</Init>
+    <dimmValue>0</dimmValue>
+    <dimmMode>0</dimmMode>
+    <dimmInterval>0</dimmInterval>
+    <Test>false</Test>
+    <Reverse>false</Reverse>
+    <deviceIndex>0</deviceIndex>
+    <LEDMax>1.0</LEDMax>
+  </LEDs>
+  <LEDs>
+    <Active>true</Active>
+    <Port>Port B</Port>
+    <Pin>Pin-1</Pin>
+    <Value>0</Value>
+    <Arcaze>000462000000</Arcaze>
+    <ModulID>0</ModulID>
+    <Resolution>1</Resolution>
+    <ModulTypeID>Arcaze USB</ModulTypeID>
+    <Init>false</Init>
+    <dimmValue>0</dimmValue>
+    <dimmMode>0</dimmMode>
+    <dimmInterval>0</dimmInterval>
+    <Test>false</Test>
+    <Reverse>false</Reverse>
+    <deviceIndex>0</deviceIndex>
+    <LEDMax>1.0</LEDMax>
+  </LEDs>
+  <LEDs>
+    <Active>true</Active>
+    <Port>Port B</Port>
+    <Pin>Pin-2</Pin>
+    <Value>0</Value>
+    <Arcaze>000462000000</Arcaze>
+    <ModulID>0</ModulID>
+    <Resolution>1</Resolution>
+    <ModulTypeID>Arcaze USB</ModulTypeID>
+    <Init>false</Init>
+    <dimmValue>0</dimmValue>
+    <dimmMode>0</dimmMode>
+    <dimmInterval>0</dimmInterval>
+    <Test>false</Test>
+    <Reverse>false</Reverse>
+    <deviceIndex>0</deviceIndex>
+    <LEDMax>1.0</LEDMax>
+  </LEDs>
+  <LEDs>
+    <Active>true</Active>
+    <Port>Port B</Port>
+    <Pin>Pin-3</Pin>
+    <Value>0</Value>
+    <Arcaze>000462000000</Arcaze>
+    <ModulID>0</ModulID>
+    <Resolution>1</Resolution>
+    <ModulTypeID>Arcaze USB</ModulTypeID>
+    <Init>false</Init>
+    <dimmValue>0</dimmValue>
+    <dimmMode>0</dimmMode>
+    <dimmInterval>0</dimmInterval>
+    <Test>false</Test>
+    <Reverse>false</Reverse>
+    <deviceIndex>0</deviceIndex>
+    <LEDMax>1.0</LEDMax>
+  </LEDs>
+  <LEDs>
+    <Active>true</Active>
+    <Port>Port B</Port>
+    <Pin>Pin-4</Pin>
+    <Value>0</Value>
+    <Arcaze>000462000000</Arcaze>
+    <ModulID>0</ModulID>
+    <Resolution>1</Resolution>
+    <ModulTypeID>Arcaze USB</ModulTypeID>
+    <Init>false</Init>
+    <dimmValue>0</dimmValue>
+    <dimmMode>0</dimmMode>
+    <dimmInterval>0</dimmInterval>
+    <Test>false</Test>
+    <Reverse>false</Reverse>
+    <deviceIndex>0</deviceIndex>
+    <LEDMax>1.0</LEDMax>
+  </LEDs>
+  <LEDs>
+    <Active>true</Active>
+    <Port>Port B</Port>
+    <Pin>Pin-1</Pin>
+    <Value>0</Value>
+    <Arcaze>000465300000</Arcaze>
+    <ModulID>0</ModulID>
+    <Resolution>1</Resolution>
+    <ModulTypeID>Arcaze USB</ModulTypeID>
+    <Init>false</Init>
+    <dimmValue>0</dimmValue>
+    <dimmMode>0</dimmMode>
+    <dimmInterval>0</dimmInterval>
+    <Test>false</Test>
+    <Reverse>false</Reverse>
+    <deviceIndex>0</deviceIndex>
+    <LEDMax>1.0</LEDMax>
+  </LEDs>
+  <LEDs>
+    <Active>true</Active>
+    <Port>Port B</Port>
+    <Pin>Pin-2</Pin>
+    <Value>0</Value>
+    <Arcaze>000465300000</Arcaze>
+    <ModulID>0</ModulID>
+    <Resolution>1</Resolution>
+    <ModulTypeID>Arcaze USB</ModulTypeID>
+    <Init>false</Init>
+    <dimmValue>0</dimmValue>
+    <dimmMode>0</dimmMode>
+    <dimmInterval>0</dimmInterval>
+    <Test>false</Test>
+    <Reverse>false</Reverse>
+    <deviceIndex>0</deviceIndex>
+    <LEDMax>1.0</LEDMax>
+  </LEDs>
+  <LEDs>
+    <Active>true</Active>
+    <Port>Port B</Port>
+    <Pin>Pin-3</Pin>
+    <Value>0</Value>
+    <Arcaze>000465300000</Arcaze>
+    <ModulID>0</ModulID>
+    <Resolution>1</Resolution>
+    <ModulTypeID>Arcaze USB</ModulTypeID>
+    <Init>false</Init>
+    <dimmValue>0</dimmValue>
+    <dimmMode>0</dimmMode>
+    <dimmInterval>0</dimmInterval>
+    <Test>false</Test>
+    <Reverse>false</Reverse>
+    <deviceIndex>0</deviceIndex>
+    <LEDMax>1.0</LEDMax>
+  </LEDs>
+  <LEDs>
+    <Active>true</Active>
+    <Port>Port B</Port>
+    <Pin>Pin-4</Pin>
+    <Value>0</Value>
+    <Arcaze>000465300000</Arcaze>
+    <ModulID>0</ModulID>
+    <Resolution>1</Resolution>
+    <ModulTypeID>Arcaze USB</ModulTypeID>
+    <Init>false</Init>
+    <dimmValue>0</dimmValue>
+    <dimmMode>0</dimmMode>
+    <dimmInterval>0</dimmInterval>
+    <Test>false</Test>
+    <Reverse>false</Reverse>
+    <deviceIndex>0</deviceIndex>
+    <LEDMax>1.0</LEDMax>
+  </LEDs>
+  <LEDs>
+    <Active>true</Active>
+    <Port>Port B</Port>
+    <Pin>Pin-17</Pin>
+    <Value>0</Value>
+    <Arcaze>000465300000</Arcaze>
+    <ModulID>0</ModulID>
+    <Resolution>1</Resolution>
+    <ModulTypeID>Arcaze USB</ModulTypeID>
+    <Init>false</Init>
+    <dimmValue>0</dimmValue>
+    <dimmMode>0</dimmMode>
+    <dimmInterval>0</dimmInterval>
+    <Test>false</Test>
+    <Reverse>false</Reverse>
+    <deviceIndex>0</deviceIndex>
+    <LEDMax>1.0</LEDMax>
+  </LEDs>
+  <LEDs>
+    <Active>true</Active>
+    <Port>Port B</Port>
+    <Pin>Pin-18</Pin>
+    <Value>0</Value>
+    <Arcaze>000465300000</Arcaze>
+    <ModulID>0</ModulID>
+    <Resolution>1</Resolution>
+    <ModulTypeID>Arcaze USB</ModulTypeID>
+    <Init>false</Init>
+    <dimmValue>0</dimmValue>
+    <dimmMode>0</dimmMode>
+    <dimmInterval>0</dimmInterval>
+    <Test>false</Test>
+    <Reverse>false</Reverse>
+    <deviceIndex>0</deviceIndex>
+    <LEDMax>1.0</LEDMax>
+  </LEDs>
+  <LEDs>
+    <Active>true</Active>
+    <Port>Port B</Port>
+    <Pin>Pin-19</Pin>
+    <Value>0</Value>
+    <Arcaze>000465300000</Arcaze>
+    <ModulID>0</ModulID>
+    <Resolution>1</Resolution>
+    <ModulTypeID>Arcaze USB</ModulTypeID>
+    <Init>false</Init>
+    <dimmValue>0</dimmValue>
+    <dimmMode>0</dimmMode>
+    <dimmInterval>0</dimmInterval>
+    <Test>false</Test>
+    <Reverse>false</Reverse>
+    <deviceIndex>0</deviceIndex>
+    <LEDMax>1.0</LEDMax>
+  </LEDs>
+  <LEDs>
+    <Active>true</Active>
+    <Port>Port B</Port>
+    <Pin>Pin-20</Pin>
+    <Value>0</Value>
+    <Arcaze>000465300000</Arcaze>
+    <ModulID>0</ModulID>
+    <Resolution>1</Resolution>
+    <ModulTypeID>Arcaze USB</ModulTypeID>
+    <Init>false</Init>
+    <dimmValue>0</dimmValue>
+    <dimmMode>0</dimmMode>
+    <dimmInterval>0</dimmInterval>
+    <Test>false</Test>
+    <Reverse>false</Reverse>
+    <deviceIndex>0</deviceIndex>
+    <LEDMax>1.0</LEDMax>
+  </LEDs>
+  <LEDs>
+    <Active>true</Active>
+    <Port>Port A</Port>
+    <Pin>Pin-1</Pin>
+    <Value>0</Value>
+    <Arcaze>000467900000</Arcaze>
+    <ModulID>0</ModulID>
+    <Resolution>1</Resolution>
+    <ModulTypeID>Arcaze USB</ModulTypeID>
+    <Init>false</Init>
+    <dimmValue>0</dimmValue>
+    <dimmMode>0</dimmMode>
+    <dimmInterval>0</dimmInterval>
+    <Test>false</Test>
+    <Reverse>false</Reverse>
+    <deviceIndex>0</deviceIndex>
+    <LEDMax>1.0</LEDMax>
+  </LEDs>
+  <LEDs>
+    <Active>true</Active>
+    <Port>Port A</Port>
+    <Pin>Pin-2</Pin>
+    <Value>0</Value>
+    <Arcaze>000467900000</Arcaze>
+    <ModulID>0</ModulID>
+    <Resolution>1</Resolution>
+    <ModulTypeID>Arcaze USB</ModulTypeID>
+    <Init>false</Init>
+    <dimmValue>0</dimmValue>
+    <dimmMode>0</dimmMode>
+    <dimmInterval>0</dimmInterval>
+    <Test>false</Test>
+    <Reverse>false</Reverse>
+    <deviceIndex>0</deviceIndex>
+    <LEDMax>1.0</LEDMax>
+  </LEDs>
+  <LEDs>
+    <Active>true</Active>
+    <Port>Port A</Port>
+    <Pin>Pin-3</Pin>
+    <Value>0</Value>
+    <Arcaze>000467900000</Arcaze>
+    <ModulID>0</ModulID>
+    <Resolution>1</Resolution>
+    <ModulTypeID>Arcaze USB</ModulTypeID>
+    <Init>false</Init>
+    <dimmValue>0</dimmValue>
+    <dimmMode>0</dimmMode>
+    <dimmInterval>0</dimmInterval>
+    <Test>false</Test>
+    <Reverse>false</Reverse>
+    <deviceIndex>0</deviceIndex>
+    <LEDMax>1.0</LEDMax>
+  </LEDs>
+  <LEDs>
+    <Active>true</Active>
+    <Port>Port A</Port>
+    <Pin>Pin-4</Pin>
+    <Value>0</Value>
+    <Arcaze>000467900000</Arcaze>
+    <ModulID>0</ModulID>
+    <Resolution>1</Resolution>
+    <ModulTypeID>Arcaze USB</ModulTypeID>
+    <Init>false</Init>
+    <dimmValue>0</dimmValue>
+    <dimmMode>0</dimmMode>
+    <dimmInterval>0</dimmInterval>
+    <Test>false</Test>
+    <Reverse>false</Reverse>
+    <deviceIndex>0</deviceIndex>
+    <LEDMax>1.0</LEDMax>
+  </LEDs>
+  <LEDs>
+    <Active>true</Active>
+    <Port>Port A</Port>
+    <Pin>Pin-5</Pin>
+    <Value>0</Value>
+    <Arcaze>000467900000</Arcaze>
+    <ModulID>0</ModulID>
+    <Resolution>1</Resolution>
+    <ModulTypeID>Arcaze USB</ModulTypeID>
+    <Init>false</Init>
+    <dimmValue>0</dimmValue>
+    <dimmMode>0</dimmMode>
+    <dimmInterval>0</dimmInterval>
+    <Test>false</Test>
+    <Reverse>false</Reverse>
+    <deviceIndex>0</deviceIndex>
+    <LEDMax>1.0</LEDMax>
+  </LEDs>
+  <LEDs>
+    <Active>true</Active>
+    <Port>Port A</Port>
+    <Pin>Pin-6</Pin>
+    <Value>0</Value>
+    <Arcaze>000467900000</Arcaze>
+    <ModulID>0</ModulID>
+    <Resolution>1</Resolution>
+    <ModulTypeID>Arcaze USB</ModulTypeID>
+    <Init>false</Init>
+    <dimmValue>0</dimmValue>
+    <dimmMode>0</dimmMode>
+    <dimmInterval>0</dimmInterval>
+    <Test>false</Test>
+    <Reverse>false</Reverse>
+    <deviceIndex>0</deviceIndex>
+    <LEDMax>1.0</LEDMax>
+  </LEDs>
+  <LEDs>
+    <Active>true</Active>
+    <Port>Port B</Port>
+    <Pin>Pin-11</Pin>
+    <Value>0</Value>
+    <Arcaze>000467900000</Arcaze>
+    <ModulID>0</ModulID>
+    <Resolution>1</Resolution>
+    <ModulTypeID>Arcaze USB</ModulTypeID>
+    <Init>false</Init>
+    <dimmValue>0</dimmValue>
+    <dimmMode>0</dimmMode>
+    <dimmInterval>0</dimmInterval>
+    <Test>false</Test>
+    <Reverse>false</Reverse>
+    <deviceIndex>0</deviceIndex>
+    <LEDMax>1.0</LEDMax>
+  </LEDs>
+  <LEDs>
+    <Active>true</Active>
+    <Port>Port B</Port>
+    <Pin>Pin-12</Pin>
+    <Value>0</Value>
+    <Arcaze>000467900000</Arcaze>
+    <ModulID>0</ModulID>
+    <Resolution>1</Resolution>
+    <ModulTypeID>Arcaze USB</ModulTypeID>
+    <Init>false</Init>
+    <dimmValue>0</dimmValue>
+    <dimmMode>0</dimmMode>
+    <dimmInterval>0</dimmInterval>
+    <Test>false</Test>
+    <Reverse>false</Reverse>
+    <deviceIndex>0</deviceIndex>
+    <LEDMax>1.0</LEDMax>
+  </LEDs>
+  <LEDs>
+    <Active>true</Active>
+    <Port>Port B</Port>
+    <Pin>Pin-13</Pin>
+    <Value>0</Value>
+    <Arcaze>000467900000</Arcaze>
+    <ModulID>0</ModulID>
+    <Resolution>1</Resolution>
+    <ModulTypeID>Arcaze USB</ModulTypeID>
+    <Init>false</Init>
+    <dimmValue>0</dimmValue>
+    <dimmMode>0</dimmMode>
+    <dimmInterval>0</dimmInterval>
+    <Test>false</Test>
+    <Reverse>false</Reverse>
+    <deviceIndex>0</deviceIndex>
+    <LEDMax>1.0</LEDMax>
+  </LEDs>
+  <LEDs>
+    <Active>true</Active>
+    <Port>Port A</Port>
+    <Pin>Pin-19</Pin>
+    <Value>0</Value>
+    <Arcaze>000467900000</Arcaze>
+    <ModulID>0</ModulID>
+    <Resolution>1</Resolution>
+    <ModulTypeID>Arcaze USB</ModulTypeID>
+    <Init>false</Init>
+    <dimmValue>0</dimmValue>
+    <dimmMode>0</dimmMode>
+    <dimmInterval>0</dimmInterval>
+    <Test>false</Test>
+    <Reverse>false</Reverse>
+    <deviceIndex>0</deviceIndex>
+    <LEDMax>1.0</LEDMax>
+  </LEDs>
+  <LEDs>
+    <Active>true</Active>
+    <Port>Port A</Port>
+    <Pin>Pin-20</Pin>
+    <Value>1</Value>
+    <Arcaze>000467900000</Arcaze>
+    <ModulID>0</ModulID>
+    <Resolution>1</Resolution>
+    <ModulTypeID>Arcaze USB</ModulTypeID>
+    <Init>false</Init>
+    <dimmValue>0</dimmValue>
+    <dimmMode>0</dimmMode>
+    <dimmInterval>0</dimmInterval>
+    <Test>false</Test>
+    <Reverse>false</Reverse>
+    <deviceIndex>0</deviceIndex>
+    <LEDMax>1.0</LEDMax>
+  </LEDs>
+  <LEDs>
+    <Active>true</Active>
+    <Port>Port B</Port>
+    <Pin>Pin-19</Pin>
+    <Value>1</Value>
+    <Arcaze>000467900000</Arcaze>
+    <ModulID>0</ModulID>
+    <Resolution>1</Resolution>
+    <ModulTypeID>Arcaze USB</ModulTypeID>
+    <Init>false</Init>
+    <dimmValue>0</dimmValue>
+    <dimmMode>0</dimmMode>
+    <dimmInterval>0</dimmInterval>
+    <Test>false</Test>
+    <Reverse>false</Reverse>
+    <deviceIndex>0</deviceIndex>
+    <LEDMax>1.0</LEDMax>
+  </LEDs>
+  <LEDs>
+    <Active>true</Active>
+    <Port>Port B</Port>
+    <Pin>Pin-20</Pin>
+    <Value>1</Value>
+    <Arcaze>000467900000</Arcaze>
+    <ModulID>0</ModulID>
+    <Resolution>1</Resolution>
+    <ModulTypeID>Arcaze USB</ModulTypeID>
+    <Init>false</Init>
+    <dimmValue>0</dimmValue>
+    <dimmMode>0</dimmMode>
+    <dimmInterval>0</dimmInterval>
+    <Test>false</Test>
+    <Reverse>false</Reverse>
+    <deviceIndex>0</deviceIndex>
+    <LEDMax>1.0</LEDMax>
+  </LEDs>
+  <Switches>
+    <Active>true</Active>
+    <Arcaze>000462000000</Arcaze>
+    <Port>Port A</Port>
+    <Pin>Pin-1</Pin>
+    <Type>Switch</Type>
+    <Init>false</Init>
+    <Channel>0</Channel>
+    <ValueOff>0.0</ValueOff>
+    <ValueON>1.0</ValueON>
+    <ValueDez>0</ValueDez>
+    <Reverse>true</Reverse>
+    <SendNotOff>false</SendNotOff>
+  </Switches>
+  <Switches>
+    <Active>true</Active>
+    <Arcaze>000462000000</Arcaze>
+    <Port>Port A</Port>
+    <Pin>Pin-2</Pin>
+    <Type>Switch</Type>
+    <Init>false</Init>
+    <Channel>0</Channel>
+    <ValueOff>0.0</ValueOff>
+    <ValueON>1.0</ValueON>
+    <ValueDez>0</ValueDez>
+    <Reverse>true</Reverse>
+    <SendNotOff>false</SendNotOff>
+  </Switches>
+  <Switches>
+    <Active>true</Active>
+    <Arcaze>000462000000</Arcaze>
+    <Port>Port A</Port>
+    <Pin>Pin-3</Pin>
+    <Type>Switch</Type>
+    <Init>false</Init>
+    <Channel>0</Channel>
+    <ValueOff>0.0</ValueOff>
+    <ValueON>1.0</ValueON>
+    <ValueDez>0</ValueDez>
+    <Reverse>true</Reverse>
+    <SendNotOff>false</SendNotOff>
+  </Switches>
+  <Switches>
+    <Active>true</Active>
+    <Arcaze>000462000000</Arcaze>
+    <Port>Port A</Port>
+    <Pin>Pin-4</Pin>
+    <Type>Switch</Type>
+    <Init>false</Init>
+    <Channel>0</Channel>
+    <ValueOff>0.0</ValueOff>
+    <ValueON>1.0</ValueON>
+    <ValueDez>0</ValueDez>
+    <Reverse>true</Reverse>
+    <SendNotOff>false</SendNotOff>
+  </Switches>
+  <Switches>
+    <Active>true</Active>
+    <Arcaze>000462000000</Arcaze>
+    <Port>Port A</Port>
+    <Pin>Pin-5</Pin>
+    <Type>Switch</Type>
+    <Init>false</Init>
+    <Channel>0</Channel>
+    <ValueOff>0.0</ValueOff>
+    <ValueON>1.0</ValueON>
+    <ValueDez>0</ValueDez>
+    <Reverse>true</Reverse>
+    <SendNotOff>false</SendNotOff>
+  </Switches>
+  <Switches>
+    <Active>true</Active>
+    <Arcaze>000462000000</Arcaze>
+    <Port>Port A</Port>
+    <Pin>Pin-6</Pin>
+    <Type>Switch</Type>
+    <Init>false</Init>
+    <Channel>0</Channel>
+    <ValueOff>0.0</ValueOff>
+    <ValueON>1.0</ValueON>
+    <ValueDez>0</ValueDez>
+    <Reverse>true</Reverse>
+    <SendNotOff>false</SendNotOff>
+  </Switches>
+  <Switches>
+    <Active>true</Active>
+    <Arcaze>000462000000</Arcaze>
+    <Port>Port A</Port>
+    <Pin>Pin-7</Pin>
+    <Type>Switch</Type>
+    <Init>false</Init>
+    <Channel>0</Channel>
+    <ValueOff>0.0</ValueOff>
+    <ValueON>1.0</ValueON>
+    <ValueDez>0</ValueDez>
+    <Reverse>true</Reverse>
+    <SendNotOff>false</SendNotOff>
+  </Switches>
+  <Switches>
+    <Active>true</Active>
+    <Arcaze>000462000000</Arcaze>
+    <Port>Port A</Port>
+    <Pin>Pin-8</Pin>
+    <Type>Switch</Type>
+    <Init>false</Init>
+    <Channel>0</Channel>
+    <ValueOff>0.0</ValueOff>
+    <ValueON>1.0</ValueON>
+    <ValueDez>0</ValueDez>
+    <Reverse>true</Reverse>
+    <SendNotOff>false</SendNotOff>
+  </Switches>
+  <Switches>
+    <Active>true</Active>
+    <Arcaze>000462000000</Arcaze>
+    <Port>Port A</Port>
+    <Pin>Pin-9</Pin>
+    <Type>Switch</Type>
+    <Init>false</Init>
+    <Channel>0</Channel>
+    <ValueOff>0.0</ValueOff>
+    <ValueON>1.0</ValueON>
+    <ValueDez>0</ValueDez>
+    <Reverse>true</Reverse>
+    <SendNotOff>false</SendNotOff>
+  </Switches>
+  <Switches>
+    <Active>true</Active>
+    <Arcaze>000462000000</Arcaze>
+    <Port>Port A</Port>
+    <Pin>Pin-10</Pin>
+    <Type>Switch</Type>
+    <Init>false</Init>
+    <Channel>0</Channel>
+    <ValueOff>0.0</ValueOff>
+    <ValueON>1.0</ValueON>
+    <ValueDez>0</ValueDez>
+    <Reverse>true</Reverse>
+    <SendNotOff>false</SendNotOff>
+  </Switches>
+  <Switches>
+    <Active>true</Active>
+    <Arcaze>000462000000</Arcaze>
+    <Port>Port A</Port>
+    <Pin>Pin-11</Pin>
+    <Type>Switch</Type>
+    <Init>false</Init>
+    <Channel>0</Channel>
+    <ValueOff>0.0</ValueOff>
+    <ValueON>1.0</ValueON>
+    <ValueDez>0</ValueDez>
+    <Reverse>true</Reverse>
+    <SendNotOff>false</SendNotOff>
+  </Switches>
+  <Switches>
+    <Active>true</Active>
+    <Arcaze>000462000000</Arcaze>
+    <Port>Port A</Port>
+    <Pin>Pin-12</Pin>
+    <Type>Switch</Type>
+    <Init>false</Init>
+    <Channel>0</Channel>
+    <ValueOff>0.0</ValueOff>
+    <ValueON>1.0</ValueON>
+    <ValueDez>0</ValueDez>
+    <Reverse>true</Reverse>
+    <SendNotOff>false</SendNotOff>
+  </Switches>
+  <Switches>
+    <Active>true</Active>
+    <Arcaze>000462000000</Arcaze>
+    <Port>Port A</Port>
+    <Pin>Pin-13</Pin>
+    <Type>Switch</Type>
+    <Init>false</Init>
+    <Channel>0</Channel>
+    <ValueOff>0.0</ValueOff>
+    <ValueON>1.0</ValueON>
+    <ValueDez>0</ValueDez>
+    <Reverse>true</Reverse>
+    <SendNotOff>false</SendNotOff>
+  </Switches>
+  <Switches>
+    <Active>true</Active>
+    <Arcaze>000462000000</Arcaze>
+    <Port>Port A</Port>
+    <Pin>Pin-14</Pin>
+    <Type>Switch</Type>
+    <Init>false</Init>
+    <Channel>0</Channel>
+    <ValueOff>0.0</ValueOff>
+    <ValueON>1.0</ValueON>
+    <ValueDez>0</ValueDez>
+    <Reverse>true</Reverse>
+    <SendNotOff>false</SendNotOff>
+  </Switches>
+  <Switches>
+    <Active>true</Active>
+    <Arcaze>000462000000</Arcaze>
+    <Port>Port B</Port>
+    <Pin>Pin-5</Pin>
+    <Type>Switch</Type>
+    <Init>false</Init>
+    <Channel>0</Channel>
+    <ValueOff>0.0</ValueOff>
+    <ValueON>1.0</ValueON>
+    <ValueDez>0</ValueDez>
+    <Reverse>true</Reverse>
+    <SendNotOff>false</SendNotOff>
+  </Switches>
+  <Switches>
+    <Active>true</Active>
+    <Arcaze>000462000000</Arcaze>
+    <Port>Port B</Port>
+    <Pin>Pin-6</Pin>
+    <Type>Switch</Type>
+    <Init>false</Init>
+    <Channel>0</Channel>
+    <ValueOff>0.0</ValueOff>
+    <ValueON>1.0</ValueON>
+    <ValueDez>0</ValueDez>
+    <Reverse>true</Reverse>
+    <SendNotOff>false</SendNotOff>
+  </Switches>
+  <Switches>
+    <Active>true</Active>
+    <Arcaze>000462000000</Arcaze>
+    <Port>Port B</Port>
+    <Pin>Pin-7</Pin>
+    <Type>Switch</Type>
+    <Init>false</Init>
+    <Channel>0</Channel>
+    <ValueOff>0.0</ValueOff>
+    <ValueON>1.0</ValueON>
+    <ValueDez>0</ValueDez>
+    <Reverse>true</Reverse>
+    <SendNotOff>false</SendNotOff>
+  </Switches>
+  <Switches>
+    <Active>true</Active>
+    <Arcaze>000462000000</Arcaze>
+    <Port>Port B</Port>
+    <Pin>Pin-8</Pin>
+    <Type>Switch</Type>
+    <Init>false</Init>
+    <Channel>0</Channel>
+    <ValueOff>0.0</ValueOff>
+    <ValueON>1.0</ValueON>
+    <ValueDez>0</ValueDez>
+    <Reverse>true</Reverse>
+    <SendNotOff>false</SendNotOff>
+  </Switches>
+  <Switches>
+    <Active>true</Active>
+    <Arcaze>000462000000</Arcaze>
+    <Port>Port B</Port>
+    <Pin>Pin-9</Pin>
+    <Type>Switch</Type>
+    <Init>false</Init>
+    <Channel>0</Channel>
+    <ValueOff>0.0</ValueOff>
+    <ValueON>1.0</ValueON>
+    <ValueDez>0</ValueDez>
+    <Reverse>true</Reverse>
+    <SendNotOff>false</SendNotOff>
+  </Switches>
+  <Switches>
+    <Active>true</Active>
+    <Arcaze>000462000000</Arcaze>
+    <Port>Port B</Port>
+    <Pin>Pin-10</Pin>
+    <Type>Switch</Type>
+    <Init>false</Init>
+    <Channel>0</Channel>
+    <ValueOff>0.0</ValueOff>
+    <ValueON>1.0</ValueON>
+    <ValueDez>0</ValueDez>
+    <Reverse>true</Reverse>
+    <SendNotOff>false</SendNotOff>
+  </Switches>
+  <Switches>
+    <Active>true</Active>
+    <Arcaze>000462000000</Arcaze>
+    <Port>Port B</Port>
+    <Pin>Pin-11</Pin>
+    <Type>Switch</Type>
+    <Init>false</Init>
+    <Channel>0</Channel>
+    <ValueOff>0.0</ValueOff>
+    <ValueON>1.0</ValueON>
+    <ValueDez>0</ValueDez>
+    <Reverse>true</Reverse>
+    <SendNotOff>false</SendNotOff>
+  </Switches>
+  <Switches>
+    <Active>true</Active>
+    <Arcaze>000462000000</Arcaze>
+    <Port>Port B</Port>
+    <Pin>Pin-12</Pin>
+    <Type>Switch</Type>
+    <Init>false</Init>
+    <Channel>0</Channel>
+    <ValueOff>0.0</ValueOff>
+    <ValueON>1.0</ValueON>
+    <ValueDez>0</ValueDez>
+    <Reverse>true</Reverse>
+    <SendNotOff>false</SendNotOff>
+  </Switches>
+  <Switches>
+    <Active>true</Active>
+    <Arcaze>000462000000</Arcaze>
+    <Port>Port B</Port>
+    <Pin>Pin-13</Pin>
+    <Type>Switch</Type>
+    <Init>false</Init>
+    <Channel>0</Channel>
+    <ValueOff>0.0</ValueOff>
+    <ValueON>1.0</ValueON>
+    <ValueDez>0</ValueDez>
+    <Reverse>true</Reverse>
+    <SendNotOff>false</SendNotOff>
+  </Switches>
+  <Switches>
+    <Active>true</Active>
+    <Arcaze>000462000000</Arcaze>
+    <Port>Port B</Port>
+    <Pin>Pin-14</Pin>
+    <Type>Switch</Type>
+    <Init>false</Init>
+    <Channel>0</Channel>
+    <ValueOff>0.0</ValueOff>
+    <ValueON>1.0</ValueON>
+    <ValueDez>0</ValueDez>
+    <Reverse>true</Reverse>
+    <SendNotOff>false</SendNotOff>
+  </Switches>
+  <Switches>
+    <Active>true</Active>
+    <Arcaze>000462000000</Arcaze>
+    <Port>Port B</Port>
+    <Pin>Pin-15</Pin>
+    <Type>Switch</Type>
+    <Init>false</Init>
+    <Channel>0</Channel>
+    <ValueOff>0.0</ValueOff>
+    <ValueON>1.0</ValueON>
+    <ValueDez>0</ValueDez>
+    <Reverse>true</Reverse>
+    <SendNotOff>false</SendNotOff>
+  </Switches>
+  <Switches>
+    <Active>true</Active>
+    <Arcaze>000462000000</Arcaze>
+    <Port>Port B</Port>
+    <Pin>Pin-16</Pin>
+    <Type>Switch</Type>
+    <Init>false</Init>
+    <Channel>0</Channel>
+    <ValueOff>0.0</ValueOff>
+    <ValueON>1.0</ValueON>
+    <ValueDez>0</ValueDez>
+    <Reverse>true</Reverse>
+    <SendNotOff>false</SendNotOff>
+  </Switches>
+  <Switches>
+    <Active>true</Active>
+    <Arcaze>000462000000</Arcaze>
+    <Port>Port B</Port>
+    <Pin>Pin-17</Pin>
+    <Type>Switch</Type>
+    <Init>false</Init>
+    <Channel>0</Channel>
+    <ValueOff>0.0</ValueOff>
+    <ValueON>1.0</ValueON>
+    <ValueDez>0</ValueDez>
+    <Reverse>true</Reverse>
+    <SendNotOff>false</SendNotOff>
+  </Switches>
+  <Switches>
+    <Active>true</Active>
+    <Arcaze>000462000000</Arcaze>
+    <Port>Port B</Port>
+    <Pin>Pin-18</Pin>
+    <Type>Switch</Type>
+    <Init>false</Init>
+    <Channel>0</Channel>
+    <ValueOff>0.0</ValueOff>
+    <ValueON>1.0</ValueON>
+    <ValueDez>0</ValueDez>
+    <Reverse>true</Reverse>
+    <SendNotOff>false</SendNotOff>
+  </Switches>
+  <Switches>
+    <Active>true</Active>
+    <Arcaze>000465300000</Arcaze>
+    <Port>Port A</Port>
+    <Pin>Pin-1</Pin>
+    <Type>Switch</Type>
+    <Init>false</Init>
+    <Channel>0</Channel>
+    <ValueOff>0.0</ValueOff>
+    <ValueON>1.0</ValueON>
+    <ValueDez>0</ValueDez>
+    <Reverse>true</Reverse>
+    <SendNotOff>false</SendNotOff>
+  </Switches>
+  <Switches>
+    <Active>true</Active>
+    <Arcaze>000465300000</Arcaze>
+    <Port>Port A</Port>
+    <Pin>Pin-2</Pin>
+    <Type>Switch</Type>
+    <Init>false</Init>
+    <Channel>0</Channel>
+    <ValueOff>0.0</ValueOff>
+    <ValueON>1.0</ValueON>
+    <ValueDez>0</ValueDez>
+    <Reverse>true</Reverse>
+    <SendNotOff>false</SendNotOff>
+  </Switches>
+  <Switches>
+    <Active>true</Active>
+    <Arcaze>000465300000</Arcaze>
+    <Port>Port A</Port>
+    <Pin>Pin-3</Pin>
+    <Type>Switch</Type>
+    <Init>false</Init>
+    <Channel>0</Channel>
+    <ValueOff>0.0</ValueOff>
+    <ValueON>1.0</ValueON>
+    <ValueDez>0</ValueDez>
+    <Reverse>true</Reverse>
+    <SendNotOff>false</SendNotOff>
+  </Switches>
+  <Switches>
+    <Active>true</Active>
+    <Arcaze>000465300000</Arcaze>
+    <Port>Port A</Port>
+    <Pin>Pin-4</Pin>
+    <Type>Switch</Type>
+    <Init>false</Init>
+    <Channel>0</Channel>
+    <ValueOff>0.0</ValueOff>
+    <ValueON>1.0</ValueON>
+    <ValueDez>0</ValueDez>
+    <Reverse>true</Reverse>
+    <SendNotOff>false</SendNotOff>
+  </Switches>
+  <Switches>
+    <Active>true</Active>
+    <Arcaze>000465300000</Arcaze>
+    <Port>Port A</Port>
+    <Pin>Pin-5</Pin>
+    <Type>Switch</Type>
+    <Init>false</Init>
+    <Channel>0</Channel>
+    <ValueOff>0.0</ValueOff>
+    <ValueON>1.0</ValueON>
+    <ValueDez>0</ValueDez>
+    <Reverse>true</Reverse>
+    <SendNotOff>false</SendNotOff>
+  </Switches>
+  <Switches>
+    <Active>true</Active>
+    <Arcaze>000465300000</Arcaze>
+    <Port>Port A</Port>
+    <Pin>Pin-6</Pin>
+    <Type>Switch</Type>
+    <Init>false</Init>
+    <Channel>0</Channel>
+    <ValueOff>0.0</ValueOff>
+    <ValueON>1.0</ValueON>
+    <ValueDez>0</ValueDez>
+    <Reverse>true</Reverse>
+    <SendNotOff>false</SendNotOff>
+  </Switches>
+  <Switches>
+    <Active>true</Active>
+    <Arcaze>000465300000</Arcaze>
+    <Port>Port A</Port>
+    <Pin>Pin-7</Pin>
+    <Type>Switch</Type>
+    <Init>false</Init>
+    <Channel>0</Channel>
+    <ValueOff>0.0</ValueOff>
+    <ValueON>1.0</ValueON>
+    <ValueDez>0</ValueDez>
+    <Reverse>true</Reverse>
+    <SendNotOff>false</SendNotOff>
+  </Switches>
+  <Switches>
+    <Active>true</Active>
+    <Arcaze>000465300000</Arcaze>
+    <Port>Port A</Port>
+    <Pin>Pin-8</Pin>
+    <Type>Switch</Type>
+    <Init>false</Init>
+    <Channel>0</Channel>
+    <ValueOff>0.0</ValueOff>
+    <ValueON>1.0</ValueON>
+    <ValueDez>0</ValueDez>
+    <Reverse>true</Reverse>
+    <SendNotOff>false</SendNotOff>
+  </Switches>
+  <Switches>
+    <Active>true</Active>
+    <Arcaze>000465300000</Arcaze>
+    <Port>Port A</Port>
+    <Pin>Pin-9</Pin>
+    <Type>Switch</Type>
+    <Init>false</Init>
+    <Channel>0</Channel>
+    <ValueOff>0.0</ValueOff>
+    <ValueON>1.0</ValueON>
+    <ValueDez>0</ValueDez>
+    <Reverse>true</Reverse>
+    <SendNotOff>false</SendNotOff>
+  </Switches>
+  <Switches>
+    <Active>true</Active>
+    <Arcaze>000465300000</Arcaze>
+    <Port>Port A</Port>
+    <Pin>Pin-10</Pin>
+    <Type>Switch</Type>
+    <Init>false</Init>
+    <Channel>0</Channel>
+    <ValueOff>0.0</ValueOff>
+    <ValueON>1.0</ValueON>
+    <ValueDez>0</ValueDez>
+    <Reverse>true</Reverse>
+    <SendNotOff>false</SendNotOff>
+  </Switches>
+  <Switches>
+    <Active>true</Active>
+    <Arcaze>000465300000</Arcaze>
+    <Port>Port A</Port>
+    <Pin>Pin-11</Pin>
+    <Type>Switch</Type>
+    <Init>false</Init>
+    <Channel>0</Channel>
+    <ValueOff>0.0</ValueOff>
+    <ValueON>1.0</ValueON>
+    <ValueDez>0</ValueDez>
+    <Reverse>true</Reverse>
+    <SendNotOff>false</SendNotOff>
+  </Switches>
+  <Switches>
+    <Active>true</Active>
+    <Arcaze>000465300000</Arcaze>
+    <Port>Port A</Port>
+    <Pin>Pin-12</Pin>
+    <Type>Switch</Type>
+    <Init>false</Init>
+    <Channel>0</Channel>
+    <ValueOff>0.0</ValueOff>
+    <ValueON>1.0</ValueON>
+    <ValueDez>0</ValueDez>
+    <Reverse>true</Reverse>
+    <SendNotOff>false</SendNotOff>
+  </Switches>
+  <Switches>
+    <Active>true</Active>
+    <Arcaze>000465300000</Arcaze>
+    <Port>Port A</Port>
+    <Pin>Pin-13</Pin>
+    <Type>Switch</Type>
+    <Init>false</Init>
+    <Channel>0</Channel>
+    <ValueOff>0.0</ValueOff>
+    <ValueON>1.0</ValueON>
+    <ValueDez>0</ValueDez>
+    <Reverse>true</Reverse>
+    <SendNotOff>false</SendNotOff>
+  </Switches>
+  <Switches>
+    <Active>true</Active>
+    <Arcaze>000465300000</Arcaze>
+    <Port>Port A</Port>
+    <Pin>Pin-14</Pin>
+    <Type>Switch</Type>
+    <Init>false</Init>
+    <Channel>0</Channel>
+    <ValueOff>0.0</ValueOff>
+    <ValueON>1.0</ValueON>
+    <ValueDez>0</ValueDez>
+    <Reverse>true</Reverse>
+    <SendNotOff>false</SendNotOff>
+  </Switches>
+  <Switches>
+    <Active>true</Active>
+    <Arcaze>000465300000</Arcaze>
+    <Port>Port B</Port>
+    <Pin>Pin-5</Pin>
+    <Type>Switch</Type>
+    <Init>false</Init>
+    <Channel>0</Channel>
+    <ValueOff>0.0</ValueOff>
+    <ValueON>1.0</ValueON>
+    <ValueDez>0</ValueDez>
+    <Reverse>true</Reverse>
+    <SendNotOff>false</SendNotOff>
+  </Switches>
+  <Switches>
+    <Active>true</Active>
+    <Arcaze>000465300000</Arcaze>
+    <Port>Port B</Port>
+    <Pin>Pin-6</Pin>
+    <Type>Switch</Type>
+    <Init>false</Init>
+    <Channel>0</Channel>
+    <ValueOff>0.0</ValueOff>
+    <ValueON>1.0</ValueON>
+    <ValueDez>0</ValueDez>
+    <Reverse>true</Reverse>
+    <SendNotOff>false</SendNotOff>
+  </Switches>
+  <Switches>
+    <Active>true</Active>
+    <Arcaze>000465300000</Arcaze>
+    <Port>Port B</Port>
+    <Pin>Pin-7</Pin>
+    <Type>Switch</Type>
+    <Init>false</Init>
+    <Channel>0</Channel>
+    <ValueOff>0.0</ValueOff>
+    <ValueON>1.0</ValueON>
+    <ValueDez>0</ValueDez>
+    <Reverse>true</Reverse>
+    <SendNotOff>false</SendNotOff>
+  </Switches>
+  <Switches>
+    <Active>true</Active>
+    <Arcaze>000465300000</Arcaze>
+    <Port>Port B</Port>
+    <Pin>Pin-8</Pin>
+    <Type>Switch</Type>
+    <Init>false</Init>
+    <Channel>0</Channel>
+    <ValueOff>0.0</ValueOff>
+    <ValueON>1.0</ValueON>
+    <ValueDez>0</ValueDez>
+    <Reverse>true</Reverse>
+    <SendNotOff>false</SendNotOff>
+  </Switches>
+  <Switches>
+    <Active>true</Active>
+    <Arcaze>000465300000</Arcaze>
+    <Port>Port B</Port>
+    <Pin>Pin-9</Pin>
+    <Type>Switch</Type>
+    <Init>false</Init>
+    <Channel>0</Channel>
+    <ValueOff>0.0</ValueOff>
+    <ValueON>1.0</ValueON>
+    <ValueDez>0</ValueDez>
+    <Reverse>true</Reverse>
+    <SendNotOff>false</SendNotOff>
+  </Switches>
+  <Switches>
+    <Active>true</Active>
+    <Arcaze>000465300000</Arcaze>
+    <Port>Port B</Port>
+    <Pin>Pin-10</Pin>
+    <Type>Switch</Type>
+    <Init>false</Init>
+    <Channel>0</Channel>
+    <ValueOff>0.0</ValueOff>
+    <ValueON>1.0</ValueON>
+    <ValueDez>0</ValueDez>
+    <Reverse>true</Reverse>
+    <SendNotOff>false</SendNotOff>
+  </Switches>
+  <Switches>
+    <Active>true</Active>
+    <Arcaze>000465300000</Arcaze>
+    <Port>Port B</Port>
+    <Pin>Pin-11</Pin>
+    <Type>Switch</Type>
+    <Init>false</Init>
+    <Channel>0</Channel>
+    <ValueOff>0.0</ValueOff>
+    <ValueON>1.0</ValueON>
+    <ValueDez>0</ValueDez>
+    <Reverse>true</Reverse>
+    <SendNotOff>false</SendNotOff>
+  </Switches>
+  <Switches>
+    <Active>true</Active>
+    <Arcaze>000465300000</Arcaze>
+    <Port>Port B</Port>
+    <Pin>Pin-12</Pin>
+    <Type>Switch</Type>
+    <Init>false</Init>
+    <Channel>0</Channel>
+    <ValueOff>0.0</ValueOff>
+    <ValueON>1.0</ValueON>
+    <ValueDez>0</ValueDez>
+    <Reverse>true</Reverse>
+    <SendNotOff>false</SendNotOff>
+  </Switches>
+  <Switches>
+    <Active>true</Active>
+    <Arcaze>000465300000</Arcaze>
+    <Port>Port B</Port>
+    <Pin>Pin-13</Pin>
+    <Type>Switch</Type>
+    <Init>false</Init>
+    <Channel>0</Channel>
+    <ValueOff>0.0</ValueOff>
+    <ValueON>1.0</ValueON>
+    <ValueDez>0</ValueDez>
+    <Reverse>true</Reverse>
+    <SendNotOff>false</SendNotOff>
+  </Switches>
+  <Switches>
+    <Active>true</Active>
+    <Arcaze>000465300000</Arcaze>
+    <Port>Port B</Port>
+    <Pin>Pin-14</Pin>
+    <Type>Switch</Type>
+    <Init>false</Init>
+    <Channel>0</Channel>
+    <ValueOff>0.0</ValueOff>
+    <ValueON>1.0</ValueON>
+    <ValueDez>0</ValueDez>
+    <Reverse>true</Reverse>
+    <SendNotOff>false</SendNotOff>
+  </Switches>
+  <Switches>
+    <Active>true</Active>
+    <Arcaze>000465300000</Arcaze>
+    <Port>Port B</Port>
+    <Pin>Pin-15</Pin>
+    <Type>Switch</Type>
+    <Init>false</Init>
+    <Channel>0</Channel>
+    <ValueOff>0.0</ValueOff>
+    <ValueON>1.0</ValueON>
+    <ValueDez>0</ValueDez>
+    <Reverse>true</Reverse>
+    <SendNotOff>false</SendNotOff>
+  </Switches>
+  <Switches>
+    <Active>true</Active>
+    <Arcaze>000465300000</Arcaze>
+    <Port>Port B</Port>
+    <Pin>Pin-16</Pin>
+    <Type>Switch</Type>
+    <Init>false</Init>
+    <Channel>0</Channel>
+    <ValueOff>0.0</ValueOff>
+    <ValueON>1.0</ValueON>
+    <ValueDez>0</ValueDez>
+    <Reverse>true</Reverse>
+    <SendNotOff>false</SendNotOff>
+  </Switches>
+  <Switches>
+    <Active>true</Active>
+    <Arcaze>000467900000</Arcaze>
+    <Port>Port B</Port>
+    <Pin>Pin-14</Pin>
+    <Type>Switch</Type>
+    <Init>false</Init>
+    <Channel>0</Channel>
+    <ValueOff>0.0</ValueOff>
+    <ValueON>1.0</ValueON>
+    <ValueDez>0</ValueDez>
+    <Reverse>true</Reverse>
+    <SendNotOff>false</SendNotOff>
+  </Switches>
+  <Switches>
+    <Active>true</Active>
+    <Arcaze>000467900000</Arcaze>
+    <Port>Port B</Port>
+    <Pin>Pin-15</Pin>
+    <Type>Switch</Type>
+    <Init>false</Init>
+    <Channel>0</Channel>
+    <ValueOff>0.0</ValueOff>
+    <ValueON>1.0</ValueON>
+    <ValueDez>0</ValueDez>
+    <Reverse>true</Reverse>
+    <SendNotOff>false</SendNotOff>
+  </Switches>
+  <Switches>
+    <Active>true</Active>
+    <Arcaze>000467900000</Arcaze>
+    <Port>Port B</Port>
+    <Pin>Pin-16</Pin>
+    <Type>Switch</Type>
+    <Init>false</Init>
+    <Channel>0</Channel>
+    <ValueOff>0.0</ValueOff>
+    <ValueON>1.0</ValueON>
+    <ValueDez>0</ValueDez>
+    <Reverse>true</Reverse>
+    <SendNotOff>false</SendNotOff>
+  </Switches>
+  <Switches>
+    <Active>true</Active>
+    <Arcaze>000467900000</Arcaze>
+    <Port>Port B</Port>
+    <Pin>Pin-17</Pin>
+    <Type>Switch</Type>
+    <Init>false</Init>
+    <Channel>0</Channel>
+    <ValueOff>0.0</ValueOff>
+    <ValueON>1.0</ValueON>
+    <ValueDez>0</ValueDez>
+    <Reverse>true</Reverse>
+    <SendNotOff>false</SendNotOff>
+  </Switches>
+  <Switches>
+    <Active>true</Active>
+    <Arcaze>000467900000</Arcaze>
+    <Port>Port B</Port>
+    <Pin>Pin-18</Pin>
+    <Type>Switch</Type>
+    <Init>false</Init>
+    <Channel>0</Channel>
+    <ValueOff>0.0</ValueOff>
+    <ValueON>1.0</ValueON>
+    <ValueDez>0</ValueDez>
+    <Reverse>true</Reverse>
+    <SendNotOff>false</SendNotOff>
+  </Switches>
+  <Encoder>
+    <Id>10</Id>
+    <Active>true</Active>
+    <Init>false</Init>
+    <Arcaze>000467900000</Arcaze>
+    <EncoderNumber>Encoder A07/A08</EncoderNumber>
+    <MinValue>0.0</MinValue>
+    <MaxValue>2.0</MaxValue>
+    <CalcValue>1.9</CalcValue>
+    <ReadValue>-1</ReadValue>
+    <LastReadValue>0</LastReadValue>
+    <DentValue>0.1</DentValue>
+    <ArcazeAndEncoder>000467900000) - Encoder A07/A08</ArcazeAndEncoder>
+    <SendValue>false</SendValue>
+    <OldValueEncoder>0</OldValueEncoder>
+    <Reverse>true</Reverse>
+  </Encoder>
+  <Encoder>
+    <Id>11</Id>
+    <Active>true</Active>
+    <Init>false</Init>
+    <Arcaze>000467900000</Arcaze>
+    <EncoderNumber>Encoder A09/A10</EncoderNumber>
+    <MinValue>0.0</MinValue>
+    <MaxValue>1.0</MaxValue>
+    <CalcValue>0.9</CalcValue>
+    <ReadValue>-1</ReadValue>
+    <LastReadValue>0</LastReadValue>
+    <DentValue>0.1</DentValue>
+    <ArcazeAndEncoder>000467900000) - Encoder A09/A10</ArcazeAndEncoder>
+    <SendValue>false</SendValue>
+    <OldValueEncoder>0</OldValueEncoder>
+    <Reverse>false</Reverse>
+  </Encoder>
+  <Encoder>
+    <Id>12</Id>
+    <Active>true</Active>
+    <Init>false</Init>
+    <Arcaze>000467900000</Arcaze>
+    <EncoderNumber>Encoder A11/A12</EncoderNumber>
+    <MinValue>0.0</MinValue>
+    <MaxValue>1.0</MaxValue>
+    <CalcValue>0.9</CalcValue>
+    <ReadValue>-1</ReadValue>
+    <LastReadValue>0</LastReadValue>
+    <DentValue>0.1</DentValue>
+    <ArcazeAndEncoder>000467900000) - Encoder A11/A12</ArcazeAndEncoder>
+    <SendValue>false</SendValue>
+    <OldValueEncoder>0</OldValueEncoder>
+    <Reverse>false</Reverse>
+  </Encoder>
+  <Encoder>
+    <Id>13</Id>
+    <Active>true</Active>
+    <Init>false</Init>
+    <Arcaze>000467900000</Arcaze>
+    <EncoderNumber>Encoder A13/A14</EncoderNumber>
+    <MinValue>0.0</MinValue>
+    <MaxValue>1.0</MaxValue>
+    <CalcValue>0.9</CalcValue>
+    <ReadValue>-1</ReadValue>
+    <LastReadValue>0</LastReadValue>
+    <DentValue>0.1</DentValue>
+    <ArcazeAndEncoder>000467900000) - Encoder A13/A14</ArcazeAndEncoder>
+    <SendValue>false</SendValue>
+    <OldValueEncoder>0</OldValueEncoder>
+    <Reverse>false</Reverse>
+  </Encoder>
+  <Encoder>
+    <Id>14</Id>
+    <Active>true</Active>
+    <Init>false</Init>
+    <Arcaze>000467900000</Arcaze>
+    <EncoderNumber>Encoder A15/A16</EncoderNumber>
+    <MinValue>0.0</MinValue>
+    <MaxValue>1.0</MaxValue>
+    <CalcValue>0.9</CalcValue>
+    <ReadValue>-1</ReadValue>
+    <LastReadValue>0</LastReadValue>
+    <DentValue>0.1</DentValue>
+    <ArcazeAndEncoder>000467900000) - Encoder A15/A16</ArcazeAndEncoder>
+    <SendValue>false</SendValue>
+    <OldValueEncoder>0</OldValueEncoder>
+    <Reverse>false</Reverse>
+  </Encoder>
+  <Encoder>
+    <Id>15</Id>
+    <Active>true</Active>
+    <Init>false</Init>
+    <Arcaze>000467900000</Arcaze>
+    <EncoderNumber>Encoder A17/A18</EncoderNumber>
+    <MinValue>0.0</MinValue>
+    <MaxValue>1.0</MaxValue>
+    <CalcValue>0.9</CalcValue>
+    <ReadValue>-1</ReadValue>
+    <LastReadValue>0</LastReadValue>
+    <DentValue>0.1</DentValue>
+    <ArcazeAndEncoder>000467900000) - Encoder A17/A18</ArcazeAndEncoder>
+    <SendValue>false</SendValue>
+    <OldValueEncoder>0</OldValueEncoder>
+    <Reverse>false</Reverse>
+  </Encoder>
+  <Encoder>
+    <Id>16</Id>
+    <Active>true</Active>
+    <Init>false</Init>
+    <Arcaze>000467900000</Arcaze>
+    <EncoderNumber>Encoder B01/B02</EncoderNumber>
+    <MinValue>0.0</MinValue>
+    <MaxValue>1.0</MaxValue>
+    <CalcValue>0.9</CalcValue>
+    <ReadValue>-1</ReadValue>
+    <LastReadValue>0</LastReadValue>
+    <DentValue>0.1</DentValue>
+    <ArcazeAndEncoder>000467900000) - Encoder B01/B02</ArcazeAndEncoder>
+    <SendValue>false</SendValue>
+    <OldValueEncoder>0</OldValueEncoder>
+    <Reverse>false</Reverse>
+  </Encoder>
+  <Encoder>
+    <Id>25</Id>
+    <Active>true</Active>
+    <Init>false</Init>
+    <Arcaze>000467900000</Arcaze>
+    <EncoderNumber>Encoder B03/B04</EncoderNumber>
+    <MinValue>0.0</MinValue>
+    <MaxValue>1.0</MaxValue>
+    <CalcValue>0.9</CalcValue>
+    <ReadValue>-1</ReadValue>
+    <LastReadValue>0</LastReadValue>
+    <DentValue>0.1</DentValue>
+    <ArcazeAndEncoder>000467900000) - Encoder B03/B04</ArcazeAndEncoder>
+    <SendValue>false</SendValue>
+    <OldValueEncoder>0</OldValueEncoder>
+    <Reverse>false</Reverse>
+  </Encoder>
+  <Encoder>
+    <Id>26</Id>
+    <Active>true</Active>
+    <Init>false</Init>
+    <Arcaze>000467900000</Arcaze>
+    <EncoderNumber>Encoder B05/B06</EncoderNumber>
+    <MinValue>0.0</MinValue>
+    <MaxValue>1.0</MaxValue>
+    <CalcValue>0.9</CalcValue>
+    <ReadValue>-1</ReadValue>
+    <LastReadValue>0</LastReadValue>
+    <DentValue>0.1</DentValue>
+    <ArcazeAndEncoder>000467900000) - Encoder B05/B06</ArcazeAndEncoder>
+    <SendValue>false</SendValue>
+    <OldValueEncoder>0</OldValueEncoder>
+    <Reverse>false</Reverse>
+  </Encoder>
+  <Encoder>
+    <Id>27</Id>
+    <Active>true</Active>
+    <Init>false</Init>
+    <Arcaze>000467900000</Arcaze>
+    <EncoderNumber>Encoder B07/B08</EncoderNumber>
+    <MinValue>0.0</MinValue>
+    <MaxValue>1.0</MaxValue>
+    <CalcValue>0.9</CalcValue>
+    <ReadValue>-1</ReadValue>
+    <LastReadValue>0</LastReadValue>
+    <DentValue>0.1</DentValue>
+    <ArcazeAndEncoder>000467900000) - Encoder B07/B08</ArcazeAndEncoder>
+    <SendValue>false</SendValue>
+    <OldValueEncoder>0</OldValueEncoder>
+    <Reverse>false</Reverse>
+  </Encoder>
   <DCS_ID>
     <ExportID>178</ExportID>
-    <Description>L_AILERON_EMER_DISENGAGE</Description>
-    <ExportIDWithDescription>178 - L_AILERON_EMER_DISENGAGE</ExportIDWithDescription>
+    <Description>Lamp L_AILERON_EMER_DISENGAGE</Description>
+    <ExportIDWithDescription>178 - Lamp L_AILERON_EMER_DISENGAGE</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>179</ExportID>
-    <Description>R_AILERON_EMER_DISENGAGE</Description>
-    <ExportIDWithDescription>179 - R_AILERON_EMER_DISENGAGE</ExportIDWithDescription>
+    <Description>Lamp R_AILERON_EMER_DISENGAGE</Description>
+    <ExportIDWithDescription>179 - Lamp R_AILERON_EMER_DISENGAGE</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>181</ExportID>
-    <Description>L_ELEVATOR_EMER_DISENGAGE</Description>
-    <ExportIDWithDescription>181 - L_ELEVATOR_EMER_DISENGAGE</ExportIDWithDescription>
+    <Description>Lamp L_ELEVATOR_EMER_DISENGAGE</Description>
+    <ExportIDWithDescription>181 - Lamp L_ELEVATOR_EMER_DISENGAGE</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>182</ExportID>
-    <Description>R_ELEVATOR_EMER_DISENGAGE</Description>
-    <ExportIDWithDescription>182 - R_ELEVATOR_EMER_DISENGAGE</ExportIDWithDescription>
+    <Description>Lamp R_ELEVATOR_EMER_DISENGAGE</Description>
+    <ExportIDWithDescription>182 - Lamp R_ELEVATOR_EMER_DISENGAGE</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>191</ExportID>
-    <Description>TAKE_OFF_TRIM</Description>
-    <ExportIDWithDescription>191 - TAKE_OFF_TRIM</ExportIDWithDescription>
+    <Description>Lamp TAKE_OFF_TRIM</Description>
+    <ExportIDWithDescription>191 - Lamp TAKE_OFF_TRIM</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>215</ExportID>
-    <Description>L_ENG_FIRE</Description>
-    <ExportIDWithDescription>215 - L_ENG_FIRE</ExportIDWithDescription>
+    <Description>Lamp L_ENG_FIRE</Description>
+    <ExportIDWithDescription>215 - Lamp L_ENG_FIRE</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>216</ExportID>
-    <Description>APU_FIRE</Description>
-    <ExportIDWithDescription>216 - APU_FIRE</ExportIDWithDescription>
+    <Description>Lamp APU_FIRE</Description>
+    <ExportIDWithDescription>216 - Lamp APU_FIRE</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>217</ExportID>
-    <Description>R_ENG_FIRE</Description>
-    <ExportIDWithDescription>217 - R_ENG_FIRE</ExportIDWithDescription>
+    <Description>Lamp R_ENG_FIRE</Description>
+    <ExportIDWithDescription>217 - Lamp R_ENG_FIRE</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>260</ExportID>
-    <Description>TACAN_test_light</Description>
-    <ExportIDWithDescription>260 - TACAN_test_light</ExportIDWithDescription>
+    <Description>Lamp TACAN_test_light</Description>
+    <ExportIDWithDescription>260 - Lamp TACAN_test_light</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>269</ExportID>
-    <Description>HARS_sync</Description>
-    <ExportIDWithDescription>269 - HARS_sync</ExportIDWithDescription>
+    <Description>Lamp HARS_sync</Description>
+    <ExportIDWithDescription>269 - Lamp HARS_sync</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>372</ExportID>
-    <Description>CMSC_MissileLaunchIndicator</Description>
-    <ExportIDWithDescription>372 - CMSC_MissileLaunchIndicator</ExportIDWithDescription>
+    <Description>Lamp CMSC_MissileLaunchIndicator</Description>
+    <ExportIDWithDescription>372 - Lamp CMSC_MissileLaunchIndicator</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>373</ExportID>
-    <Description>CMSC_PriorityStatusIndicator</Description>
-    <ExportIDWithDescription>373 - CMSC_PriorityStatusIndicator</ExportIDWithDescription>
+    <Description>Lamp CMSC_PriorityStatusIndicator</Description>
+    <ExportIDWithDescription>373 - Lamp CMSC_PriorityStatusIndicator</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>374</ExportID>
-    <Description>CMSC_UnknownStatusIndicator</Description>
-    <ExportIDWithDescription>374 - CMSC_UnknownStatusIndicator</ExportIDWithDescription>
+    <Description>Lamp CMSC_UnknownStatusIndicator</Description>
+    <ExportIDWithDescription>374 - Lamp CMSC_UnknownStatusIndicator</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>404</ExportID>
-    <Description>MASTER_WARNING_STUB</Description>
-    <ExportIDWithDescription>404 - MASTER_WARNING_STUB</ExportIDWithDescription>
+    <Description>Lamp MASTER_WARNING_STUB</Description>
+    <ExportIDWithDescription>404 - Lamp MASTER_WARNING_STUB</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>480</ExportID>
-    <Description>ENG_START_CYCLE</Description>
-    <ExportIDWithDescription>480 - ENG_START_CYCLE</ExportIDWithDescription>
+    <Description>Lamp ENG_START_CYCLE</Description>
+    <ExportIDWithDescription>480 - Lamp ENG_START_CYCLE</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>481</ExportID>
-    <Description>L_HYD_PRESS</Description>
-    <ExportIDWithDescription>481 - L_HYD_PRESS</ExportIDWithDescription>
+    <Description>Lamp L_HYD_PRESS</Description>
+    <ExportIDWithDescription>481 - Lamp L_HYD_PRESS</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>482</ExportID>
-    <Description>R_HYD_PRESS</Description>
-    <ExportIDWithDescription>482 - R_HYD_PRESS</ExportIDWithDescription>
+    <Description>Lamp R_HYD_PRESS</Description>
+    <ExportIDWithDescription>482 - Lamp R_HYD_PRESS</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>483</ExportID>
-    <Description>GUN_UNSAFE</Description>
-    <ExportIDWithDescription>483 - GUN_UNSAFE</ExportIDWithDescription>
+    <Description>Lamp GUN_UNSAFE</Description>
+    <ExportIDWithDescription>483 - Lamp GUN_UNSAFE</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>484</ExportID>
-    <Description>ANTISKID</Description>
-    <ExportIDWithDescription>484 - ANTISKID</ExportIDWithDescription>
+    <Description>Lamp ANTISKID</Description>
+    <ExportIDWithDescription>484 - Lamp ANTISKID</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>485</ExportID>
-    <Description>L_HYD_RES</Description>
-    <ExportIDWithDescription>485 - L_HYD_RES</ExportIDWithDescription>
+    <Description>Lamp L_HYD_RES</Description>
+    <ExportIDWithDescription>485 - Lamp L_HYD_RES</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>486</ExportID>
-    <Description>R_HYD_RES</Description>
-    <ExportIDWithDescription>486 - R_HYD_RES</ExportIDWithDescription>
+    <Description>Lamp R_HYD_RES</Description>
+    <ExportIDWithDescription>486 - Lamp R_HYD_RES</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>487</ExportID>
-    <Description>OXY_LOW</Description>
-    <ExportIDWithDescription>487 - OXY_LOW</ExportIDWithDescription>
+    <Description>Lamp OXY_LOW</Description>
+    <ExportIDWithDescription>487 - Lamp OXY_LOW</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>488</ExportID>
-    <Description>ELEV_DISENG</Description>
-    <ExportIDWithDescription>488 - ELEV_DISENG</ExportIDWithDescription>
+    <Description>Lamp ELEV_DISENG</Description>
+    <ExportIDWithDescription>488 - Lamp ELEV_DISENG</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>489</ExportID>
-    <Description>VOID1</Description>
-    <ExportIDWithDescription>489 - VOID1</ExportIDWithDescription>
+    <Description>Lamp VOID1</Description>
+    <ExportIDWithDescription>489 - Lamp VOID1</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>490</ExportID>
-    <Description>SEAT_NOT_ARMED</Description>
-    <ExportIDWithDescription>490 - SEAT_NOT_ARMED</ExportIDWithDescription>
+    <Description>Lamp SEAT_NOT_ARMED</Description>
+    <ExportIDWithDescription>490 - Lamp SEAT_NOT_ARMED</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>491</ExportID>
-    <Description>BLEED_AIR_LEAK</Description>
-    <ExportIDWithDescription>491 - BLEED_AIR_LEAK</ExportIDWithDescription>
+    <Description>Lamp BLEED_AIR_LEAK</Description>
+    <ExportIDWithDescription>491 - Lamp BLEED_AIR_LEAK</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>492</ExportID>
-    <Description>AIL_DISENG</Description>
-    <ExportIDWithDescription>492 - AIL_DISENG</ExportIDWithDescription>
+    <Description>Lamp AIL_DISENG</Description>
+    <ExportIDWithDescription>492 - Lamp AIL_DISENG</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>493</ExportID>
-    <Description>L_AIL_TAB</Description>
-    <ExportIDWithDescription>493 - L_AIL_TAB</ExportIDWithDescription>
+    <Description>Lamp L_AIL_TAB</Description>
+    <ExportIDWithDescription>493 - Lamp L_AIL_TAB</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>494</ExportID>
-    <Description>R_AIL_TAB</Description>
-    <ExportIDWithDescription>494 - R_AIL_TAB</ExportIDWithDescription>
+    <Description>Lamp R_AIL_TAB</Description>
+    <ExportIDWithDescription>494 - Lamp R_AIL_TAB</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>495</ExportID>
-    <Description>SERVICE_AIR_HOT</Description>
-    <ExportIDWithDescription>495 - SERVICE_AIR_HOT</ExportIDWithDescription>
+    <Description>Lamp SERVICE_AIR_HOT</Description>
+    <ExportIDWithDescription>495 - Lamp SERVICE_AIR_HOT</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>496</ExportID>
-    <Description>PITCH_SAS</Description>
-    <ExportIDWithDescription>496 - PITCH_SAS</ExportIDWithDescription>
+    <Description>Lamp PITCH_SAS</Description>
+    <ExportIDWithDescription>496 - Lamp PITCH_SAS</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>497</ExportID>
-    <Description>L_ENG_HOT</Description>
-    <ExportIDWithDescription>497 - L_ENG_HOT</ExportIDWithDescription>
+    <Description>Lamp L_ENG_HOT</Description>
+    <ExportIDWithDescription>497 - Lamp L_ENG_HOT</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>498</ExportID>
-    <Description>R_ENG_HOT</Description>
-    <ExportIDWithDescription>498 - R_ENG_HOT</ExportIDWithDescription>
+    <Description>Lamp R_ENG_HOT</Description>
+    <ExportIDWithDescription>498 - Lamp R_ENG_HOT</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>499</ExportID>
-    <Description>WINDSHIELD_HOT</Description>
-    <ExportIDWithDescription>499 - WINDSHIELD_HOT</ExportIDWithDescription>
+    <Description>Lamp WINDSHIELD_HOT</Description>
+    <ExportIDWithDescription>499 - Lamp WINDSHIELD_HOT</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>500</ExportID>
-    <Description>YAW_SAS</Description>
-    <ExportIDWithDescription>500 - YAW_SAS</ExportIDWithDescription>
+    <Description>Lamp YAW_SAS</Description>
+    <ExportIDWithDescription>500 - Lamp YAW_SAS</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>501</ExportID>
-    <Description>L_ENG_OIL_PRESS</Description>
-    <ExportIDWithDescription>501 - L_ENG_OIL_PRESS</ExportIDWithDescription>
+    <Description>Lamp L_ENG_OIL_PRESS</Description>
+    <ExportIDWithDescription>501 - Lamp L_ENG_OIL_PRESS</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>502</ExportID>
-    <Description>R_ENG_OIL_PRESS</Description>
-    <ExportIDWithDescription>502 - R_ENG_OIL_PRESS</ExportIDWithDescription>
+    <Description>Lamp R_ENG_OIL_PRESS</Description>
+    <ExportIDWithDescription>502 - Lamp R_ENG_OIL_PRESS</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>503</ExportID>
-    <Description>CICU</Description>
-    <ExportIDWithDescription>503 - CICU</ExportIDWithDescription>
+    <Description>Lamp CICU</Description>
+    <ExportIDWithDescription>503 - Lamp CICU</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>504</ExportID>
-    <Description>GCAS</Description>
-    <ExportIDWithDescription>504 - GCAS</ExportIDWithDescription>
+    <Description>Lamp GCAS</Description>
+    <ExportIDWithDescription>504 - Lamp GCAS</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>505</ExportID>
-    <Description>L_MAIN_PUMP</Description>
-    <ExportIDWithDescription>505 - L_MAIN_PUMP</ExportIDWithDescription>
+    <Description>Lamp L_MAIN_PUMP</Description>
+    <ExportIDWithDescription>505 - Lamp L_MAIN_PUMP</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>506</ExportID>
-    <Description>R_MAIN_PUMP</Description>
-    <ExportIDWithDescription>506 - R_MAIN_PUMP</ExportIDWithDescription>
+    <Description>Lamp R_MAIN_PUMP</Description>
+    <ExportIDWithDescription>506 - Lamp R_MAIN_PUMP</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>507</ExportID>
-    <Description>VOID2</Description>
-    <ExportIDWithDescription>507 - VOID2</ExportIDWithDescription>
+    <Description>Lamp VOID2</Description>
+    <ExportIDWithDescription>507 - Lamp VOID2</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>508</ExportID>
-    <Description>LASTE</Description>
-    <ExportIDWithDescription>508 - LASTE</ExportIDWithDescription>
+    <Description>Lamp LASTE</Description>
+    <ExportIDWithDescription>508 - Lamp LASTE</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>509</ExportID>
-    <Description>L_WING_PUMP</Description>
-    <ExportIDWithDescription>509 - L_WING_PUMP</ExportIDWithDescription>
+    <Description>Lamp L_WING_PUMP</Description>
+    <ExportIDWithDescription>509 - Lamp L_WING_PUMP</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>510</ExportID>
-    <Description>R_WING_PUMP</Description>
-    <ExportIDWithDescription>510 - R_WING_PUMP</ExportIDWithDescription>
+    <Description>Lamp R_WING_PUMP</Description>
+    <ExportIDWithDescription>510 - Lamp R_WING_PUMP</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>511</ExportID>
-    <Description>HARS</Description>
-    <ExportIDWithDescription>511 - HARS</ExportIDWithDescription>
+    <Description>Lamp HARS</Description>
+    <ExportIDWithDescription>511 - Lamp HARS</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>512</ExportID>
-    <Description>IFF_MODE_4</Description>
-    <ExportIDWithDescription>512 - IFF_MODE_4</ExportIDWithDescription>
+    <Description>Lamp IFF_MODE_4</Description>
+    <ExportIDWithDescription>512 - Lamp IFF_MODE_4</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>513</ExportID>
-    <Description>L_MAIN_FUEL_LOW</Description>
-    <ExportIDWithDescription>513 - L_MAIN_FUEL_LOW</ExportIDWithDescription>
+    <Description>Lamp L_MAIN_FUEL_LOW</Description>
+    <ExportIDWithDescription>513 - Lamp L_MAIN_FUEL_LOW</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>514</ExportID>
-    <Description>R_MAIN_FUEL_LOW</Description>
-    <ExportIDWithDescription>514 - R_MAIN_FUEL_LOW</ExportIDWithDescription>
+    <Description>Lamp R_MAIN_FUEL_LOW</Description>
+    <ExportIDWithDescription>514 - Lamp R_MAIN_FUEL_LOW</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>515</ExportID>
-    <Description>L_R_TKS_UNEQUAL</Description>
-    <ExportIDWithDescription>515 - L_R_TKS_UNEQUAL</ExportIDWithDescription>
+    <Description>Lamp L_R_TKS_UNEQUAL</Description>
+    <ExportIDWithDescription>515 - Lamp L_R_TKS_UNEQUAL</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>516</ExportID>
-    <Description>EAC</Description>
-    <ExportIDWithDescription>516 - EAC</ExportIDWithDescription>
+    <Description>Lamp EAC</Description>
+    <ExportIDWithDescription>516 - Lamp EAC</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>517</ExportID>
-    <Description>L_FUEL_PRESS</Description>
-    <ExportIDWithDescription>517 - L_FUEL_PRESS</ExportIDWithDescription>
+    <Description>Lamp L_FUEL_PRESS</Description>
+    <ExportIDWithDescription>517 - Lamp L_FUEL_PRESS</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>518</ExportID>
-    <Description>R_FUEL_PRESS</Description>
-    <ExportIDWithDescription>518 - R_FUEL_PRESS</ExportIDWithDescription>
+    <Description>Lamp R_FUEL_PRESS</Description>
+    <ExportIDWithDescription>518 - Lamp R_FUEL_PRESS</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>519</ExportID>
-    <Description>NAV</Description>
-    <ExportIDWithDescription>519 - NAV</ExportIDWithDescription>
+    <Description>Lamp NAV</Description>
+    <ExportIDWithDescription>519 - Lamp NAV</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>520</ExportID>
-    <Description>STALL_SYS</Description>
-    <ExportIDWithDescription>520 - STALL_SYS</ExportIDWithDescription>
+    <Description>Lamp STALL_SYS</Description>
+    <ExportIDWithDescription>520 - Lamp STALL_SYS</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>521</ExportID>
-    <Description>L_CONV</Description>
-    <ExportIDWithDescription>521 - L_CONV</ExportIDWithDescription>
+    <Description>Lamp L_CONV</Description>
+    <ExportIDWithDescription>521 - Lamp L_CONV</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>522</ExportID>
-    <Description>R_CONV</Description>
-    <ExportIDWithDescription>522 - R_CONV</ExportIDWithDescription>
+    <Description>Lamp R_CONV</Description>
+    <ExportIDWithDescription>522 - Lamp R_CONV</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>523</ExportID>
-    <Description>CADC</Description>
-    <ExportIDWithDescription>523 - CADC</ExportIDWithDescription>
+    <Description>Lamp CADC</Description>
+    <ExportIDWithDescription>523 - Lamp CADC</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>524</ExportID>
-    <Description>APU_GEN</Description>
-    <ExportIDWithDescription>524 - APU_GEN</ExportIDWithDescription>
+    <Description>Lamp APU_GEN</Description>
+    <ExportIDWithDescription>524 - Lamp APU_GEN</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>525</ExportID>
-    <Description>L_GEN</Description>
-    <ExportIDWithDescription>525 - L_GEN</ExportIDWithDescription>
+    <Description>Lamp L_GEN</Description>
+    <ExportIDWithDescription>525 - Lamp L_GEN</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>526</ExportID>
-    <Description>R_GEN</Description>
-    <ExportIDWithDescription>526 - R_GEN</ExportIDWithDescription>
+    <Description>Lamp R_GEN</Description>
+    <ExportIDWithDescription>526 - Lamp R_GEN</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>527</ExportID>
-    <Description>INST_INV</Description>
-    <ExportIDWithDescription>527 - INST_INV</ExportIDWithDescription>
+    <Description>Lamp INST_INV</Description>
+    <ExportIDWithDescription>527 - Lamp INST_INV</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>540</ExportID>
-    <Description>AOA_INDEXER_HIGH</Description>
-    <ExportIDWithDescription>540 - AOA_INDEXER_HIGH</ExportIDWithDescription>
+    <Description>Lamp AOA_INDEXER_HIGH</Description>
+    <ExportIDWithDescription>540 - Lamp AOA_INDEXER_HIGH</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>541</ExportID>
-    <Description>AOA_INDEXER_NORM</Description>
-    <ExportIDWithDescription>541 - AOA_INDEXER_NORM</ExportIDWithDescription>
+    <Description>Lamp AOA_INDEXER_NORM</Description>
+    <ExportIDWithDescription>541 - Lamp AOA_INDEXER_NORM</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>542</ExportID>
-    <Description>AOA_INDEXER_LOW</Description>
-    <ExportIDWithDescription>542 - AOA_INDEXER_LOW</ExportIDWithDescription>
+    <Description>Lamp AOA_INDEXER_LOW</Description>
+    <ExportIDWithDescription>542 - Lamp AOA_INDEXER_LOW</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>606</ExportID>
-    <Description>HARS</Description>
-    <ExportIDWithDescription>606 - HARS</ExportIDWithDescription>
+    <Description>Lamp HARS</Description>
+    <ExportIDWithDescription>606 - Lamp HARS</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>608</ExportID>
-    <Description>EGI</Description>
-    <ExportIDWithDescription>608 - EGI</ExportIDWithDescription>
+    <Description>Lamp EGI</Description>
+    <ExportIDWithDescription>608 - Lamp EGI</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>610</ExportID>
-    <Description>TISL</Description>
-    <ExportIDWithDescription>610 - TISL</ExportIDWithDescription>
+    <Description>Lamp TISL</Description>
+    <ExportIDWithDescription>610 - Lamp TISL</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>612</ExportID>
-    <Description>STRPT</Description>
-    <ExportIDWithDescription>612 - STRPT</ExportIDWithDescription>
+    <Description>Lamp STRPT</Description>
+    <ExportIDWithDescription>612 - Lamp STRPT</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>614</ExportID>
-    <Description>ANCHR</Description>
-    <ExportIDWithDescription>614 - ANCHR</ExportIDWithDescription>
+    <Description>Lamp ANCHR</Description>
+    <ExportIDWithDescription>614 - Lamp ANCHR</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>616</ExportID>
-    <Description>TCN</Description>
-    <ExportIDWithDescription>616 - TCN</ExportIDWithDescription>
+    <Description>Lamp TCN</Description>
+    <ExportIDWithDescription>616 - Lamp TCN</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>618</ExportID>
-    <Description>ILS</Description>
-    <ExportIDWithDescription>618 - ILS</ExportIDWithDescription>
+    <Description>Lamp ILS</Description>
+    <ExportIDWithDescription>618 - Lamp ILS</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>619</ExportID>
-    <Description>UHF</Description>
-    <ExportIDWithDescription>619 - UHF</ExportIDWithDescription>
+    <Description>Lamp UHF</Description>
+    <ExportIDWithDescription>619 - Lamp UHF</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>620</ExportID>
-    <Description>FM</Description>
-    <ExportIDWithDescription>620 - FM</ExportIDWithDescription>
+    <Description>Lamp FM</Description>
+    <ExportIDWithDescription>620 - Lamp FM</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>659</ExportID>
-    <Description>Nose Gear</Description>
-    <ExportIDWithDescription>659 - Nose Gear</ExportIDWithDescription>
+    <Description>Lamp Nose Gear</Description>
+    <ExportIDWithDescription>659 - Lamp Nose Gear</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>660</ExportID>
-    <Description>Left Gear</Description>
-    <ExportIDWithDescription>660 - Left Gear</ExportIDWithDescription>
+    <Description>Lamp Left Gear</Description>
+    <ExportIDWithDescription>660 - Lamp Left Gear</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>661</ExportID>
-    <Description>Right Gear</Description>
-    <ExportIDWithDescription>661 - Right Gear</ExportIDWithDescription>
+    <Description>Lamp Right Gear</Description>
+    <ExportIDWithDescription>661 - Lamp Right Gear</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>662</ExportID>
-    <Description>GUN_READY</Description>
-    <ExportIDWithDescription>662 - GUN_READY</ExportIDWithDescription>
+    <Description>Lamp GUN_READY</Description>
+    <ExportIDWithDescription>662 - Lamp GUN_READY</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>663</ExportID>
-    <Description>NOSEWHEEL_STEERING</Description>
-    <ExportIDWithDescription>663 - NOSEWHEEL_STEERING</ExportIDWithDescription>
+    <Description>Lamp NOSEWHEEL_STEERING</Description>
+    <ExportIDWithDescription>663 - Lamp NOSEWHEEL_STEERING</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>664</ExportID>
-    <Description>MARKER_BEACON</Description>
-    <ExportIDWithDescription>664 - MARKER_BEACON</ExportIDWithDescription>
+    <Description>Lamp MARKER_BEACON</Description>
+    <ExportIDWithDescription>664 - Lamp MARKER_BEACON</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>665</ExportID>
-    <Description>CANOPY_UNLOCKED</Description>
-    <ExportIDWithDescription>665 - CANOPY_UNLOCKED</ExportIDWithDescription>
+    <Description>Lamp CANOPY_UNLOCKED</Description>
+    <ExportIDWithDescription>665 - Lamp CANOPY_UNLOCKED</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>737</ExportID>
-    <Description>HANDLE_GEAR_WARNING</Description>
-    <ExportIDWithDescription>737 - HANDLE_GEAR_WARNING</ExportIDWithDescription>
+    <Description>Lamp HANDLE_GEAR_WARNING</Description>
+    <ExportIDWithDescription>737 - Lamp HANDLE_GEAR_WARNING</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>730</ExportID>
-    <Description>AIR_REFUEL_READY</Description>
-    <ExportIDWithDescription>730 - AIR_REFUEL_READY</ExportIDWithDescription>
+    <Description>Lamp AIR_REFUEL_READY</Description>
+    <ExportIDWithDescription>730 - Lamp AIR_REFUEL_READY</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>731</ExportID>
-    <Description>AIR_REFUEL_LATCHED</Description>
-    <ExportIDWithDescription>731 - AIR_REFUEL_LATCHED</ExportIDWithDescription>
+    <Description>Lamp AIR_REFUEL_LATCHED</Description>
+    <ExportIDWithDescription>731 - Lamp AIR_REFUEL_LATCHED</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>732</ExportID>
-    <Description>AIR_REFUEL_DISCONNECT</Description>
-    <ExportIDWithDescription>732 - AIR_REFUEL_DISCONNECT</ExportIDWithDescription>
+    <Description>Lamp AIR_REFUEL_DISCONNECT</Description>
+    <ExportIDWithDescription>732 - Lamp AIR_REFUEL_DISCONNECT</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>798</ExportID>
-    <Description>IFF_reply_lamp</Description>
-    <ExportIDWithDescription>798 - IFF_reply_lamp</ExportIDWithDescription>
+    <Description>Lamp IFF_reply_lamp</Description>
+    <ExportIDWithDescription>798 - Lamp IFF_reply_lamp</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>799</ExportID>
-    <Description>IFF_test_lamp</Description>
-    <ExportIDWithDescription>799 - IFF_test_lamp</ExportIDWithDescription>
+    <Description>Lamp IFF_test_lamp</Description>
+    <ExportIDWithDescription>799 - Lamp IFF_test_lamp</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>2000</ExportID>
-    <Description>UHF Frequency</Description>
-    <ExportIDWithDescription>2000 - UHF Frequency</ExportIDWithDescription>
+    <Description>Display UHF Frequency</Description>
+    <ExportIDWithDescription>2000 - Display UHF Frequency</ExportIDWithDescription>
     <Type>Display</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>2001</ExportID>
-    <Description>UHF Preset Channel</Description>
-    <ExportIDWithDescription>2001 - UHF Preset Channel</ExportIDWithDescription>
+    <Description>Display UHF Preset Channel</Description>
+    <ExportIDWithDescription>2001 - Display UHF Preset Channel</ExportIDWithDescription>
     <Type>Display</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>2002</ExportID>
-    <Description>VHF AM Frequency</Description>
-    <ExportIDWithDescription>2002 - VHF AM Frequency</ExportIDWithDescription>
+    <Description>Display VHF AM Frequency</Description>
+    <ExportIDWithDescription>2002 - Display VHF AM Frequency</ExportIDWithDescription>
     <Type>Display</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>2003</ExportID>
-    <Description>VHF AM Preset Channel</Description>
-    <ExportIDWithDescription>2003 - VHF AM Preset Channel</ExportIDWithDescription>
+    <Description>Display VHF AM Preset Channel</Description>
+    <ExportIDWithDescription>2003 - Display VHF AM Preset Channel</ExportIDWithDescription>
     <Type>Display</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>2004</ExportID>
-    <Description>VHF FM Frequency</Description>
-    <ExportIDWithDescription>2004 - VHF FM Frequency</ExportIDWithDescription>
+    <Description>Display VHF FM Frequency</Description>
+    <ExportIDWithDescription>2004 - Display VHF FM Frequency</ExportIDWithDescription>
     <Type>Display</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>2005</ExportID>
-    <Description>VHF FM Preset Channel (buggy)</Description>
-    <ExportIDWithDescription>2005 - VHF FM Preset Channel (buggy)</ExportIDWithDescription>
+    <Description>Display VHF FM Preset Channel (buggy)</Description>
+    <ExportIDWithDescription>2005 - Display VHF FM Preset Channel (buggy)</ExportIDWithDescription>
     <Type>Display</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>2006</ExportID>
-    <Description>Pressure setting</Description>
-    <ExportIDWithDescription>2006 - Pressure setting</ExportIDWithDescription>
+    <Description>Display Pressure setting</Description>
+    <ExportIDWithDescription>2006 - Display Pressure setting</ExportIDWithDescription>
     <Type>Display</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>2007</ExportID>
-    <Description>Total Fuel</Description>
-    <ExportIDWithDescription>2007 - Total Fuel</ExportIDWithDescription>
+    <Description>Display Total Fuel</Description>
+    <ExportIDWithDescription>2007 - Display Total Fuel</ExportIDWithDescription>
     <Type>Display</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>2008</ExportID>
-    <Description>TACAN Channel</Description>
-    <ExportIDWithDescription>2008 - TACAN Channel</ExportIDWithDescription>
+    <Description>Display TACAN Channel</Description>
+    <ExportIDWithDescription>2008 - Display TACAN Channel</ExportIDWithDescription>
     <Type>Display</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>2009</ExportID>
-    <Description>ILS Channel</Description>
-    <ExportIDWithDescription>2009 - ILS Channel</ExportIDWithDescription>
+    <Description>Display ILS Channel</Description>
+    <ExportIDWithDescription>2009 - Display ILS Channel</ExportIDWithDescription>
     <Type>Display</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>2010</ExportID>
-    <Description>Digital Clock</Description>
-    <ExportIDWithDescription>2010 - Digital Clock</ExportIDWithDescription>
+    <Description>Display Digital Clock</Description>
+    <ExportIDWithDescription>2010 - Display Digital Clock</ExportIDWithDescription>
     <Type>Display</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>3000</ExportID>
-    <Description>genericRadio Preset Channel and Frequency</Description>
-    <ExportIDWithDescription>3000 - genericRadio Preset Channel and Frequency</ExportIDWithDescription>
+    <Description>Display genericRadio Preset Channel and Frequency</Description>
+    <ExportIDWithDescription>3000 - Display genericRadio Preset Channel and Frequency</ExportIDWithDescription>
     <Type>Display</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>3001</ExportID>
-    <Description>genericRadio Preset Channel</Description>
-    <ExportIDWithDescription>3001 - genericRadio Preset Channel</ExportIDWithDescription>
+    <Description>Display genericRadio Preset Channel</Description>
+    <ExportIDWithDescription>3001 - Display genericRadio Preset Channel</ExportIDWithDescription>
     <Type>Display</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>3002</ExportID>
-    <Description>genericRadio Frequency</Description>
-    <ExportIDWithDescription>3002 - genericRadio Frequency</ExportIDWithDescription>
+    <Description>Display genericRadio Frequency</Description>
+    <ExportIDWithDescription>3002 - Display genericRadio Frequency</ExportIDWithDescription>
     <Type>Display</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>3010</ExportID>
-    <Description>genericRadio aktive</Description>
-    <ExportIDWithDescription>3010 - genericRadio aktive</ExportIDWithDescription>
+    <Description>Lamp genericRadio aktive</Description>
+    <ExportIDWithDescription>3010 - Lamp genericRadio aktive</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>3011</ExportID>
-    <Description>genericRadio Preset aktive</Description>
-    <ExportIDWithDescription>3011 - genericRadio Preset aktive</ExportIDWithDescription>
+    <Description>Lamp genericRadio Preset aktive</Description>
+    <ExportIDWithDescription>3011 - Lamp genericRadio Preset aktive</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>3012</ExportID>
-    <Description>genericRadio Squelch aktive</Description>
-    <ExportIDWithDescription>3012 - genericRadio Squelch aktive</ExportIDWithDescription>
+    <Description>Lamp genericRadio Squelch aktive</Description>
+    <ExportIDWithDescription>3012 - Lamp genericRadio Squelch aktive</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <Clickabledata>
@@ -630,7 +2148,6 @@
     <ButtonID>1</ButtonID>
     <Discription>EPP - APU Generator On/Off</Discription>
     <Type>Switch</Type>
-    <DcsID>241</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>1</ID>
@@ -638,7 +2155,6 @@
     <ButtonID>2</ButtonID>
     <Discription>EPP - Inverter Switch</Discription>
     <Type>Switch</Type>
-    <DcsID>242</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>2</ID>
@@ -646,7 +2162,6 @@
     <ButtonID>4</ButtonID>
     <Discription>EPP - Left AC Generator Power</Discription>
     <Type>Switch</Type>
-    <DcsID>244</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>3</ID>
@@ -654,7 +2169,6 @@
     <ButtonID>5</ButtonID>
     <Discription>EPP - Right AC generator Power</Discription>
     <Type>Switch</Type>
-    <DcsID>245</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>4</ID>
@@ -662,7 +2176,6 @@
     <ButtonID>6</ButtonID>
     <Discription>EPP - Battery Power</Discription>
     <Type>Switch</Type>
-    <DcsID>246</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>5</ID>
@@ -670,7 +2183,6 @@
     <ButtonID>7</ButtonID>
     <Discription>CBP - AILERON DISC L</Discription>
     <Type>Switch</Type>
-    <DcsID>666</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>6</ID>
@@ -678,7 +2190,6 @@
     <ButtonID>8</ButtonID>
     <Discription>CBP - AILERON DISC R</Discription>
     <Type>Switch</Type>
-    <DcsID>667</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>7</ID>
@@ -686,7 +2197,6 @@
     <ButtonID>9</ButtonID>
     <Discription>CBP - SPS and RUDDER AUTH LIMIT</Discription>
     <Type>Switch</Type>
-    <DcsID>668</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>8</ID>
@@ -694,7 +2204,6 @@
     <ButtonID>10</ButtonID>
     <Discription>CBP - ELEVATION DISC L</Discription>
     <Type>Switch</Type>
-    <DcsID>669</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>9</ID>
@@ -702,7 +2211,6 @@
     <ButtonID>11</ButtonID>
     <Discription>CBP - ELEVATION DISC R</Discription>
     <Type>Switch</Type>
-    <DcsID>670</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>10</ID>
@@ -710,7 +2218,6 @@
     <ButtonID>12</ButtonID>
     <Discription>CBP - AILERON TAB L</Discription>
     <Type>Switch</Type>
-    <DcsID>671</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>11</ID>
@@ -718,7 +2225,6 @@
     <ButtonID>13</ButtonID>
     <Discription>CBP - AILERON TAB R</Discription>
     <Type>Switch</Type>
-    <DcsID>672</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>12</ID>
@@ -726,7 +2232,6 @@
     <ButtonID>14</ButtonID>
     <Discription>CBP - EMER FLAP</Discription>
     <Type>Switch</Type>
-    <DcsID>673</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>13</ID>
@@ -734,7 +2239,6 @@
     <ButtonID>15</ButtonID>
     <Discription>CBP - EMER TRIM</Discription>
     <Type>Switch</Type>
-    <DcsID>674</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>14</ID>
@@ -742,7 +2246,6 @@
     <ButtonID>16</ButtonID>
     <Discription>CBP - LAND GEAR</Discription>
     <Type>Switch</Type>
-    <DcsID>675</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>15</ID>
@@ -750,7 +2253,6 @@
     <ButtonID>17</ButtonID>
     <Discription>CBP - ENGINE START L</Discription>
     <Type>Switch</Type>
-    <DcsID>676</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>16</ID>
@@ -758,7 +2260,6 @@
     <ButtonID>18</ButtonID>
     <Discription>CBP - ENGINE START R</Discription>
     <Type>Switch</Type>
-    <DcsID>677</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>17</ID>
@@ -766,7 +2267,6 @@
     <ButtonID>19</ButtonID>
     <Discription>CBP - APU CONT</Discription>
     <Type>Switch</Type>
-    <DcsID>678</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>18</ID>
@@ -774,7 +2274,6 @@
     <ButtonID>20</ButtonID>
     <Discription>CBP - ENG IGNITOR L/R-1</Discription>
     <Type>Switch</Type>
-    <DcsID>679</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>19</ID>
@@ -782,7 +2281,6 @@
     <ButtonID>21</ButtonID>
     <Discription>CBP - ENG IGNITOR L/R-2</Discription>
     <Type>Switch</Type>
-    <DcsID>680</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>20</ID>
@@ -790,7 +2288,6 @@
     <ButtonID>22</ButtonID>
     <Discription>CBP - EMER FUEL SHUTOFF ENG L</Discription>
     <Type>Switch</Type>
-    <DcsID>681</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>21</ID>
@@ -798,7 +2295,6 @@
     <ButtonID>23</ButtonID>
     <Discription>CBP - EMER FUEL SHUTOFF ENG R</Discription>
     <Type>Switch</Type>
-    <DcsID>682</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>22</ID>
@@ -806,7 +2302,6 @@
     <ButtonID>24</ButtonID>
     <Discription>CBP - DC FUEL PUMP</Discription>
     <Type>Switch</Type>
-    <DcsID>683</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>23</ID>
@@ -814,7 +2309,6 @@
     <ButtonID>25</ButtonID>
     <Discription>CBP - BLEED AIR CONT L</Discription>
     <Type>Switch</Type>
-    <DcsID>684</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>24</ID>
@@ -822,7 +2316,6 @@
     <ButtonID>26</ButtonID>
     <Discription>CBP - BLEED AIR CONT R</Discription>
     <Type>Switch</Type>
-    <DcsID>685</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>25</ID>
@@ -830,7 +2323,6 @@
     <ButtonID>27</ButtonID>
     <Discription>CBP - EXT STORES JETT 1</Discription>
     <Type>Switch</Type>
-    <DcsID>686</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>26</ID>
@@ -838,7 +2330,6 @@
     <ButtonID>28</ButtonID>
     <Discription>CBP - EXT STORES JETT 2</Discription>
     <Type>Switch</Type>
-    <DcsID>687</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>27</ID>
@@ -846,7 +2337,6 @@
     <ButtonID>29</ButtonID>
     <Discription>CBP - STBY ATT IND</Discription>
     <Type>Switch</Type>
-    <DcsID>688</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>28</ID>
@@ -854,7 +2344,6 @@
     <ButtonID>30</ButtonID>
     <Discription>CBP - MASTER CAUT</Discription>
     <Type>Switch</Type>
-    <DcsID>689</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>29</ID>
@@ -862,7 +2351,6 @@
     <ButtonID>31</ButtonID>
     <Discription>CBP - PITOT HEAT AC</Discription>
     <Type>Switch</Type>
-    <DcsID>690</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>30</ID>
@@ -870,7 +2358,6 @@
     <ButtonID>32</ButtonID>
     <Discription>CBP - IFF</Discription>
     <Type>Switch</Type>
-    <DcsID>691</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>31</ID>
@@ -878,7 +2365,6 @@
     <ButtonID>33</ButtonID>
     <Discription>CBP - UHF COMM</Discription>
     <Type>Switch</Type>
-    <DcsID>692</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>32</ID>
@@ -886,7 +2372,6 @@
     <ButtonID>34</ButtonID>
     <Discription>CBP - INTER COMM</Discription>
     <Type>Switch</Type>
-    <DcsID>693</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>33</ID>
@@ -894,7 +2379,6 @@
     <ButtonID>35</ButtonID>
     <Discription>CBP - GENERATOR CONT L</Discription>
     <Type>Switch</Type>
-    <DcsID>694</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>34</ID>
@@ -902,7 +2386,6 @@
     <ButtonID>36</ButtonID>
     <Discription>CBP - GENERATOR CONT R</Discription>
     <Type>Switch</Type>
-    <DcsID>695</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>35</ID>
@@ -910,7 +2393,6 @@
     <ButtonID>37</ButtonID>
     <Discription>CBP - CONVERTER L</Discription>
     <Type>Switch</Type>
-    <DcsID>696</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>36</ID>
@@ -918,7 +2400,6 @@
     <ButtonID>38</ButtonID>
     <Discription>CBP - AUX ESS BUS 0A</Discription>
     <Type>Switch</Type>
-    <DcsID>697</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>37</ID>
@@ -926,7 +2407,6 @@
     <ButtonID>39</ButtonID>
     <Discription>CBP - AUX ESS BUS 0B</Discription>
     <Type>Switch</Type>
-    <DcsID>698</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>38</ID>
@@ -934,7 +2414,6 @@
     <ButtonID>40</ButtonID>
     <Discription>CBP - AUX ESS BUS 0C</Discription>
     <Type>Switch</Type>
-    <DcsID>699</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>39</ID>
@@ -942,7 +2421,6 @@
     <ButtonID>41</ButtonID>
     <Discription>CBP - BATTERY BUS TRANS</Discription>
     <Type>Switch</Type>
-    <DcsID>700</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>40</ID>
@@ -950,7 +2428,6 @@
     <ButtonID>42</ButtonID>
     <Discription>CBP - INVERTER PWR</Discription>
     <Type>Switch</Type>
-    <DcsID>701</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>41</ID>
@@ -958,7 +2435,6 @@
     <ButtonID>43</ButtonID>
     <Discription>CBP - INVERTER CONT</Discription>
     <Type>Switch</Type>
-    <DcsID>702</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>42</ID>
@@ -966,7 +2442,6 @@
     <ButtonID>44</ButtonID>
     <Discription>CBP - AUX ESS BUS TIE</Discription>
     <Type>Switch</Type>
-    <DcsID>703</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>43</ID>
@@ -974,7 +2449,6 @@
     <ButtonID>1</ButtonID>
     <Discription>Left MFCD - OSB 1</Discription>
     <Type>Switch</Type>
-    <DcsID>300</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>44</ID>
@@ -982,7 +2456,6 @@
     <ButtonID>2</ButtonID>
     <Discription>Left MFCD - OSB 2</Discription>
     <Type>Switch</Type>
-    <DcsID>301</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>45</ID>
@@ -990,7 +2463,6 @@
     <ButtonID>3</ButtonID>
     <Discription>Left MFCD - OSB 3</Discription>
     <Type>Switch</Type>
-    <DcsID>302</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>46</ID>
@@ -998,7 +2470,6 @@
     <ButtonID>4</ButtonID>
     <Discription>Left MFCD - OSB 4</Discription>
     <Type>Switch</Type>
-    <DcsID>303</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>47</ID>
@@ -1006,7 +2477,6 @@
     <ButtonID>5</ButtonID>
     <Discription>Left MFCD - OSB 5</Discription>
     <Type>Switch</Type>
-    <DcsID>304</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>48</ID>
@@ -1014,7 +2484,6 @@
     <ButtonID>6</ButtonID>
     <Discription>Left MFCD - OSB 6</Discription>
     <Type>Switch</Type>
-    <DcsID>305</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>49</ID>
@@ -1022,7 +2491,6 @@
     <ButtonID>7</ButtonID>
     <Discription>Left MFCD - OSB 7</Discription>
     <Type>Switch</Type>
-    <DcsID>306</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>50</ID>
@@ -1030,7 +2498,6 @@
     <ButtonID>8</ButtonID>
     <Discription>Left MFCD - OSB 8</Discription>
     <Type>Switch</Type>
-    <DcsID>307</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>51</ID>
@@ -1038,7 +2505,6 @@
     <ButtonID>9</ButtonID>
     <Discription>Left MFCD - OSB 9</Discription>
     <Type>Switch</Type>
-    <DcsID>308</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>52</ID>
@@ -1046,7 +2512,6 @@
     <ButtonID>10</ButtonID>
     <Discription>Left MFCD - OSB 10</Discription>
     <Type>Switch</Type>
-    <DcsID>309</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>53</ID>
@@ -1054,7 +2519,6 @@
     <ButtonID>11</ButtonID>
     <Discription>Left MFCD - OSB 11</Discription>
     <Type>Switch</Type>
-    <DcsID>310</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>54</ID>
@@ -1062,7 +2526,6 @@
     <ButtonID>12</ButtonID>
     <Discription>Left MFCD - OSB 12</Discription>
     <Type>Switch</Type>
-    <DcsID>311</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>55</ID>
@@ -1070,7 +2533,6 @@
     <ButtonID>13</ButtonID>
     <Discription>Left MFCD - OSB 13</Discription>
     <Type>Switch</Type>
-    <DcsID>312</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>56</ID>
@@ -1078,7 +2540,6 @@
     <ButtonID>14</ButtonID>
     <Discription>Left MFCD - OSB 14</Discription>
     <Type>Switch</Type>
-    <DcsID>313</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>57</ID>
@@ -1086,7 +2547,6 @@
     <ButtonID>15</ButtonID>
     <Discription>Left MFCD - OSB 15</Discription>
     <Type>Switch</Type>
-    <DcsID>314</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>58</ID>
@@ -1094,7 +2554,6 @@
     <ButtonID>16</ButtonID>
     <Discription>Left MFCD - OSB 16</Discription>
     <Type>Switch</Type>
-    <DcsID>315</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>59</ID>
@@ -1102,7 +2561,6 @@
     <ButtonID>17</ButtonID>
     <Discription>Left MFCD - OSB 17</Discription>
     <Type>Switch</Type>
-    <DcsID>316</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>60</ID>
@@ -1110,7 +2568,6 @@
     <ButtonID>18</ButtonID>
     <Discription>Left MFCD - OSB 18</Discription>
     <Type>Switch</Type>
-    <DcsID>317</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>61</ID>
@@ -1118,7 +2575,6 @@
     <ButtonID>19</ButtonID>
     <Discription>Left MFCD - OSB 19</Discription>
     <Type>Switch</Type>
-    <DcsID>318</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>62</ID>
@@ -1126,7 +2582,6 @@
     <ButtonID>20</ButtonID>
     <Discription>Left MFCD - OSB 20</Discription>
     <Type>Switch</Type>
-    <DcsID>319</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>63</ID>
@@ -1134,7 +2589,6 @@
     <ButtonID>21</ButtonID>
     <Discription>Left MFCD - Moving Map Scale Adjust Increase</Discription>
     <Type>Switch</Type>
-    <DcsID>320</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>64</ID>
@@ -1142,7 +2596,6 @@
     <ButtonID>23</ButtonID>
     <Discription>Left MFCD - Moving Map Scale Adjust Increase (stop)</Discription>
     <Type>Switch</Type>
-    <DcsID>320</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>65</ID>
@@ -1150,7 +2603,6 @@
     <ButtonID>21</ButtonID>
     <Discription>Left MFCD - Moving Map Scale Adjust Decrease</Discription>
     <Type>Switch</Type>
-    <DcsID>320</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>66</ID>
@@ -1158,7 +2610,6 @@
     <ButtonID>23</ButtonID>
     <Discription>Left MFCD - Moving Map Scale Adjust Decrease (stop)</Discription>
     <Type>Switch</Type>
-    <DcsID>320</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>67</ID>
@@ -1166,7 +2617,6 @@
     <ButtonID>24</ButtonID>
     <Discription>Left MFCD - Increase Backlight Brightness</Discription>
     <Type>Switch</Type>
-    <DcsID>321</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>68</ID>
@@ -1174,7 +2624,6 @@
     <ButtonID>26</ButtonID>
     <Discription>Left MFCD - Increase Backlight Brightness (stop)</Discription>
     <Type>Switch</Type>
-    <DcsID>321</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>69</ID>
@@ -1182,7 +2631,6 @@
     <ButtonID>25</ButtonID>
     <Discription>Left MFCD - Decrease Backlight Brightness</Discription>
     <Type>Switch</Type>
-    <DcsID>321</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>70</ID>
@@ -1190,7 +2638,6 @@
     <ButtonID>26</ButtonID>
     <Discription>Left MFCD - Decrease Backlight Brightness (stop)</Discription>
     <Type>Switch</Type>
-    <DcsID>321</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>71</ID>
@@ -1198,7 +2645,6 @@
     <ButtonID>27</ButtonID>
     <Discription>Left MFCD - Increase Brightness</Discription>
     <Type>Switch</Type>
-    <DcsID>322</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>72</ID>
@@ -1206,7 +2652,6 @@
     <ButtonID>29</ButtonID>
     <Discription>Left MFCD - Increase Brightness (stop)</Discription>
     <Type>Switch</Type>
-    <DcsID>322</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>73</ID>
@@ -1214,7 +2659,6 @@
     <ButtonID>28</ButtonID>
     <Discription>Left MFCD - Decrease Brightness</Discription>
     <Type>Switch</Type>
-    <DcsID>322</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>74</ID>
@@ -1222,7 +2666,6 @@
     <ButtonID>29</ButtonID>
     <Discription>Left MFCD - Decrease Brightness (stop)</Discription>
     <Type>Switch</Type>
-    <DcsID>322</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>75</ID>
@@ -1230,7 +2673,6 @@
     <ButtonID>30</ButtonID>
     <Discription>Left MFCD - Increase Contrast</Discription>
     <Type>Switch</Type>
-    <DcsID>323</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>76</ID>
@@ -1238,7 +2680,6 @@
     <ButtonID>32</ButtonID>
     <Discription>Left MFCD - Increase Contrast (stop)</Discription>
     <Type>Switch</Type>
-    <DcsID>323</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>77</ID>
@@ -1246,7 +2687,6 @@
     <ButtonID>31</ButtonID>
     <Discription>Left MFCD - Decrease Contrast</Discription>
     <Type>Switch</Type>
-    <DcsID>323</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>78</ID>
@@ -1254,7 +2694,6 @@
     <ButtonID>30</ButtonID>
     <Discription>Left MFCD - Decrease Contrast (stop)</Discription>
     <Type>Switch</Type>
-    <DcsID>323</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>79</ID>
@@ -1262,7 +2701,6 @@
     <ButtonID>33</ButtonID>
     <Discription>Left MFCD - Increase Symbol Levels</Discription>
     <Type>Switch</Type>
-    <DcsID>324</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>80</ID>
@@ -1270,7 +2708,6 @@
     <ButtonID>35</ButtonID>
     <Discription>Left MFCD - Increase Symbol Levels (stop)</Discription>
     <Type>Switch</Type>
-    <DcsID>324</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>81</ID>
@@ -1278,7 +2715,6 @@
     <ButtonID>34</ButtonID>
     <Discription>Left MFCD - Decrease Symbol Levels</Discription>
     <Type>Switch</Type>
-    <DcsID>324</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>82</ID>
@@ -1286,7 +2722,6 @@
     <ButtonID>35</ButtonID>
     <Discription>Left MFCD - Decrease Symbol Levels (stop)</Discription>
     <Type>Switch</Type>
-    <DcsID>324</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>83</ID>
@@ -1294,7 +2729,6 @@
     <ButtonID>36</ButtonID>
     <Discription>Left MFCD - DAY/NIGHT/OFF</Discription>
     <Type>Switch</Type>
-    <DcsID>325</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>84</ID>
@@ -1302,7 +2736,6 @@
     <ButtonID>1</ButtonID>
     <Discription>Right MFCD - OSB 1</Discription>
     <Type>Switch</Type>
-    <DcsID>326</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>85</ID>
@@ -1310,7 +2743,6 @@
     <ButtonID>2</ButtonID>
     <Discription>Right MFCD - OSB 2</Discription>
     <Type>Switch</Type>
-    <DcsID>327</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>86</ID>
@@ -1318,7 +2750,6 @@
     <ButtonID>3</ButtonID>
     <Discription>Right MFCD - OSB 3</Discription>
     <Type>Switch</Type>
-    <DcsID>328</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>87</ID>
@@ -1326,7 +2757,6 @@
     <ButtonID>4</ButtonID>
     <Discription>Right MFCD - OSB 4</Discription>
     <Type>Switch</Type>
-    <DcsID>329</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>88</ID>
@@ -1334,7 +2764,6 @@
     <ButtonID>5</ButtonID>
     <Discription>Right MFCD - OSB 5</Discription>
     <Type>Switch</Type>
-    <DcsID>330</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>89</ID>
@@ -1342,7 +2771,6 @@
     <ButtonID>6</ButtonID>
     <Discription>Right MFCD - OSB 6</Discription>
     <Type>Switch</Type>
-    <DcsID>331</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>90</ID>
@@ -1350,7 +2778,6 @@
     <ButtonID>7</ButtonID>
     <Discription>Right MFCD - OSB 7</Discription>
     <Type>Switch</Type>
-    <DcsID>332</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>91</ID>
@@ -1358,7 +2785,6 @@
     <ButtonID>8</ButtonID>
     <Discription>Right MFCD - OSB 8</Discription>
     <Type>Switch</Type>
-    <DcsID>333</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>92</ID>
@@ -1366,7 +2792,6 @@
     <ButtonID>9</ButtonID>
     <Discription>Right MFCD - OSB 9</Discription>
     <Type>Switch</Type>
-    <DcsID>334</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>93</ID>
@@ -1374,7 +2799,6 @@
     <ButtonID>10</ButtonID>
     <Discription>Right MFCD - OSB 10</Discription>
     <Type>Switch</Type>
-    <DcsID>335</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>94</ID>
@@ -1382,7 +2806,6 @@
     <ButtonID>11</ButtonID>
     <Discription>Right MFCD - OSB 11</Discription>
     <Type>Switch</Type>
-    <DcsID>336</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>95</ID>
@@ -1390,7 +2813,6 @@
     <ButtonID>12</ButtonID>
     <Discription>Right MFCD - OSB 12</Discription>
     <Type>Switch</Type>
-    <DcsID>337</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>96</ID>
@@ -1398,7 +2820,6 @@
     <ButtonID>13</ButtonID>
     <Discription>Right MFCD - OSB 13</Discription>
     <Type>Switch</Type>
-    <DcsID>338</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>97</ID>
@@ -1406,7 +2827,6 @@
     <ButtonID>14</ButtonID>
     <Discription>Right MFCD - OSB 14</Discription>
     <Type>Switch</Type>
-    <DcsID>339</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>98</ID>
@@ -1414,7 +2834,6 @@
     <ButtonID>15</ButtonID>
     <Discription>Right MFCD - OSB 15</Discription>
     <Type>Switch</Type>
-    <DcsID>340</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>99</ID>
@@ -1422,7 +2841,6 @@
     <ButtonID>16</ButtonID>
     <Discription>Right MFCD - OSB 16</Discription>
     <Type>Switch</Type>
-    <DcsID>341</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>100</ID>
@@ -1430,7 +2848,6 @@
     <ButtonID>17</ButtonID>
     <Discription>Right MFCD - OSB 17</Discription>
     <Type>Switch</Type>
-    <DcsID>342</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>101</ID>
@@ -1438,7 +2855,6 @@
     <ButtonID>18</ButtonID>
     <Discription>Right MFCD - OSB 18</Discription>
     <Type>Switch</Type>
-    <DcsID>343</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>102</ID>
@@ -1446,7 +2862,6 @@
     <ButtonID>19</ButtonID>
     <Discription>Right MFCD - OSB 19</Discription>
     <Type>Switch</Type>
-    <DcsID>344</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>103</ID>
@@ -1454,7 +2869,6 @@
     <ButtonID>20</ButtonID>
     <Discription>Right MFCD - OSB 20</Discription>
     <Type>Switch</Type>
-    <DcsID>345</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>104</ID>
@@ -1462,7 +2876,6 @@
     <ButtonID>21</ButtonID>
     <Discription>Right MFCD - Moving Map Scale Adjust Increase</Discription>
     <Type>Switch</Type>
-    <DcsID>346</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>105</ID>
@@ -1470,7 +2883,6 @@
     <ButtonID>23</ButtonID>
     <Discription>Right MFCD - Moving Map Scale Adjust Increase (stop)</Discription>
     <Type>Switch</Type>
-    <DcsID>346</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>106</ID>
@@ -1478,7 +2890,6 @@
     <ButtonID>21</ButtonID>
     <Discription>Right MFCD - Moving Map Scale Adjust Decrease</Discription>
     <Type>Switch</Type>
-    <DcsID>346</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>107</ID>
@@ -1486,7 +2897,6 @@
     <ButtonID>23</ButtonID>
     <Discription>Right MFCD - Moving Map Scale Adjust Decrease (stop)</Discription>
     <Type>Switch</Type>
-    <DcsID>346</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>108</ID>
@@ -1494,7 +2904,6 @@
     <ButtonID>24</ButtonID>
     <Discription>Right MFCD - Increase Backlight Brightness</Discription>
     <Type>Switch</Type>
-    <DcsID>347</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>109</ID>
@@ -1502,7 +2911,6 @@
     <ButtonID>26</ButtonID>
     <Discription>Right MFCD - Increase Backlight Brightness (stop)</Discription>
     <Type>Switch</Type>
-    <DcsID>347</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>110</ID>
@@ -1510,7 +2918,6 @@
     <ButtonID>25</ButtonID>
     <Discription>Right MFCD - Decrease Backlight Brightness</Discription>
     <Type>Switch</Type>
-    <DcsID>347</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>111</ID>
@@ -1518,7 +2925,6 @@
     <ButtonID>26</ButtonID>
     <Discription>Right MFCD - Decrease Backlight Brightness (stop)</Discription>
     <Type>Switch</Type>
-    <DcsID>347</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>112</ID>
@@ -1526,7 +2932,6 @@
     <ButtonID>27</ButtonID>
     <Discription>Right MFCD - Increase Brightness</Discription>
     <Type>Switch</Type>
-    <DcsID>348</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>113</ID>
@@ -1534,7 +2939,6 @@
     <ButtonID>29</ButtonID>
     <Discription>Right MFCD - Increase Brightness (stop)</Discription>
     <Type>Switch</Type>
-    <DcsID>348</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>114</ID>
@@ -1542,7 +2946,6 @@
     <ButtonID>28</ButtonID>
     <Discription>Right MFCD - Decrease Brightness</Discription>
     <Type>Switch</Type>
-    <DcsID>348</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>115</ID>
@@ -1550,7 +2953,6 @@
     <ButtonID>29</ButtonID>
     <Discription>Right MFCD - Decrease Brightness (stop)</Discription>
     <Type>Switch</Type>
-    <DcsID>348</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>116</ID>
@@ -1558,7 +2960,6 @@
     <ButtonID>30</ButtonID>
     <Discription>Right MFCD - Increase Contrast</Discription>
     <Type>Switch</Type>
-    <DcsID>349</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>117</ID>
@@ -1566,7 +2967,6 @@
     <ButtonID>32</ButtonID>
     <Discription>Right MFCD - Increase Contrast (stop)</Discription>
     <Type>Switch</Type>
-    <DcsID>349</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>118</ID>
@@ -1574,7 +2974,6 @@
     <ButtonID>31</ButtonID>
     <Discription>Right MFCD - Decrease Contrast</Discription>
     <Type>Switch</Type>
-    <DcsID>349</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>119</ID>
@@ -1582,7 +2981,6 @@
     <ButtonID>30</ButtonID>
     <Discription>Right MFCD - Decrease Contrast (stop)</Discription>
     <Type>Switch</Type>
-    <DcsID>349</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>120</ID>
@@ -1590,7 +2988,6 @@
     <ButtonID>33</ButtonID>
     <Discription>Right MFCD - Increase Symbol Levels</Discription>
     <Type>Switch</Type>
-    <DcsID>350</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>121</ID>
@@ -1598,7 +2995,6 @@
     <ButtonID>35</ButtonID>
     <Discription>Right MFCD - Increase Symbol Levels (stop)</Discription>
     <Type>Switch</Type>
-    <DcsID>350</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>122</ID>
@@ -1606,7 +3002,6 @@
     <ButtonID>34</ButtonID>
     <Discription>Right MFCD - Decrease Symbol Levels</Discription>
     <Type>Switch</Type>
-    <DcsID>350</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>123</ID>
@@ -1614,7 +3009,6 @@
     <ButtonID>35</ButtonID>
     <Discription>Right MFCD - Decrease Symbol Levels (stop)</Discription>
     <Type>Switch</Type>
-    <DcsID>350</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>124</ID>
@@ -1622,7 +3016,6 @@
     <ButtonID>36</ButtonID>
     <Discription>Right MFCD - DAY/NIGHT/OFF</Discription>
     <Type>Switch</Type>
-    <DcsID>351</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>125</ID>
@@ -1630,7 +3023,6 @@
     <ButtonID>1</ButtonID>
     <Discription>CMSP - Edit Program Value 1</Discription>
     <Type>Switch</Type>
-    <DcsID>352</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>126</ID>
@@ -1638,7 +3030,6 @@
     <ButtonID>2</ButtonID>
     <Discription>CMSP - Edit Program Value 2</Discription>
     <Type>Switch</Type>
-    <DcsID>353</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>127</ID>
@@ -1646,7 +3037,6 @@
     <ButtonID>3</ButtonID>
     <Discription>CMSP - Edit Program Value 3</Discription>
     <Type>Switch</Type>
-    <DcsID>354</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>128</ID>
@@ -1654,7 +3044,6 @@
     <ButtonID>4</ButtonID>
     <Discription>CMSP - Edit Program Value 4</Discription>
     <Type>Switch</Type>
-    <DcsID>355</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>129</ID>
@@ -1662,7 +3051,6 @@
     <ButtonID>5</ButtonID>
     <Discription>CMSP - Cycle Program or Value Up</Discription>
     <Type>Switch</Type>
-    <DcsID>356</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>130</ID>
@@ -1670,7 +3058,6 @@
     <ButtonID>6</ButtonID>
     <Discription>CMSP - Cycle Program or Value Down</Discription>
     <Type>Switch</Type>
-    <DcsID>356</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>131</ID>
@@ -1678,7 +3065,6 @@
     <ButtonID>7</ButtonID>
     <Discription>CMSP - Save and Return Program</Discription>
     <Type>Switch</Type>
-    <DcsID>357</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>132</ID>
@@ -1686,23 +3072,20 @@
     <ButtonID>8</ButtonID>
     <Discription>CMSP - Jettison Countermeasures</Discription>
     <Type>Switch</Type>
-    <DcsID>358</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>133</ID>
     <DeviceID>4</DeviceID>
     <ButtonID>9</ButtonID>
-    <Discription>CMSP - Adjust Display Brightness</Discription>
-    <Type>Rotary</Type>
-    <DcsID>359</DcsID>
+    <Discription>CMSP - Adjust Display Brightness (rotary)</Discription>
+    <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>134</ID>
     <DeviceID>4</DeviceID>
     <ButtonID>10</ButtonID>
     <Discription>CMSP - Missile Warning System (MWS)</Discription>
-    <Type>Rotary</Type>
-    <DcsID>360</DcsID>
+    <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>135</ID>
@@ -1710,7 +3093,6 @@
     <ButtonID>12</ButtonID>
     <Discription>CMSP - Electronic Countermeasure Jammer (JMR)</Discription>
     <Type>Switch</Type>
-    <DcsID>361</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>136</ID>
@@ -1718,7 +3100,6 @@
     <ButtonID>14</ButtonID>
     <Discription>CMSP - Radar Warning Receiver (RWR). ON/OFF</Discription>
     <Type>Switch</Type>
-    <DcsID>362</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>137</ID>
@@ -1726,7 +3107,6 @@
     <ButtonID>15</ButtonID>
     <Discription>CMSP - Radar Warning Receiver (RWR). MENU</Discription>
     <Type>Switch</Type>
-    <DcsID>362</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>138</ID>
@@ -1734,7 +3114,6 @@
     <ButtonID>16</ButtonID>
     <Discription>CMSP - Countermeasure Dispenser (DISP). ON/OFF</Discription>
     <Type>Switch</Type>
-    <DcsID>363</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>139</ID>
@@ -1742,7 +3121,6 @@
     <ButtonID>17</ButtonID>
     <Discription>CMSP - Countermeasure Dispenser (DISP). MENU</Discription>
     <Type>Switch</Type>
-    <DcsID>363</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>140</ID>
@@ -1750,7 +3128,6 @@
     <ButtonID>18</ButtonID>
     <Discription>CMSP - Master CMS Mode Select</Discription>
     <Type>Switch</Type>
-    <DcsID>364</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>141</ID>
@@ -1758,7 +3135,6 @@
     <ButtonID>1</ButtonID>
     <Discription>CMSC - Select Jammer Program</Discription>
     <Type>Switch</Type>
-    <DcsID>365</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>142</ID>
@@ -1766,7 +3142,6 @@
     <ButtonID>3</ButtonID>
     <Discription>CMSC - Toggle between 5 and 16 Priority Threats Displayed</Discription>
     <Type>Switch</Type>
-    <DcsID>369</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>143</ID>
@@ -1774,31 +3149,27 @@
     <ButtonID>4</ButtonID>
     <Discription>CMSC - Separate RWR Symbols</Discription>
     <Type>Switch</Type>
-    <DcsID>370</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>144</ID>
     <DeviceID>5</DeviceID>
     <ButtonID>5</ButtonID>
-    <Discription>CMSC - Unknown Threats</Discription>
+    <Discription>CMSC - Display Unknown Threats</Discription>
     <Type>Switch</Type>
-    <DcsID>371</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>145</ID>
     <DeviceID>5</DeviceID>
     <ButtonID>6</ButtonID>
-    <Discription>CMSC - Adjust Display Brightness</Discription>
-    <Type>Rotary</Type>
-    <DcsID>367</DcsID>
+    <Discription>CMSC - Adjust Display Brightness (rotary)</Discription>
+    <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>146</ID>
     <DeviceID>5</DeviceID>
     <ButtonID>7</ButtonID>
-    <Discription>CMSC - Adjust RWR Volume</Discription>
-    <Type>Rotary</Type>
-    <DcsID>368</DcsID>
+    <Discription>CMSC - Adjust RWR Volume (rotary)</Discription>
+    <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>147</ID>
@@ -1806,7 +3177,6 @@
     <ButtonID>1</ButtonID>
     <Discription>AHCP - Master Arm</Discription>
     <Type>Switch</Type>
-    <DcsID>375</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>148</ID>
@@ -1814,7 +3184,6 @@
     <ButtonID>2</ButtonID>
     <Discription>AHCP - Gun Arm Mode</Discription>
     <Type>Switch</Type>
-    <DcsID>376</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>149</ID>
@@ -1822,7 +3191,6 @@
     <ButtonID>3</ButtonID>
     <Discription>AHCP - Laser Arm</Discription>
     <Type>Switch</Type>
-    <DcsID>377</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>150</ID>
@@ -1830,7 +3198,6 @@
     <ButtonID>4</ButtonID>
     <Discription>AHCP - Targeting Pod Power On/Off</Discription>
     <Type>Switch</Type>
-    <DcsID>378</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>151</ID>
@@ -1838,7 +3205,6 @@
     <ButtonID>5</ButtonID>
     <Discription>AHCP - Altimeter Source</Discription>
     <Type>Switch</Type>
-    <DcsID>379</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>152</ID>
@@ -1846,7 +3212,6 @@
     <ButtonID>6</ButtonID>
     <Discription>AHCP - Day/Night HUD Mode</Discription>
     <Type>Switch</Type>
-    <DcsID>380</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>153</ID>
@@ -1854,7 +3219,6 @@
     <ButtonID>7</ButtonID>
     <Discription>AHCP - NORM/Standby HUD Mode</Discription>
     <Type>Switch</Type>
-    <DcsID>381</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>154</ID>
@@ -1862,7 +3226,6 @@
     <ButtonID>8</ButtonID>
     <Discription>AHCP - Turn On/Off CICU</Discription>
     <Type>Switch</Type>
-    <DcsID>382</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>155</ID>
@@ -1870,7 +3233,6 @@
     <ButtonID>9</ButtonID>
     <Discription>AHCP - JTRS Datalink On/Off</Discription>
     <Type>Switch</Type>
-    <DcsID>383</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>156</ID>
@@ -1878,7 +3240,6 @@
     <ButtonID>10</ButtonID>
     <Discription>AHCP - Turn On/Off/Test IFFCC</Discription>
     <Type>Switch</Type>
-    <DcsID>384</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>157</ID>
@@ -1886,7 +3247,6 @@
     <ButtonID>1</ButtonID>
     <Discription>UFC - 1</Discription>
     <Type>Switch</Type>
-    <DcsID>385</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>158</ID>
@@ -1894,7 +3254,6 @@
     <ButtonID>2</ButtonID>
     <Discription>UFC - 2</Discription>
     <Type>Switch</Type>
-    <DcsID>386</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>159</ID>
@@ -1902,7 +3261,6 @@
     <ButtonID>3</ButtonID>
     <Discription>UFC - 3</Discription>
     <Type>Switch</Type>
-    <DcsID>387</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>160</ID>
@@ -1910,7 +3268,6 @@
     <ButtonID>4</ButtonID>
     <Discription>UFC - 4</Discription>
     <Type>Switch</Type>
-    <DcsID>388</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>161</ID>
@@ -1918,7 +3275,6 @@
     <ButtonID>5</ButtonID>
     <Discription>UFC - 5</Discription>
     <Type>Switch</Type>
-    <DcsID>389</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>162</ID>
@@ -1926,7 +3282,6 @@
     <ButtonID>6</ButtonID>
     <Discription>UFC - 6</Discription>
     <Type>Switch</Type>
-    <DcsID>390</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>163</ID>
@@ -1934,7 +3289,6 @@
     <ButtonID>7</ButtonID>
     <Discription>UFC - 7</Discription>
     <Type>Switch</Type>
-    <DcsID>391</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>164</ID>
@@ -1942,7 +3296,6 @@
     <ButtonID>8</ButtonID>
     <Discription>UFC - 8</Discription>
     <Type>Switch</Type>
-    <DcsID>392</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>165</ID>
@@ -1950,7 +3303,6 @@
     <ButtonID>9</ButtonID>
     <Discription>UFC - 9</Discription>
     <Type>Switch</Type>
-    <DcsID>393</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>166</ID>
@@ -1958,7 +3310,6 @@
     <ButtonID>10</ButtonID>
     <Discription>UFC - 0</Discription>
     <Type>Switch</Type>
-    <DcsID>395</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>167</ID>
@@ -1966,15 +3317,13 @@
     <ButtonID>11</ButtonID>
     <Discription>UFC - Space</Discription>
     <Type>Switch</Type>
-    <DcsID>396</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>168</ID>
     <DeviceID>8</DeviceID>
     <ButtonID>12</ButtonID>
-    <Discription>UFC - Hack Time</Discription>
+    <Discription>UFC - Display Hack Time</Discription>
     <Type>Switch</Type>
-    <DcsID>394</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>169</ID>
@@ -1982,7 +3331,6 @@
     <ButtonID>13</ButtonID>
     <Discription>UFC - Select Function Mode</Discription>
     <Type>Switch</Type>
-    <DcsID>397</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>170</ID>
@@ -1990,7 +3338,6 @@
     <ButtonID>14</ButtonID>
     <Discription>UFC - Select Letter Mode</Discription>
     <Type>Switch</Type>
-    <DcsID>398</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>171</ID>
@@ -1998,7 +3345,6 @@
     <ButtonID>15</ButtonID>
     <Discription>UFC - Clear</Discription>
     <Type>Switch</Type>
-    <DcsID>399</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>172</ID>
@@ -2006,7 +3352,6 @@
     <ButtonID>16</ButtonID>
     <Discription>UFC - Enter</Discription>
     <Type>Switch</Type>
-    <DcsID>400</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>173</ID>
@@ -2014,15 +3359,13 @@
     <ButtonID>17</ButtonID>
     <Discription>UFC - Create Overhead Mark Point</Discription>
     <Type>Switch</Type>
-    <DcsID>401</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>174</ID>
     <DeviceID>8</DeviceID>
     <ButtonID>18</ButtonID>
-    <Discription>UFC - and Adjust Altitude Alert Values</Discription>
+    <Discription>UFC - Display and Adjust Altitude Alert Values</Discription>
     <Type>Switch</Type>
-    <DcsID>402</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>175</ID>
@@ -2030,7 +3373,6 @@
     <ButtonID>20</ButtonID>
     <Discription>UFC - Cycle Steerpoint/Waypoint</Discription>
     <Type>Switch</Type>
-    <DcsID>405</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>176</ID>
@@ -2038,7 +3380,6 @@
     <ButtonID>21</ButtonID>
     <Discription>UFC - Cycle Steerpoint/Waypoint</Discription>
     <Type>Switch</Type>
-    <DcsID>405</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>177</ID>
@@ -2046,7 +3387,6 @@
     <ButtonID>22</ButtonID>
     <Discription>UFC - DATA up</Discription>
     <Type>Switch</Type>
-    <DcsID>406</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>178</ID>
@@ -2054,7 +3394,6 @@
     <ButtonID>23</ButtonID>
     <Discription>UFC - DATA down</Discription>
     <Type>Switch</Type>
-    <DcsID>406</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>179</ID>
@@ -2062,7 +3401,6 @@
     <ButtonID>24</ButtonID>
     <Discription>UFC - SEL up</Discription>
     <Type>Switch</Type>
-    <DcsID>407</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>180</ID>
@@ -2070,7 +3408,6 @@
     <ButtonID>25</ButtonID>
     <Discription>UFC - SEL down</Discription>
     <Type>Switch</Type>
-    <DcsID>407</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>181</ID>
@@ -2078,7 +3415,6 @@
     <ButtonID>26</ButtonID>
     <Discription>UFC - DEPR up</Discription>
     <Type>Switch</Type>
-    <DcsID>408</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>182</ID>
@@ -2086,7 +3422,6 @@
     <ButtonID>27</ButtonID>
     <Discription>UFC - DEPR down</Discription>
     <Type>Switch</Type>
-    <DcsID>408</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>183</ID>
@@ -2094,7 +3429,6 @@
     <ButtonID>28</ButtonID>
     <Discription>UFC - INTEN left</Discription>
     <Type>Switch</Type>
-    <DcsID>409</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>184</ID>
@@ -2102,7 +3436,6 @@
     <ButtonID>29</ButtonID>
     <Discription>UFC - INTEN right</Discription>
     <Type>Switch</Type>
-    <DcsID>409</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>185</ID>
@@ -2110,7 +3443,6 @@
     <ButtonID>1</ButtonID>
     <Discription>CDU - LSK 3L</Discription>
     <Type>Switch</Type>
-    <DcsID>410</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>186</ID>
@@ -2118,7 +3450,6 @@
     <ButtonID>2</ButtonID>
     <Discription>CDU - LSK 5L</Discription>
     <Type>Switch</Type>
-    <DcsID>411</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>187</ID>
@@ -2126,7 +3457,6 @@
     <ButtonID>3</ButtonID>
     <Discription>CDU - LSK 7L</Discription>
     <Type>Switch</Type>
-    <DcsID>412</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>188</ID>
@@ -2134,7 +3464,6 @@
     <ButtonID>4</ButtonID>
     <Discription>CDU - LSK 9L</Discription>
     <Type>Switch</Type>
-    <DcsID>413</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>189</ID>
@@ -2142,7 +3471,6 @@
     <ButtonID>5</ButtonID>
     <Discription>CDU - LSK 3R</Discription>
     <Type>Switch</Type>
-    <DcsID>414</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>190</ID>
@@ -2150,7 +3478,6 @@
     <ButtonID>6</ButtonID>
     <Discription>CDU - LSK 5R</Discription>
     <Type>Switch</Type>
-    <DcsID>415</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>191</ID>
@@ -2158,7 +3485,6 @@
     <ButtonID>7</ButtonID>
     <Discription>CDU - LSK 7R</Discription>
     <Type>Switch</Type>
-    <DcsID>416</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>192</ID>
@@ -2166,7 +3492,6 @@
     <ButtonID>8</ButtonID>
     <Discription>CDU - LSK 9R</Discription>
     <Type>Switch</Type>
-    <DcsID>417</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>193</ID>
@@ -2174,7 +3499,6 @@
     <ButtonID>9</ButtonID>
     <Discription>CDU - SYS</Discription>
     <Type>Switch</Type>
-    <DcsID>418</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>194</ID>
@@ -2182,7 +3506,6 @@
     <ButtonID>10</ButtonID>
     <Discription>CDU - NAV</Discription>
     <Type>Switch</Type>
-    <DcsID>419</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>195</ID>
@@ -2190,7 +3513,6 @@
     <ButtonID>11</ButtonID>
     <Discription>CDU - WP</Discription>
     <Type>Switch</Type>
-    <DcsID>420</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>196</ID>
@@ -2198,7 +3520,6 @@
     <ButtonID>12</ButtonID>
     <Discription>CDU - OFFSET</Discription>
     <Type>Switch</Type>
-    <DcsID>421</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>197</ID>
@@ -2206,7 +3527,6 @@
     <ButtonID>13</ButtonID>
     <Discription>CDU - FPM</Discription>
     <Type>Switch</Type>
-    <DcsID>422</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>198</ID>
@@ -2214,7 +3534,6 @@
     <ButtonID>14</ButtonID>
     <Discription>CDU - PREV</Discription>
     <Type>Switch</Type>
-    <DcsID>423</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>199</ID>
@@ -2222,7 +3541,6 @@
     <ButtonID>15</ButtonID>
     <Discription>CDU - 1</Discription>
     <Type>Switch</Type>
-    <DcsID>425</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>200</ID>
@@ -2230,7 +3548,6 @@
     <ButtonID>16</ButtonID>
     <Discription>CDU - 2</Discription>
     <Type>Switch</Type>
-    <DcsID>426</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>201</ID>
@@ -2238,7 +3555,6 @@
     <ButtonID>17</ButtonID>
     <Discription>CDU - 3</Discription>
     <Type>Switch</Type>
-    <DcsID>427</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>202</ID>
@@ -2246,7 +3562,6 @@
     <ButtonID>18</ButtonID>
     <Discription>CDU - 4</Discription>
     <Type>Switch</Type>
-    <DcsID>428</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>203</ID>
@@ -2254,7 +3569,6 @@
     <ButtonID>19</ButtonID>
     <Discription>CDU - 5</Discription>
     <Type>Switch</Type>
-    <DcsID>429</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>204</ID>
@@ -2262,7 +3576,6 @@
     <ButtonID>20</ButtonID>
     <Discription>CDU - 6</Discription>
     <Type>Switch</Type>
-    <DcsID>430</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>205</ID>
@@ -2270,7 +3583,6 @@
     <ButtonID>21</ButtonID>
     <Discription>CDU - 7</Discription>
     <Type>Switch</Type>
-    <DcsID>431</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>206</ID>
@@ -2278,7 +3590,6 @@
     <ButtonID>22</ButtonID>
     <Discription>CDU - 8</Discription>
     <Type>Switch</Type>
-    <DcsID>432</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>207</ID>
@@ -2286,7 +3597,6 @@
     <ButtonID>23</ButtonID>
     <Discription>CDU - 9</Discription>
     <Type>Switch</Type>
-    <DcsID>433</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>208</ID>
@@ -2294,7 +3604,6 @@
     <ButtonID>24</ButtonID>
     <Discription>CDU - 0</Discription>
     <Type>Switch</Type>
-    <DcsID>434</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>209</ID>
@@ -2302,7 +3611,6 @@
     <ButtonID>25</ButtonID>
     <Discription>CDU - . (Point)</Discription>
     <Type>Switch</Type>
-    <DcsID>435</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>210</ID>
@@ -2310,7 +3618,6 @@
     <ButtonID>26</ButtonID>
     <Discription>CDU - / (Slash)</Discription>
     <Type>Switch</Type>
-    <DcsID>436</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>211</ID>
@@ -2318,7 +3625,6 @@
     <ButtonID>27</ButtonID>
     <Discription>CDU - A</Discription>
     <Type>Switch</Type>
-    <DcsID>437</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>212</ID>
@@ -2326,7 +3632,6 @@
     <ButtonID>28</ButtonID>
     <Discription>CDU - B</Discription>
     <Type>Switch</Type>
-    <DcsID>438</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>213</ID>
@@ -2334,7 +3639,6 @@
     <ButtonID>29</ButtonID>
     <Discription>CDU - C</Discription>
     <Type>Switch</Type>
-    <DcsID>439</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>214</ID>
@@ -2342,7 +3646,6 @@
     <ButtonID>30</ButtonID>
     <Discription>CDU - D</Discription>
     <Type>Switch</Type>
-    <DcsID>440</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>215</ID>
@@ -2350,7 +3653,6 @@
     <ButtonID>31</ButtonID>
     <Discription>CDU - E</Discription>
     <Type>Switch</Type>
-    <DcsID>441</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>216</ID>
@@ -2358,7 +3660,6 @@
     <ButtonID>32</ButtonID>
     <Discription>CDU - F</Discription>
     <Type>Switch</Type>
-    <DcsID>442</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>217</ID>
@@ -2366,7 +3667,6 @@
     <ButtonID>33</ButtonID>
     <Discription>CDU - G</Discription>
     <Type>Switch</Type>
-    <DcsID>443</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>218</ID>
@@ -2374,7 +3674,6 @@
     <ButtonID>34</ButtonID>
     <Discription>CDU - H</Discription>
     <Type>Switch</Type>
-    <DcsID>444</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>219</ID>
@@ -2382,7 +3681,6 @@
     <ButtonID>35</ButtonID>
     <Discription>CDU - I</Discription>
     <Type>Switch</Type>
-    <DcsID>445</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>220</ID>
@@ -2390,7 +3688,6 @@
     <ButtonID>36</ButtonID>
     <Discription>CDU - J</Discription>
     <Type>Switch</Type>
-    <DcsID>446</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>221</ID>
@@ -2398,7 +3695,6 @@
     <ButtonID>37</ButtonID>
     <Discription>CDU - K</Discription>
     <Type>Switch</Type>
-    <DcsID>447</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>222</ID>
@@ -2406,7 +3702,6 @@
     <ButtonID>38</ButtonID>
     <Discription>CDU - L</Discription>
     <Type>Switch</Type>
-    <DcsID>448</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>223</ID>
@@ -2414,7 +3709,6 @@
     <ButtonID>39</ButtonID>
     <Discription>CDU - M</Discription>
     <Type>Switch</Type>
-    <DcsID>449</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>224</ID>
@@ -2422,7 +3716,6 @@
     <ButtonID>40</ButtonID>
     <Discription>CDU - N</Discription>
     <Type>Switch</Type>
-    <DcsID>450</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>225</ID>
@@ -2430,7 +3723,6 @@
     <ButtonID>41</ButtonID>
     <Discription>CDU - O</Discription>
     <Type>Switch</Type>
-    <DcsID>451</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>226</ID>
@@ -2438,7 +3730,6 @@
     <ButtonID>42</ButtonID>
     <Discription>CDU - P</Discription>
     <Type>Switch</Type>
-    <DcsID>452</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>227</ID>
@@ -2446,7 +3737,6 @@
     <ButtonID>43</ButtonID>
     <Discription>CDU - Q</Discription>
     <Type>Switch</Type>
-    <DcsID>453</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>228</ID>
@@ -2454,7 +3744,6 @@
     <ButtonID>44</ButtonID>
     <Discription>CDU - R</Discription>
     <Type>Switch</Type>
-    <DcsID>454</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>229</ID>
@@ -2462,7 +3751,6 @@
     <ButtonID>45</ButtonID>
     <Discription>CDU - S</Discription>
     <Type>Switch</Type>
-    <DcsID>455</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>230</ID>
@@ -2470,7 +3758,6 @@
     <ButtonID>46</ButtonID>
     <Discription>CDU - T</Discription>
     <Type>Switch</Type>
-    <DcsID>456</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>231</ID>
@@ -2478,7 +3765,6 @@
     <ButtonID>47</ButtonID>
     <Discription>CDU - U</Discription>
     <Type>Switch</Type>
-    <DcsID>457</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>232</ID>
@@ -2486,7 +3772,6 @@
     <ButtonID>48</ButtonID>
     <Discription>CDU - V</Discription>
     <Type>Switch</Type>
-    <DcsID>458</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>233</ID>
@@ -2494,7 +3779,6 @@
     <ButtonID>49</ButtonID>
     <Discription>CDU - W</Discription>
     <Type>Switch</Type>
-    <DcsID>459</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>234</ID>
@@ -2502,7 +3786,6 @@
     <ButtonID>50</ButtonID>
     <Discription>CDU - X</Discription>
     <Type>Switch</Type>
-    <DcsID>460</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>235</ID>
@@ -2510,7 +3793,6 @@
     <ButtonID>51</ButtonID>
     <Discription>CDU - Y</Discription>
     <Type>Switch</Type>
-    <DcsID>461</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>236</ID>
@@ -2518,7 +3800,6 @@
     <ButtonID>52</ButtonID>
     <Discription>CDU - Z</Discription>
     <Type>Switch</Type>
-    <DcsID>462</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>237</ID>
@@ -2526,7 +3807,6 @@
     <ButtonID>55</ButtonID>
     <Discription>CDU - MK</Discription>
     <Type>Switch</Type>
-    <DcsID>466</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>238</ID>
@@ -2534,7 +3814,6 @@
     <ButtonID>56</ButtonID>
     <Discription>CDU - BCK</Discription>
     <Type>Switch</Type>
-    <DcsID>467</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>239</ID>
@@ -2542,7 +3821,6 @@
     <ButtonID>57</ButtonID>
     <Discription>CDU - SPC</Discription>
     <Type>Switch</Type>
-    <DcsID>468</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>240</ID>
@@ -2550,7 +3828,6 @@
     <ButtonID>58</ButtonID>
     <Discription>CDU - CLR</Discription>
     <Type>Switch</Type>
-    <DcsID>470</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>241</ID>
@@ -2558,7 +3835,6 @@
     <ButtonID>59</ButtonID>
     <Discription>CDU - FA</Discription>
     <Type>Switch</Type>
-    <DcsID>471</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>242</ID>
@@ -2566,7 +3842,6 @@
     <ButtonID>60</ButtonID>
     <Discription>CDU - DIMBRT left</Discription>
     <Type>Switch</Type>
-    <DcsID>424</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>243</ID>
@@ -2574,7 +3849,6 @@
     <ButtonID>61</ButtonID>
     <Discription>CDU - DIMBRT right</Discription>
     <Type>Switch</Type>
-    <DcsID>424</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>244</ID>
@@ -2582,7 +3856,6 @@
     <ButtonID>62</ButtonID>
     <Discription>CDU - PG up</Discription>
     <Type>Switch</Type>
-    <DcsID>463</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>245</ID>
@@ -2590,7 +3863,6 @@
     <ButtonID>63</ButtonID>
     <Discription>CDU - PG down</Discription>
     <Type>Switch</Type>
-    <DcsID>463</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>246</ID>
@@ -2598,7 +3870,6 @@
     <ButtonID>64</ButtonID>
     <Discription>CDU - Blank left</Discription>
     <Type>Switch</Type>
-    <DcsID>469</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>247</ID>
@@ -2606,7 +3877,6 @@
     <ButtonID>65</ButtonID>
     <Discription>CDU - Blank right</Discription>
     <Type>Switch</Type>
-    <DcsID>469</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>248</ID>
@@ -2614,7 +3884,6 @@
     <ButtonID>66</ButtonID>
     <Discription>CDU - Plus</Discription>
     <Type>Switch</Type>
-    <DcsID>472</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>249</ID>
@@ -2622,7 +3891,6 @@
     <ButtonID>67</ButtonID>
     <Discription>CDU - Minus</Discription>
     <Type>Switch</Type>
-    <DcsID>472</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>250</ID>
@@ -2630,7 +3898,6 @@
     <ButtonID>1</ButtonID>
     <Discription>Emergency Jettison External Stores</Discription>
     <Type>Switch</Type>
-    <DcsID>101</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>251</ID>
@@ -2638,7 +3905,6 @@
     <ButtonID>2</ButtonID>
     <Discription>Arm Ground Safety Override Cover</Discription>
     <Type>Switch</Type>
-    <DcsID>709</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>252</ID>
@@ -2646,7 +3912,6 @@
     <ButtonID>3</ButtonID>
     <Discription>Arm Ground Safety Override Switch</Discription>
     <Type>Switch</Type>
-    <DcsID>710</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>253</ID>
@@ -2654,7 +3919,6 @@
     <ButtonID>1</ButtonID>
     <Discription>Clock - Toggle Clock and Elapsed Time Modes</Discription>
     <Type>Switch</Type>
-    <DcsID>68</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>254</ID>
@@ -2662,7 +3926,6 @@
     <ButtonID>2</ButtonID>
     <Discription>Clock - Start, Stop and Reset Elapsed Timer</Discription>
     <Type>Switch</Type>
-    <DcsID>69</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>255</ID>
@@ -2670,7 +3933,6 @@
     <ButtonID>1</ButtonID>
     <Discription>AAP - Use Steerpoint From Active Flight Plan</Discription>
     <Type>Switch</Type>
-    <DcsID>473</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>256</ID>
@@ -2678,7 +3940,6 @@
     <ButtonID>2</ButtonID>
     <Discription>AAP - Toggle Steerpoint up</Discription>
     <Type>Switch</Type>
-    <DcsID>474</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>257</ID>
@@ -2686,7 +3947,6 @@
     <ButtonID>3</ButtonID>
     <Discription>AAP - Toggle Steerpoint down</Discription>
     <Type>Switch</Type>
-    <DcsID>474</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>258</ID>
@@ -2694,7 +3954,6 @@
     <ButtonID>4</ButtonID>
     <Discription>AAP - CDU Page Select</Discription>
     <Type>Switch</Type>
-    <DcsID>475</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>259</ID>
@@ -2702,7 +3961,6 @@
     <ButtonID>5</ButtonID>
     <Discription>AAP - CDU Power On/Off</Discription>
     <Type>Switch</Type>
-    <DcsID>476</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>260</ID>
@@ -2710,7 +3968,6 @@
     <ButtonID>6</ButtonID>
     <Discription>AAP - EGI Power On/Off</Discription>
     <Type>Switch</Type>
-    <DcsID>477</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>261</ID>
@@ -2718,7 +3975,6 @@
     <ButtonID>1</ButtonID>
     <Discription>Master Caution Light</Discription>
     <Type>Switch</Type>
-    <DcsID>403</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>262</ID>
@@ -2726,7 +3982,6 @@
     <ButtonID>3</ButtonID>
     <Discription>Landing Gear Horn Silence Button</Discription>
     <Type>Switch</Type>
-    <DcsID>127</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>263</ID>
@@ -2734,7 +3989,6 @@
     <ButtonID>2</ButtonID>
     <Discription>ALCP Test Cockpit Indication Lights</Discription>
     <Type>Switch</Type>
-    <DcsID>197</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>264</ID>
@@ -2742,15 +3996,13 @@
     <ButtonID>4</ButtonID>
     <Discription>LSCP Fire Detect Bleed Air Test</Discription>
     <Type>Switch</Type>
-    <DcsID>198</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>265</ID>
     <DeviceID>29</DeviceID>
     <ButtonID>1</ButtonID>
-    <Discription>RWR - Adjust Display Brightness</Discription>
+    <Discription>RWR - Adjust Display Brightness (rotary)</Discription>
     <Type>Rotary</Type>
-    <DcsID>16</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>266</ID>
@@ -2758,7 +4010,6 @@
     <ButtonID>1</ButtonID>
     <Discription>FuelSystem - External Wing Tanks Boost Pumps</Discription>
     <Type>Switch</Type>
-    <DcsID>106</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>267</ID>
@@ -2766,7 +4017,6 @@
     <ButtonID>2</ButtonID>
     <Discription>FuelSystem - External Fuselage Tank Boost Pump</Discription>
     <Type>Switch</Type>
-    <DcsID>107</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>268</ID>
@@ -2774,7 +4024,6 @@
     <ButtonID>3</ButtonID>
     <Discription>FuelSystem - Tank Gate</Discription>
     <Type>Switch</Type>
-    <DcsID>108</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>269</ID>
@@ -2782,7 +4031,6 @@
     <ButtonID>4</ButtonID>
     <Discription>FuelSystem - Cross Feed</Discription>
     <Type>Switch</Type>
-    <DcsID>109</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>270</ID>
@@ -2790,7 +4038,6 @@
     <ButtonID>5</ButtonID>
     <Discription>FuelSystem - Boost Pumps Left Wing</Discription>
     <Type>Switch</Type>
-    <DcsID>110</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>271</ID>
@@ -2798,7 +4045,6 @@
     <ButtonID>6</ButtonID>
     <Discription>FuelSystem - Boost Pumps Right Wing</Discription>
     <Type>Switch</Type>
-    <DcsID>111</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>272</ID>
@@ -2806,7 +4052,6 @@
     <ButtonID>7</ButtonID>
     <Discription>FuelSystem - Boost Pumps Main Fuselage Left</Discription>
     <Type>Switch</Type>
-    <DcsID>112</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>273</ID>
@@ -2814,7 +4059,6 @@
     <ButtonID>8</ButtonID>
     <Discription>FuelSystem - Boost Pumps Main Fuselage Right</Discription>
     <Type>Switch</Type>
-    <DcsID>113</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>274</ID>
@@ -2822,7 +4066,6 @@
     <ButtonID>9</ButtonID>
     <Discription>FuelSystem - Signal Amplifier Norm/Override</Discription>
     <Type>Switch</Type>
-    <DcsID>114</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>275</ID>
@@ -2830,7 +4073,6 @@
     <ButtonID>10</ButtonID>
     <Discription>FuelSystem - Line Check</Discription>
     <Type>Switch</Type>
-    <DcsID>115</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>276</ID>
@@ -2838,7 +4080,6 @@
     <ButtonID>12</ButtonID>
     <Discription>FuelSystem - Fill Disable Wing Left</Discription>
     <Type>Switch</Type>
-    <DcsID>117</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>277</ID>
@@ -2846,7 +4087,6 @@
     <ButtonID>13</ButtonID>
     <Discription>FuelSystem - Fill Disable Wing Right</Discription>
     <Type>Switch</Type>
-    <DcsID>118</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>278</ID>
@@ -2854,7 +4094,6 @@
     <ButtonID>14</ButtonID>
     <Discription>FuelSystem - Fill Disable Main Left</Discription>
     <Type>Switch</Type>
-    <DcsID>119</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>279</ID>
@@ -2862,7 +4101,6 @@
     <ButtonID>15</ButtonID>
     <Discription>FuelSystem - Fill Disable Main Right</Discription>
     <Type>Switch</Type>
-    <DcsID>120</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>280</ID>
@@ -2870,7 +4108,6 @@
     <ButtonID>16</ButtonID>
     <Discription>FuelSystem - Aerial Refueling Slipway Control Lever</Discription>
     <Type>Switch</Type>
-    <DcsID>121</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>281</ID>
@@ -2878,7 +4115,6 @@
     <ButtonID>17</ButtonID>
     <Discription>FuelSystem - Fuel display selector</Discription>
     <Type>Switch</Type>
-    <DcsID>645</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>282</ID>
@@ -2886,7 +4122,6 @@
     <ButtonID>18</ButtonID>
     <Discription>FuelSystem - Fuel Gauge Test</Discription>
     <Type>Switch</Type>
-    <DcsID>646</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>283</ID>
@@ -2894,7 +4129,6 @@
     <ButtonID>1</ButtonID>
     <Discription>Left Engine Fuel Flow Control</Discription>
     <Type>Switch</Type>
-    <DcsID>122</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>284</ID>
@@ -2902,7 +4136,6 @@
     <ButtonID>2</ButtonID>
     <Discription>Right Engine Fuel Flow Control</Discription>
     <Type>Switch</Type>
-    <DcsID>123</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>285</ID>
@@ -2910,7 +4143,6 @@
     <ButtonID>3</ButtonID>
     <Discription>Engine Operate Left</Discription>
     <Type>Switch</Type>
-    <DcsID>124</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>286</ID>
@@ -2918,7 +4150,6 @@
     <ButtonID>7</ButtonID>
     <Discription>Engine Operate Left (button)</Discription>
     <Type>Switch</Type>
-    <DcsID>0</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>287</ID>
@@ -2926,7 +4157,6 @@
     <ButtonID>4</ButtonID>
     <Discription>Engine Operate Right</Discription>
     <Type>Switch</Type>
-    <DcsID>125</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>288</ID>
@@ -2934,7 +4164,6 @@
     <ButtonID>8</ButtonID>
     <Discription>Engine Operate Right (button)</Discription>
     <Type>Switch</Type>
-    <DcsID>0</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>289</ID>
@@ -2942,7 +4171,6 @@
     <ButtonID>5</ButtonID>
     <Discription>APU On/Off</Discription>
     <Type>Switch</Type>
-    <DcsID>126</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>290</ID>
@@ -2950,7 +4178,6 @@
     <ButtonID>6</ButtonID>
     <Discription>Throttle Friction Control</Discription>
     <Type>Switch</Type>
-    <DcsID>128</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>291</ID>
@@ -2958,7 +4185,6 @@
     <ButtonID>9</ButtonID>
     <Discription>TEMS DATA</Discription>
     <Type>Switch</Type>
-    <DcsID>652</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>292</ID>
@@ -2966,7 +4192,6 @@
     <ButtonID>1</ButtonID>
     <Discription>Autopilot Mode Select Switch</Discription>
     <Type>Switch</Type>
-    <DcsID>132</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>293</ID>
@@ -2974,7 +4199,6 @@
     <ButtonID>2</ButtonID>
     <Discription>Autopilot Engage/Disengage</Discription>
     <Type>Switch</Type>
-    <DcsID>131</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>294</ID>
@@ -2982,7 +4206,6 @@
     <ButtonID>26</ButtonID>
     <Discription>EAC On</Discription>
     <Type>Switch</Type>
-    <DcsID>129</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>295</ID>
@@ -2990,7 +4213,6 @@
     <ButtonID>27</ButtonID>
     <Discription>EAC Off</Discription>
     <Type>Switch</Type>
-    <DcsID>129</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>296</ID>
@@ -2998,7 +4220,6 @@
     <ButtonID>3</ButtonID>
     <Discription>SASP - Yaw SAS Engage left</Discription>
     <Type>Switch</Type>
-    <DcsID>185</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>297</ID>
@@ -3006,7 +4227,6 @@
     <ButtonID>4</ButtonID>
     <Discription>SASP - Yaw SAS Engage left (off)</Discription>
     <Type>Switch</Type>
-    <DcsID>185</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>298</ID>
@@ -3014,7 +4234,6 @@
     <ButtonID>5</ButtonID>
     <Discription>SASP - Yaw SAS Engage right</Discription>
     <Type>Switch</Type>
-    <DcsID>186</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>299</ID>
@@ -3022,7 +4241,6 @@
     <ButtonID>6</ButtonID>
     <Discription>SASP - Yaw SAS Engage right (off)</Discription>
     <Type>Switch</Type>
-    <DcsID>186</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>300</ID>
@@ -3030,7 +4248,6 @@
     <ButtonID>7</ButtonID>
     <Discription>SASP - Pitch SAS Engage left</Discription>
     <Type>Switch</Type>
-    <DcsID>187</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>301</ID>
@@ -3038,7 +4255,6 @@
     <ButtonID>8</ButtonID>
     <Discription>SASP - Pitch SAS Engage left (off)</Discription>
     <Type>Switch</Type>
-    <DcsID>187</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>302</ID>
@@ -3046,7 +4262,6 @@
     <ButtonID>9</ButtonID>
     <Discription>SASP - Pitch SAS Engage right</Discription>
     <Type>Switch</Type>
-    <DcsID>188</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>303</ID>
@@ -3054,7 +4269,6 @@
     <ButtonID>10</ButtonID>
     <Discription>SASP - Pitch SAS Engage right (off)</Discription>
     <Type>Switch</Type>
-    <DcsID>188</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>304</ID>
@@ -3062,7 +4276,6 @@
     <ButtonID>11</ButtonID>
     <Discription>SASP - Monitor Test Left/Right</Discription>
     <Type>Switch</Type>
-    <DcsID>189</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>305</ID>
@@ -3070,7 +4283,6 @@
     <ButtonID>12</ButtonID>
     <Discription>SASP - Set Takeoff Trim</Discription>
     <Type>Switch</Type>
-    <DcsID>190</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>306</ID>
@@ -3078,7 +4290,6 @@
     <ButtonID>14</ButtonID>
     <Discription>SASP - Yaw Trim</Discription>
     <Type>Switch</Type>
-    <DcsID>192</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>307</ID>
@@ -3086,7 +4297,6 @@
     <ButtonID>13</ButtonID>
     <Discription>SASP - Yaw Trim (off)</Discription>
     <Type>Switch</Type>
-    <DcsID>192</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>308</ID>
@@ -3094,7 +4304,6 @@
     <ButtonID>15</ButtonID>
     <Discription>EFCP - Speed Brake Emergency Retract</Discription>
     <Type>Switch</Type>
-    <DcsID>174</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>309</ID>
@@ -3102,7 +4311,6 @@
     <ButtonID>16</ButtonID>
     <Discription>EFCP - Pitch/Roll Trim Norm/Emergency Override</Discription>
     <Type>Switch</Type>
-    <DcsID>175</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>310</ID>
@@ -3110,7 +4318,6 @@
     <ButtonID>17</ButtonID>
     <Discription>EFCP - Trim Emergency Nose Down</Discription>
     <Type>Switch</Type>
-    <DcsID>176</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>311</ID>
@@ -3118,7 +4325,6 @@
     <ButtonID>18</ButtonID>
     <Discription>EFCP - Trim Emergency Right Wing Down</Discription>
     <Type>Switch</Type>
-    <DcsID>176</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>312</ID>
@@ -3126,7 +4332,6 @@
     <ButtonID>19</ButtonID>
     <Discription>EFCP - Trim Emergency Nose Up</Discription>
     <Type>Switch</Type>
-    <DcsID>176</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>313</ID>
@@ -3134,7 +4339,6 @@
     <ButtonID>20</ButtonID>
     <Discription>EFCP - Trim Emergency Left Wing Down</Discription>
     <Type>Switch</Type>
-    <DcsID>176</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>314</ID>
@@ -3142,7 +4346,6 @@
     <ButtonID>25</ButtonID>
     <Discription>EFCP - Trim stop</Discription>
     <Type>Switch</Type>
-    <DcsID>176</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>315</ID>
@@ -3150,7 +4353,6 @@
     <ButtonID>21</ButtonID>
     <Discription>EFCP - Aileron Emergency Disengage</Discription>
     <Type>Switch</Type>
-    <DcsID>177</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>316</ID>
@@ -3158,7 +4360,6 @@
     <ButtonID>22</ButtonID>
     <Discription>EFCP - Elevator Emergency Disengage</Discription>
     <Type>Switch</Type>
-    <DcsID>180</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>317</ID>
@@ -3166,7 +4367,6 @@
     <ButtonID>23</ButtonID>
     <Discription>EFCP - Flaps Emergency Retract</Discription>
     <Type>Switch</Type>
-    <DcsID>183</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>318</ID>
@@ -3174,7 +4374,6 @@
     <ButtonID>24</ButtonID>
     <Discription>EFCP - Manual Reversion Flight Control System (MRFCS)</Discription>
     <Type>Switch</Type>
-    <DcsID>184</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>319</ID>
@@ -3182,7 +4381,6 @@
     <ButtonID>28</ButtonID>
     <Discription>Anti Skid</Discription>
     <Type>Switch</Type>
-    <DcsID>654</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>320</ID>
@@ -3190,7 +4388,6 @@
     <ButtonID>29</ButtonID>
     <Discription>Anti Skid (off)</Discription>
     <Type>Switch</Type>
-    <DcsID>654</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>321</ID>
@@ -3198,7 +4395,6 @@
     <ButtonID>31</ButtonID>
     <Discription>HARS-SAS Override/NORM</Discription>
     <Type>Switch</Type>
-    <DcsID>196</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>322</ID>
@@ -3206,7 +4402,6 @@
     <ButtonID>30</ButtonID>
     <Discription>Emergency Brake</Discription>
     <Type>Switch</Type>
-    <DcsID>772</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>323</ID>
@@ -3214,7 +4409,6 @@
     <ButtonID>1</ButtonID>
     <Discription>Landing Gear Lever</Discription>
     <Type>Switch</Type>
-    <DcsID>716</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>324</ID>
@@ -3222,7 +4416,6 @@
     <ButtonID>3</ButtonID>
     <Discription>Downlock Override</Discription>
     <Type>Switch</Type>
-    <DcsID>651</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>325</ID>
@@ -3230,7 +4423,6 @@
     <ButtonID>2</ButtonID>
     <Discription>Flap Setting</Discription>
     <Type>Switch</Type>
-    <DcsID>773</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>326</ID>
@@ -3238,7 +4430,6 @@
     <ButtonID>4</ButtonID>
     <Discription>Seat Height Adjustment up</Discription>
     <Type>Switch</Type>
-    <DcsID>770</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>327</ID>
@@ -3246,7 +4437,6 @@
     <ButtonID>5</ButtonID>
     <Discription>Seat Height Adjustment down</Discription>
     <Type>Switch</Type>
-    <DcsID>770</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>328</ID>
@@ -3254,7 +4444,6 @@
     <ButtonID>6</ButtonID>
     <Discription>Canopy Open</Discription>
     <Type>Switch</Type>
-    <DcsID>712</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>329</ID>
@@ -3262,7 +4451,6 @@
     <ButtonID>7</ButtonID>
     <Discription>Canopy Close</Discription>
     <Type>Switch</Type>
-    <DcsID>712</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>330</ID>
@@ -3270,7 +4458,6 @@
     <ButtonID>0</ButtonID>
     <Discription>Canopy Hold</Discription>
     <Type>Switch</Type>
-    <DcsID>712</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>331</ID>
@@ -3278,7 +4465,6 @@
     <ButtonID>8</ButtonID>
     <Discription>Auxiliary Landing Gear Handle</Discription>
     <Type>Switch</Type>
-    <DcsID>718</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>332</ID>
@@ -3286,7 +4472,6 @@
     <ButtonID>9</ButtonID>
     <Discription>Auxiliary Landing Gear Handle Lock button</Discription>
     <Type>Switch</Type>
-    <DcsID>722</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>333</ID>
@@ -3294,7 +4479,6 @@
     <ButtonID>10</ButtonID>
     <Discription>Seat Arm Handle</Discription>
     <Type>Switch</Type>
-    <DcsID>733</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>334</ID>
@@ -3302,7 +4486,6 @@
     <ButtonID>11</ButtonID>
     <Discription>Extend boarding ladder cover</Discription>
     <Type>Switch</Type>
-    <DcsID>787</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>335</ID>
@@ -3310,7 +4493,6 @@
     <ButtonID>12</ButtonID>
     <Discription>Extend boarding ladder button</Discription>
     <Type>Switch</Type>
-    <DcsID>788</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>336</ID>
@@ -3318,7 +4500,6 @@
     <ButtonID>13</ButtonID>
     <Discription>Internal canopy actuator disengage lever</Discription>
     <Type>Switch</Type>
-    <DcsID>777</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>337</ID>
@@ -3326,7 +4507,6 @@
     <ButtonID>14</ButtonID>
     <Discription>Canopy jettison lever</Discription>
     <Type>Switch</Type>
-    <DcsID>785</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>338</ID>
@@ -3334,7 +4514,6 @@
     <ButtonID>15</ButtonID>
     <Discription>Canopy Jettison Lever Unlock Button</Discription>
     <Type>Switch</Type>
-    <DcsID>786</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>339</ID>
@@ -3342,7 +4521,6 @@
     <ButtonID>3</ButtonID>
     <Discription>Oxygen - Flow Emergency/Normal/Test Mask</Discription>
     <Type>Switch</Type>
-    <DcsID>601</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>340</ID>
@@ -3350,7 +4528,6 @@
     <ButtonID>2</ButtonID>
     <Discription>Oxygen - Normal/100%</Discription>
     <Type>Switch</Type>
-    <DcsID>602</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>341</ID>
@@ -3358,7 +4535,6 @@
     <ButtonID>1</ButtonID>
     <Discription>Oxygen - Supply On/Off</Discription>
     <Type>Switch</Type>
-    <DcsID>603</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>342</ID>
@@ -3366,7 +4542,6 @@
     <ButtonID>1</ButtonID>
     <Discription>Oxygen Indicator Test</Discription>
     <Type>Switch</Type>
-    <DcsID>275</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>343</ID>
@@ -3374,7 +4549,6 @@
     <ButtonID>2</ButtonID>
     <Discription>Windshield Defog/Deice</Discription>
     <Type>Switch</Type>
-    <DcsID>276</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>344</ID>
@@ -3382,7 +4556,6 @@
     <ButtonID>3</ButtonID>
     <Discription>Canopy Defog</Discription>
     <Type>Switch</Type>
-    <DcsID>277</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>345</ID>
@@ -3390,7 +4563,6 @@
     <ButtonID>4</ButtonID>
     <Discription>Windshield Rain Removal/Wash</Discription>
     <Type>Switch</Type>
-    <DcsID>278</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>346</ID>
@@ -3398,7 +4570,6 @@
     <ButtonID>5</ButtonID>
     <Discription>Pitot Heater</Discription>
     <Type>Switch</Type>
-    <DcsID>279</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>347</ID>
@@ -3406,7 +4577,6 @@
     <ButtonID>6</ButtonID>
     <Discription>Bleed Air</Discription>
     <Type>Switch</Type>
-    <DcsID>280</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>348</ID>
@@ -3414,7 +4584,6 @@
     <ButtonID>7</ButtonID>
     <Discription>Temperature/Pressure Control</Discription>
     <Type>Switch</Type>
-    <DcsID>282</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>349</ID>
@@ -3422,23 +4591,20 @@
     <ButtonID>8</ButtonID>
     <Discription>Main Air Supply</Discription>
     <Type>Switch</Type>
-    <DcsID>283</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>350</ID>
     <DeviceID>41</DeviceID>
     <ButtonID>9</ButtonID>
-    <Discription>Flow Level Control</Discription>
+    <Discription>Flow Level Control (rotary)</Discription>
     <Type>Rotary</Type>
-    <DcsID>284</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>351</ID>
     <DeviceID>41</DeviceID>
     <ButtonID>13</ButtonID>
-    <Discription>Temp Level Control</Discription>
+    <Discription>Temp Level Control (rotary)</Discription>
     <Type>Rotary</Type>
-    <DcsID>0</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>352</ID>
@@ -3446,7 +4612,6 @@
     <ButtonID>10</ButtonID>
     <Discription>Air Conditioner MAN/AUTO</Discription>
     <Type>Switch</Type>
-    <DcsID>0</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>353</ID>
@@ -3454,7 +4619,6 @@
     <ButtonID>11</ButtonID>
     <Discription>Air Conditioner to COLD</Discription>
     <Type>Switch</Type>
-    <DcsID>0</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>354</ID>
@@ -3462,7 +4626,6 @@
     <ButtonID>12</ButtonID>
     <Discription>Air Conditioner to HOT</Discription>
     <Type>Switch</Type>
-    <DcsID>0</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>355</ID>
@@ -3470,7 +4633,6 @@
     <ButtonID>14</ButtonID>
     <Discription>Anti-G suit valve test button</Discription>
     <Type>Switch</Type>
-    <DcsID>0</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>356</ID>
@@ -3478,7 +4640,6 @@
     <ButtonID>7</ButtonID>
     <Discription>IFF - Code</Discription>
     <Type>Switch</Type>
-    <DcsID>199</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>357</ID>
@@ -3486,7 +4647,6 @@
     <ButtonID>8</ButtonID>
     <Discription>IFF - Master</Discription>
     <Type>Switch</Type>
-    <DcsID>200</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>358</ID>
@@ -3494,7 +4654,6 @@
     <ButtonID>9</ButtonID>
     <Discription>IFF - Audio/light</Discription>
     <Type>Switch</Type>
-    <DcsID>201</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>359</ID>
@@ -3502,7 +4661,6 @@
     <ButtonID>10</ButtonID>
     <Discription>IFF - "Test M-1</Discription>
     <Type>Switch</Type>
-    <DcsID>202</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>360</ID>
@@ -3510,7 +4668,6 @@
     <ButtonID>11</ButtonID>
     <Discription>IFF - Test M-2</Discription>
     <Type>Switch</Type>
-    <DcsID>203</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>361</ID>
@@ -3518,7 +4675,6 @@
     <ButtonID>12</ButtonID>
     <Discription>IFF - Test M-3A</Discription>
     <Type>Switch</Type>
-    <DcsID>204</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>362</ID>
@@ -3526,7 +4682,6 @@
     <ButtonID>13</ButtonID>
     <Discription>IFF - Test M-C</Discription>
     <Type>Switch</Type>
-    <DcsID>205</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>363</ID>
@@ -3534,7 +4689,6 @@
     <ButtonID>14</ButtonID>
     <Discription>IFF - RAD Test/Mon</Discription>
     <Type>Switch</Type>
-    <DcsID>206</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>364</ID>
@@ -3542,7 +4696,6 @@
     <ButtonID>15</ButtonID>
     <Discription>IFF - Ident/Mic</Discription>
     <Type>Switch</Type>
-    <DcsID>207</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>365</ID>
@@ -3550,7 +4703,6 @@
     <ButtonID>16</ButtonID>
     <Discription>IFF - On/Out</Discription>
     <Type>Switch</Type>
-    <DcsID>208</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>366</ID>
@@ -3558,7 +4710,6 @@
     <ButtonID>1</ButtonID>
     <Discription>IFF - MODE1-WHEEL1</Discription>
     <Type>Switch</Type>
-    <DcsID>209</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>367</ID>
@@ -3566,7 +4717,6 @@
     <ButtonID>2</ButtonID>
     <Discription>IFF - MODE1-WHEEL2</Discription>
     <Type>Switch</Type>
-    <DcsID>210</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>368</ID>
@@ -3574,7 +4724,6 @@
     <ButtonID>3</ButtonID>
     <Discription>IFF - MODE3A-WHEEL1</Discription>
     <Type>Switch</Type>
-    <DcsID>211</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>369</ID>
@@ -3582,7 +4731,6 @@
     <ButtonID>4</ButtonID>
     <Discription>IFF - MODE3A-WHEEL2</Discription>
     <Type>Switch</Type>
-    <DcsID>212</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>370</ID>
@@ -3590,7 +4738,6 @@
     <ButtonID>5</ButtonID>
     <Discription>IFF - MODE3A-WHEEL3</Discription>
     <Type>Switch</Type>
-    <DcsID>213</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>371</ID>
@@ -3598,15 +4745,13 @@
     <ButtonID>6</ButtonID>
     <Discription>IFF - MODE3A-WHEEL4</Discription>
     <Type>Switch</Type>
-    <DcsID>214</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>372</ID>
     <DeviceID>43</DeviceID>
     <ButtonID>17</ButtonID>
     <Discription>IFF - Reply test (rotary)</Discription>
-    <Type>Switch</Type>
-    <DcsID>0</DcsID>
+    <Type>Rotary</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>373</ID>
@@ -3614,7 +4759,6 @@
     <ButtonID>20</ButtonID>
     <Discription>IFF - Reply test (button)</Discription>
     <Type>Switch</Type>
-    <DcsID>206</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>374</ID>
@@ -3622,7 +4766,6 @@
     <ButtonID>18</ButtonID>
     <Discription>IFF - Test (rotary)</Discription>
     <Type>Rotary</Type>
-    <DcsID>206</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>375</ID>
@@ -3630,7 +4773,6 @@
     <ButtonID>21</ButtonID>
     <Discription>IFF - Test (button)</Discription>
     <Type>Switch</Type>
-    <DcsID>206</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>376</ID>
@@ -3638,7 +4780,6 @@
     <ButtonID>19</ButtonID>
     <Discription>IFF - antenna switch</Discription>
     <Type>Switch</Type>
-    <DcsID>706</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>377</ID>
@@ -3646,7 +4787,6 @@
     <ButtonID>1</ButtonID>
     <Discription>HARS - Fast Erect</Discription>
     <Type>Switch</Type>
-    <DcsID>711</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>378</ID>
@@ -3654,7 +4794,6 @@
     <ButtonID>2</ButtonID>
     <Discription>HARS - SLAVE-DG mode</Discription>
     <Type>Switch</Type>
-    <DcsID>270</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>379</ID>
@@ -3662,7 +4801,6 @@
     <ButtonID>3</ButtonID>
     <Discription>HARS - N/S toggle switch</Discription>
     <Type>Switch</Type>
-    <DcsID>273</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>380</ID>
@@ -3670,7 +4808,6 @@
     <ButtonID>4</ButtonID>
     <Discription>HARS - MAG VAR</Discription>
     <Type>Switch</Type>
-    <DcsID>272</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>381</ID>
@@ -3678,7 +4815,6 @@
     <ButtonID>5</ButtonID>
     <Discription>HARS - Latitude Dial</Discription>
     <Type>Switch</Type>
-    <DcsID>271</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>382</ID>
@@ -3686,7 +4822,6 @@
     <ButtonID>6</ButtonID>
     <Discription>HARS - Push-To-Sync (rotary)</Discription>
     <Type>Rotary</Type>
-    <DcsID>267</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>383</ID>
@@ -3694,23 +4829,20 @@
     <ButtonID>7</ButtonID>
     <Discription>HARS - Push-To-Sync (button)</Discription>
     <Type>Switch</Type>
-    <DcsID>267</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>384</ID>
     <DeviceID>45</DeviceID>
     <ButtonID>1</ButtonID>
     <Discription>HSI - Heading Set Knob</Discription>
-    <Type>Rotary</Type>
-    <DcsID>45</DcsID>
+    <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>385</ID>
     <DeviceID>45</DeviceID>
     <ButtonID>2</ButtonID>
     <Discription>HSI - Course Set Knob</Discription>
-    <Type>Rotary</Type>
-    <DcsID>44</DcsID>
+    <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>386</ID>
@@ -3718,7 +4850,6 @@
     <ButtonID>1</ButtonID>
     <Discription>NMSP - HARS Backup Navigation Mode</Discription>
     <Type>Switch</Type>
-    <DcsID>605</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>387</ID>
@@ -3726,7 +4857,6 @@
     <ButtonID>2</ButtonID>
     <Discription>NMSP - EGI Navigation Mode</Discription>
     <Type>Switch</Type>
-    <DcsID>607</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>388</ID>
@@ -3734,7 +4864,6 @@
     <ButtonID>3</ButtonID>
     <Discription>NMSP - TISL No Function</Discription>
     <Type>Switch</Type>
-    <DcsID>609</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>389</ID>
@@ -3742,7 +4871,6 @@
     <ButtonID>4</ButtonID>
     <Discription>NMSP - STEERPT Mode</Discription>
     <Type>Switch</Type>
-    <DcsID>611</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>390</ID>
@@ -3750,7 +4878,6 @@
     <ButtonID>5</ButtonID>
     <Discription>NMSP - ANCHR Mode</Discription>
     <Type>Switch</Type>
-    <DcsID>613</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>391</ID>
@@ -3758,7 +4885,6 @@
     <ButtonID>6</ButtonID>
     <Discription>NMSP - TCN Mode</Discription>
     <Type>Switch</Type>
-    <DcsID>615</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>392</ID>
@@ -3766,7 +4892,6 @@
     <ButtonID>7</ButtonID>
     <Discription>NMSP - ILS Mode</Discription>
     <Type>Switch</Type>
-    <DcsID>617</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>393</ID>
@@ -3774,7 +4899,6 @@
     <ButtonID>8</ButtonID>
     <Discription>NMSP - ABLE-STOW ADI Localizer Bar</Discription>
     <Type>Switch</Type>
-    <DcsID>621</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>394</ID>
@@ -3782,7 +4906,6 @@
     <ButtonID>1</ButtonID>
     <Discription>ADI - Pitch Trim Knob</Discription>
     <Type>Switch</Type>
-    <DcsID>22</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>395</ID>
@@ -3790,15 +4913,13 @@
     <ButtonID>2</ButtonID>
     <Discription>SAI - Cage</Discription>
     <Type>Switch</Type>
-    <DcsID>0</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>396</ID>
     <DeviceID>48</DeviceID>
     <ButtonID>3</ButtonID>
-    <Discription>SAI - Cage</Discription>
+    <Discription>SAI - Cage (rotary)</Discription>
     <Type>Rotary</Type>
-    <DcsID>0</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>397</ID>
@@ -3806,7 +4927,6 @@
     <ButtonID>7</ButtonID>
     <Discription>Emergency Flood Light</Discription>
     <Type>Switch</Type>
-    <DcsID>243</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>398</ID>
@@ -3814,7 +4934,6 @@
     <ButtonID>8</ButtonID>
     <Discription>Position Lights, FLASH/OFF/STEADY</Discription>
     <Type>Switch</Type>
-    <DcsID>287</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>399</ID>
@@ -3822,7 +4941,6 @@
     <ButtonID>9</ButtonID>
     <Discription>Formation Lights</Discription>
     <Type>Switch</Type>
-    <DcsID>288</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>400</ID>
@@ -3830,7 +4948,6 @@
     <ButtonID>10</ButtonID>
     <Discription>Anticollision Lights</Discription>
     <Type>Switch</Type>
-    <DcsID>289</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>401</ID>
@@ -3838,7 +4955,6 @@
     <ButtonID>11</ButtonID>
     <Discription>Anticollision Lights (off)</Discription>
     <Type>Switch</Type>
-    <DcsID>289</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>402</ID>
@@ -3846,7 +4962,6 @@
     <ButtonID>1</ButtonID>
     <Discription>Engine Instruments Lights</Discription>
     <Type>Switch</Type>
-    <DcsID>290</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>403</ID>
@@ -3854,7 +4969,6 @@
     <ButtonID>12</ButtonID>
     <Discription>Nose Illumination</Discription>
     <Type>Switch</Type>
-    <DcsID>291</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>404</ID>
@@ -3862,7 +4976,6 @@
     <ButtonID>2</ButtonID>
     <Discription>Flight Instruments Lights</Discription>
     <Type>Switch</Type>
-    <DcsID>292</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>405</ID>
@@ -3870,7 +4983,6 @@
     <ButtonID>3</ButtonID>
     <Discription>Auxiliary Instruments Lights</Discription>
     <Type>Switch</Type>
-    <DcsID>293</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>406</ID>
@@ -3878,7 +4990,6 @@
     <ButtonID>13</ButtonID>
     <Discription>Signal Lights</Discription>
     <Type>Switch</Type>
-    <DcsID>294</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>407</ID>
@@ -3886,7 +4997,6 @@
     <ButtonID>4</ButtonID>
     <Discription>Accelerometer - Compass Lights</Discription>
     <Type>Switch</Type>
-    <DcsID>295</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>408</ID>
@@ -3894,7 +5004,6 @@
     <ButtonID>5</ButtonID>
     <Discription>Flood Light</Discription>
     <Type>Switch</Type>
-    <DcsID>296</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>409</ID>
@@ -3902,7 +5011,6 @@
     <ButtonID>6</ButtonID>
     <Discription>Console Light</Discription>
     <Type>Switch</Type>
-    <DcsID>297</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>410</ID>
@@ -3910,7 +5018,6 @@
     <ButtonID>14</ButtonID>
     <Discription>Land Taxi Lights</Discription>
     <Type>Switch</Type>
-    <DcsID>655</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>411</ID>
@@ -3918,7 +5025,6 @@
     <ButtonID>15</ButtonID>
     <Discription>Refuel Status Indexer Lights</Discription>
     <Type>Switch</Type>
-    <DcsID>193</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>412</ID>
@@ -3926,7 +5032,6 @@
     <ButtonID>16</ButtonID>
     <Discription>Nightvision Lights</Discription>
     <Type>Switch</Type>
-    <DcsID>194</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>413</ID>
@@ -3934,7 +5039,6 @@
     <ButtonID>18</ButtonID>
     <Discription>Refueling Lighting Dial</Discription>
     <Type>Switch</Type>
-    <DcsID>116</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>414</ID>
@@ -3942,7 +5046,6 @@
     <ButtonID>1</ButtonID>
     <Discription>Left Engine Fire T-Handle</Discription>
     <Type>Switch</Type>
-    <DcsID>102</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>415</ID>
@@ -3950,7 +5053,6 @@
     <ButtonID>2</ButtonID>
     <Discription>APU Fire T-Handle</Discription>
     <Type>Switch</Type>
-    <DcsID>103</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>416</ID>
@@ -3958,7 +5060,6 @@
     <ButtonID>3</ButtonID>
     <Discription>Right Engine Fire T-Handle</Discription>
     <Type>Switch</Type>
-    <DcsID>104</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>417</ID>
@@ -3966,31 +5067,27 @@
     <ButtonID>4</ButtonID>
     <Discription>Fire Extinguishing Agent Discharge</Discription>
     <Type>Switch</Type>
-    <DcsID>105</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>418</ID>
     <DeviceID>51</DeviceID>
     <ButtonID>1</ButtonID>
-    <Discription>TACAN - Channel Selector (Tens)</Discription>
+    <Discription>TACAN - Channel Selector (Tens) (rotary)</Discription>
     <Type>Rotary</Type>
-    <DcsID>256</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>419</ID>
     <DeviceID>51</DeviceID>
     <ButtonID>3</ButtonID>
-    <Discription>TACAN - Channel Selector (Ones)</Discription>
+    <Discription>TACAN - Channel Selector (Ones) (rotary)</Discription>
     <Type>Rotary</Type>
-    <DcsID>257</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>420</ID>
     <DeviceID>51</DeviceID>
     <ButtonID>5</ButtonID>
     <Discription>TACAN - Channel Selector (Ones) (button)</Discription>
-    <Type>Switch</Type>
-    <DcsID>258</DcsID>
+    <Type>Rotary</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>421</ID>
@@ -3998,15 +5095,13 @@
     <ButtonID>6</ButtonID>
     <Discription>Test TACAN Signal on HSI</Discription>
     <Type>Switch</Type>
-    <DcsID>259</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>422</ID>
     <DeviceID>51</DeviceID>
     <ButtonID>7</ButtonID>
     <Discription>TACAN - Signal Volume</Discription>
-    <Type>Rotary</Type>
-    <DcsID>261</DcsID>
+    <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>423</ID>
@@ -4014,7 +5109,6 @@
     <ButtonID>8</ButtonID>
     <Discription>TACAN - Mode Dial</Discription>
     <Type>Switch</Type>
-    <DcsID>262</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>424</ID>
@@ -4022,7 +5116,6 @@
     <ButtonID>1</ButtonID>
     <Discription>Stall Volume</Discription>
     <Type>Switch</Type>
-    <DcsID>704</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>425</ID>
@@ -4030,39 +5123,41 @@
     <ButtonID>2</ButtonID>
     <Discription>Stall Peak Volume</Discription>
     <Type>Switch</Type>
-    <DcsID>705</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>426</ID>
     <DeviceID>53</DeviceID>
     <ButtonID>2</ButtonID>
-    <Discription>ILS Frequency MHz</Discription>
+    <Discription>ILS Frequency MHz (rotary)</Discription>
     <Type>Rotary</Type>
-    <DcsID>248</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>427</ID>
     <DeviceID>53</DeviceID>
     <ButtonID>1</ButtonID>
-    <Discription>ILS Power (switch)</Discription>
+    <Discription>ILS Frequency MHz (button)</Discription>
     <Type>Switch</Type>
-    <DcsID>247</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>428</ID>
     <DeviceID>53</DeviceID>
-    <ButtonID>3</ButtonID>
+    <ButtonID>5</ButtonID>
     <Discription>ILS Frequency kHz</Discription>
-    <Type>Rotary</Type>
-    <DcsID>250</DcsID>
+    <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>429</ID>
     <DeviceID>53</DeviceID>
     <ButtonID>4</ButtonID>
-    <Discription>ILS Volume</Discription>
+    <Discription>ILS Volume (button)</Discription>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>430</ID>
+    <DeviceID>53</DeviceID>
+    <ButtonID>3</ButtonID>
+    <Discription>ILS Volume (rotary)</Discription>
     <Type>Rotary</Type>
-    <DcsID>249</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>431</ID>
@@ -4070,7 +5165,6 @@
     <ButtonID>1</ButtonID>
     <Discription>UHF Preset Channel Selector</Discription>
     <Type>Switch</Type>
-    <DcsID>161</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>432</ID>
@@ -4078,7 +5172,6 @@
     <ButtonID>2</ButtonID>
     <Discription>UHF 100 MHz Selector</Discription>
     <Type>Switch</Type>
-    <DcsID>162</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>433</ID>
@@ -4086,7 +5179,6 @@
     <ButtonID>3</ButtonID>
     <Discription>UHF 10 MHz Selector</Discription>
     <Type>Switch</Type>
-    <DcsID>163</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>434</ID>
@@ -4094,7 +5186,6 @@
     <ButtonID>4</ButtonID>
     <Discription>UHF 1 MHz Selector</Discription>
     <Type>Switch</Type>
-    <DcsID>163</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>435</ID>
@@ -4102,7 +5193,6 @@
     <ButtonID>5</ButtonID>
     <Discription>UHF 0.1 MHz Selector</Discription>
     <Type>Switch</Type>
-    <DcsID>165</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>436</ID>
@@ -4110,7 +5200,6 @@
     <ButtonID>6</ButtonID>
     <Discription>UHF 0.025 MHz Selector</Discription>
     <Type>Switch</Type>
-    <DcsID>166</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>437</ID>
@@ -4118,7 +5207,6 @@
     <ButtonID>7</ButtonID>
     <Discription>UHF Frequency Mode Dial</Discription>
     <Type>Switch</Type>
-    <DcsID>167</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>438</ID>
@@ -4126,7 +5214,6 @@
     <ButtonID>8</ButtonID>
     <Discription>UHF Function Dial</Discription>
     <Type>Switch</Type>
-    <DcsID>168</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>439</ID>
@@ -4134,7 +5221,6 @@
     <ButtonID>9</ButtonID>
     <Discription>UHF T-Tone</Discription>
     <Type>Switch</Type>
-    <DcsID>169</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>440</ID>
@@ -4142,15 +5228,13 @@
     <ButtonID>10</ButtonID>
     <Discription>UHF Squelch</Discription>
     <Type>Switch</Type>
-    <DcsID>170</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>441</ID>
     <DeviceID>54</DeviceID>
     <ButtonID>11</ButtonID>
-    <Discription>UHF Volume</Discription>
+    <Discription>UHF Volume (rotary)</Discription>
     <Type>Rotary</Type>
-    <DcsID>171</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>442</ID>
@@ -4158,7 +5242,6 @@
     <ButtonID>12</ButtonID>
     <Discription>UHF Test Display</Discription>
     <Type>Switch</Type>
-    <DcsID>172</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>443</ID>
@@ -4166,7 +5249,6 @@
     <ButtonID>13</ButtonID>
     <Discription>UHF Status</Discription>
     <Type>Switch</Type>
-    <DcsID>173</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>444</ID>
@@ -4174,7 +5256,6 @@
     <ButtonID>15</ButtonID>
     <Discription>UHF Load button</Discription>
     <Type>Switch</Type>
-    <DcsID>735</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>445</ID>
@@ -4182,7 +5263,6 @@
     <ButtonID>16</ButtonID>
     <Discription>UHF antenna switch</Discription>
     <Type>Switch</Type>
-    <DcsID>707</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>446</ID>
@@ -4190,7 +5270,6 @@
     <ButtonID>17</ButtonID>
     <Discription>UHF EGI HQ TOD</Discription>
     <Type>Switch</Type>
-    <DcsID>708</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>447</ID>
@@ -4198,7 +5277,6 @@
     <ButtonID>1</ButtonID>
     <Discription>VHF AM Preset Channel Selector left</Discription>
     <Type>Switch</Type>
-    <DcsID>137</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>448</ID>
@@ -4206,7 +5284,6 @@
     <ButtonID>2</ButtonID>
     <Discription>VHF AM Preset Channel Selector right</Discription>
     <Type>Switch</Type>
-    <DcsID>137</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>449</ID>
@@ -4214,7 +5291,6 @@
     <ButtonID>3</ButtonID>
     <Discription>VHF AM Frequency Mode Dial</Discription>
     <Type>Switch</Type>
-    <DcsID>138</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>450</ID>
@@ -4222,15 +5298,13 @@
     <ButtonID>4</ButtonID>
     <Discription>VHF AM Frequency Selection Dial</Discription>
     <Type>Switch</Type>
-    <DcsID>135</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>451</ID>
     <DeviceID>55</DeviceID>
     <ButtonID>5</ButtonID>
-    <Discription>VHF AM Volume</Discription>
+    <Discription>VHF AM Volume (rotary)</Discription>
     <Type>Rotary</Type>
-    <DcsID>133</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>452</ID>
@@ -4238,7 +5312,6 @@
     <ButtonID>6</ButtonID>
     <Discription>VHF AM Load</Discription>
     <Type>Switch</Type>
-    <DcsID>136</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>453</ID>
@@ -4246,7 +5319,6 @@
     <ButtonID>7</ButtonID>
     <Discription>VHF AM Squelch-TONE on</Discription>
     <Type>Switch</Type>
-    <DcsID>134</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>454</ID>
@@ -4254,71 +5326,62 @@
     <ButtonID>8</ButtonID>
     <Discription>VHF AM Squelch-TONE off</Discription>
     <Type>Switch</Type>
-    <DcsID>134</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>455</ID>
     <DeviceID>55</DeviceID>
     <ButtonID>9</ButtonID>
-    <Discription>VHF AM Frequency Selector the 1nd up</Discription>
-    <Type>Switch</Type>
-    <DcsID>139</DcsID>
+    <Discription>VHF AM Frequency Selector the 1nd up (rotary)</Discription>
+    <Type>Rotary</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>456</ID>
     <DeviceID>55</DeviceID>
     <ButtonID>10</ButtonID>
-    <Discription>VHF AM Frequency Selector the 1nd down</Discription>
-    <Type>Switch</Type>
-    <DcsID>139</DcsID>
+    <Discription>VHF AM Frequency Selector the 1nd down (rotary)</Discription>
+    <Type>Rotary</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>457</ID>
     <DeviceID>55</DeviceID>
     <ButtonID>11</ButtonID>
-    <Discription>VHF AM Frequency Selector the 2nd up</Discription>
-    <Type>Switch</Type>
-    <DcsID>140</DcsID>
+    <Discription>VHF AM Frequency Selector the 2nd up (rotary)</Discription>
+    <Type>Rotary</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>458</ID>
     <DeviceID>55</DeviceID>
     <ButtonID>12</ButtonID>
-    <Discription>VHF AM Frequency Selector the 2nd down</Discription>
-    <Type>Switch</Type>
-    <DcsID>140</DcsID>
+    <Discription>VHF AM Frequency Selector the 2nd down (rotary)</Discription>
+    <Type>Rotary</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>459</ID>
     <DeviceID>55</DeviceID>
     <ButtonID>13</ButtonID>
-    <Discription>VHF AM Frequency Selector the 3rd up</Discription>
-    <Type>Switch</Type>
-    <DcsID>141</DcsID>
+    <Discription>VHF AM Frequency Selector the 3rd up (rotary)</Discription>
+    <Type>Rotary</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>460</ID>
     <DeviceID>55</DeviceID>
     <ButtonID>14</ButtonID>
-    <Discription>VHF AM Frequency Selector the 3rd down</Discription>
-    <Type>Switch</Type>
-    <DcsID>141</DcsID>
+    <Discription>VHF AM Frequency Selector the 3rd down (rotary)</Discription>
+    <Type>Rotary</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>461</ID>
     <DeviceID>55</DeviceID>
     <ButtonID>15</ButtonID>
-    <Discription>VHF AM Frequency Selector the 4th up</Discription>
-    <Type>Switch</Type>
-    <DcsID>142</DcsID>
+    <Discription>VHF AM Frequency Selector the 4th up (rotary)</Discription>
+    <Type>Rotary</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>462</ID>
     <DeviceID>55</DeviceID>
     <ButtonID>16</ButtonID>
-    <Discription>VHF AM Frequency Selector the 4th down</Discription>
-    <Type>Switch</Type>
-    <DcsID>142</DcsID>
+    <Discription>VHF AM Frequency Selector the 4th down (rotary)</Discription>
+    <Type>Rotary</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>463</ID>
@@ -4326,7 +5389,6 @@
     <ButtonID>1</ButtonID>
     <Discription>VHF FM Preset Channel Selector left</Discription>
     <Type>Switch</Type>
-    <DcsID>151</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>464</ID>
@@ -4334,71 +5396,62 @@
     <ButtonID>2</ButtonID>
     <Discription>VHF FM Preset Channel Selector right</Discription>
     <Type>Switch</Type>
-    <DcsID>151</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>465</ID>
     <DeviceID>56</DeviceID>
     <ButtonID>9</ButtonID>
-    <Discription>VHF FM Frequency Selector the 1nd up</Discription>
-    <Type>Switch</Type>
-    <DcsID>153</DcsID>
+    <Discription>VHF FM Frequency Selector the 1nd up (rotary)</Discription>
+    <Type>Rotary</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>466</ID>
     <DeviceID>56</DeviceID>
     <ButtonID>10</ButtonID>
-    <Discription>VHF FM Frequency Selector the 1nd down</Discription>
-    <Type>Switch</Type>
-    <DcsID>153</DcsID>
+    <Discription>VHF FM Frequency Selector the 1nd down (rotary)</Discription>
+    <Type>Rotary</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>467</ID>
     <DeviceID>56</DeviceID>
     <ButtonID>11</ButtonID>
-    <Discription>VHF FM Frequency Selector the 2nd up</Discription>
-    <Type>Switch</Type>
-    <DcsID>154</DcsID>
+    <Discription>VHF FM Frequency Selector the 2nd up (rotary)</Discription>
+    <Type>Rotary</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>468</ID>
     <DeviceID>56</DeviceID>
     <ButtonID>12</ButtonID>
-    <Discription>VHF FM Frequency Selector the 2nd down</Discription>
-    <Type>Switch</Type>
-    <DcsID>154</DcsID>
+    <Discription>VHF FM Frequency Selector the 2nd down (rotary)</Discription>
+    <Type>Rotary</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>469</ID>
     <DeviceID>56</DeviceID>
     <ButtonID>13</ButtonID>
-    <Discription>VHF FM Frequency Selector the 3rd up</Discription>
-    <Type>Switch</Type>
-    <DcsID>155</DcsID>
+    <Discription>VHF FM Frequency Selector the 3rd up (rotary)</Discription>
+    <Type>Rotary</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>470</ID>
     <DeviceID>56</DeviceID>
     <ButtonID>14</ButtonID>
-    <Discription>VHF FM Frequency Selector the 3rd down</Discription>
-    <Type>Switch</Type>
-    <DcsID>155</DcsID>
+    <Discription>VHF FM Frequency Selector the 3rd down (rotary)</Discription>
+    <Type>Rotary</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>471</ID>
     <DeviceID>56</DeviceID>
     <ButtonID>15</ButtonID>
-    <Discription>VHF FM Frequency Selector the 4th up</Discription>
-    <Type>Switch</Type>
-    <DcsID>156</DcsID>
+    <Discription>VHF FM Frequency Selector the 4th up (rotary)</Discription>
+    <Type>Rotary</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>472</ID>
     <DeviceID>56</DeviceID>
     <ButtonID>16</ButtonID>
-    <Discription>VHF FM Frequency Selector the 4th down</Discription>
-    <Type>Switch</Type>
-    <DcsID>156</DcsID>
+    <Discription>VHF FM Frequency Selector the 4th down (rotary)</Discription>
+    <Type>Rotary</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>473</ID>
@@ -4406,7 +5459,6 @@
     <ButtonID>3</ButtonID>
     <Discription>VHF FM Frequency Mode Dial</Discription>
     <Type>Switch</Type>
-    <DcsID>152</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>474</ID>
@@ -4414,15 +5466,13 @@
     <ButtonID>4</ButtonID>
     <Discription>VHF FM Frequency Selection Dial</Discription>
     <Type>Switch</Type>
-    <DcsID>149</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>475</ID>
     <DeviceID>56</DeviceID>
     <ButtonID>5</ButtonID>
-    <Discription>VHF FM Volume</Discription>
+    <Discription>VHF FM Volume (rotary)</Discription>
     <Type>Rotary</Type>
-    <DcsID>147</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>476</ID>
@@ -4430,7 +5480,6 @@
     <ButtonID>6</ButtonID>
     <Discription>VHF FM Load</Discription>
     <Type>Switch</Type>
-    <DcsID>150</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>477</ID>
@@ -4438,7 +5487,6 @@
     <ButtonID>7</ButtonID>
     <Discription>VHF FM Squelch-TONE on</Discription>
     <Type>Switch</Type>
-    <DcsID>148</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>478</ID>
@@ -4446,7 +5494,6 @@
     <ButtonID>8</ButtonID>
     <Discription>VHF FM Squelch-TONE off</Discription>
     <Type>Switch</Type>
-    <DcsID>148</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>479</ID>
@@ -4454,7 +5501,6 @@
     <ButtonID>1</ButtonID>
     <Discription>TISL Mode</Discription>
     <Type>Switch</Type>
-    <DcsID>622</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>480</ID>
@@ -4462,7 +5508,6 @@
     <ButtonID>2</ButtonID>
     <Discription>TISL Slant range</Discription>
     <Type>Switch</Type>
-    <DcsID>623</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>481</ID>
@@ -4470,7 +5515,6 @@
     <ButtonID>3</ButtonID>
     <Discription>TISL Altitude above target tens of thousands of feet</Discription>
     <Type>Switch</Type>
-    <DcsID>624</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>482</ID>
@@ -4478,7 +5522,6 @@
     <ButtonID>4</ButtonID>
     <Discription>TISL Altitude above target units of thousands of feet</Discription>
     <Type>Switch</Type>
-    <DcsID>626</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>483</ID>
@@ -4486,7 +5529,6 @@
     <ButtonID>5</ButtonID>
     <Discription>TISL Code wheel 1</Discription>
     <Type>Switch</Type>
-    <DcsID>636</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>484</ID>
@@ -4494,7 +5536,6 @@
     <ButtonID>6</ButtonID>
     <Discription>TISL Code wheel 2</Discription>
     <Type>Switch</Type>
-    <DcsID>638</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>485</ID>
@@ -4502,7 +5543,6 @@
     <ButtonID>7</ButtonID>
     <Discription>TISL Code wheel 3</Discription>
     <Type>Switch</Type>
-    <DcsID>640</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>486</ID>
@@ -4510,7 +5550,6 @@
     <ButtonID>8</ButtonID>
     <Discription>TISL Code wheel 4</Discription>
     <Type>Switch</Type>
-    <DcsID>642</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>487</ID>
@@ -4518,7 +5557,6 @@
     <ButtonID>9</ButtonID>
     <Discription>TISL AUX</Discription>
     <Type>Switch</Type>
-    <DcsID>644</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>488</ID>
@@ -4526,7 +5564,6 @@
     <ButtonID>10</ButtonID>
     <Discription>TISL ENTER</Discription>
     <Type>Switch</Type>
-    <DcsID>628</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>489</ID>
@@ -4534,7 +5571,6 @@
     <ButtonID>11</ButtonID>
     <Discription>TISL BITE</Discription>
     <Type>Switch</Type>
-    <DcsID>632</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>490</ID>
@@ -4542,7 +5578,6 @@
     <ButtonID>1</ButtonID>
     <Discription>INT Switch</Discription>
     <Type>Switch</Type>
-    <DcsID>222</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>491</ID>
@@ -4550,7 +5585,6 @@
     <ButtonID>3</ButtonID>
     <Discription>FM Switch</Discription>
     <Type>Switch</Type>
-    <DcsID>224</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>492</ID>
@@ -4558,7 +5592,6 @@
     <ButtonID>5</ButtonID>
     <Discription>VHF Switch</Discription>
     <Type>Switch</Type>
-    <DcsID>226</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>493</ID>
@@ -4566,7 +5599,6 @@
     <ButtonID>7</ButtonID>
     <Discription>UHF Switch</Discription>
     <Type>Switch</Type>
-    <DcsID>228</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>494</ID>
@@ -4574,7 +5606,6 @@
     <ButtonID>9</ButtonID>
     <Discription>AIM Switch</Discription>
     <Type>Switch</Type>
-    <DcsID>230</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>495</ID>
@@ -4582,7 +5613,6 @@
     <ButtonID>11</ButtonID>
     <Discription>IFF Switch</Discription>
     <Type>Switch</Type>
-    <DcsID>232</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>496</ID>
@@ -4590,7 +5620,6 @@
     <ButtonID>13</ButtonID>
     <Discription>ILS Switch</Discription>
     <Type>Switch</Type>
-    <DcsID>234</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>497</ID>
@@ -4598,7 +5627,6 @@
     <ButtonID>15</ButtonID>
     <Discription>TCN Switch</Discription>
     <Type>Switch</Type>
-    <DcsID>236</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>498</ID>
@@ -4606,15 +5634,13 @@
     <ButtonID>17</ButtonID>
     <Discription>HM Switch</Discription>
     <Type>Switch</Type>
-    <DcsID>237</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>499</ID>
     <DeviceID>58</DeviceID>
     <ButtonID>18</ButtonID>
-    <Discription>Intercom volume</Discription>
+    <Discription>Intercom volume (rotary)</Discription>
     <Type>Rotary</Type>
-    <DcsID>238</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>500</ID>
@@ -4622,7 +5648,6 @@
     <ButtonID>19</ButtonID>
     <Discription>Selector switch</Discription>
     <Type>Switch</Type>
-    <DcsID>239</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>501</ID>
@@ -4630,15 +5655,13 @@
     <ButtonID>20</ButtonID>
     <Discription>Call button</Discription>
     <Type>Switch</Type>
-    <DcsID>240</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>502</ID>
     <DeviceID>35</DeviceID>
     <ButtonID>1</ButtonID>
-    <Discription>AAU34 - Set Pressure</Discription>
-    <Type>Rotary</Type>
-    <DcsID>62</DcsID>
+    <Discription>AAU34 - Set Pressure (rotary)</Discription>
+    <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>503</ID>
@@ -4646,7 +5669,6 @@
     <ButtonID>2</ButtonID>
     <Discription>AAU34 - ELECT</Discription>
     <Type>Switch</Type>
-    <DcsID>60</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>504</ID>
@@ -4654,7 +5676,6 @@
     <ButtonID>1</ButtonID>
     <Discription>AAU34 - PNEU</Discription>
     <Type>Switch</Type>
-    <DcsID>60</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>505</ID>
@@ -4662,7 +5683,6 @@
     <ButtonID>1</ButtonID>
     <Discription>Radar Altimeter Normal/Disabled</Discription>
     <Type>Switch</Type>
-    <DcsID>130</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>506</ID>
@@ -4670,7 +5690,6 @@
     <ButtonID>2</ButtonID>
     <Discription>KY58 - Zeroise Switch</Discription>
     <Type>Switch</Type>
-    <DcsID>779</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>507</ID>
@@ -4678,7 +5697,6 @@
     <ButtonID>3</ButtonID>
     <Discription>KY58 - Delay Switch</Discription>
     <Type>Switch</Type>
-    <DcsID>780</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>508</ID>
@@ -4686,7 +5704,6 @@
     <ButtonID>4</ButtonID>
     <Discription>KY58 - C/RAD switch</Discription>
     <Type>Switch</Type>
-    <DcsID>781</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>509</ID>
@@ -4694,7 +5711,6 @@
     <ButtonID>5</ButtonID>
     <Discription>KY58 - Full switch</Discription>
     <Type>Switch</Type>
-    <DcsID>782</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>510</ID>
@@ -4702,7 +5718,6 @@
     <ButtonID>6</ButtonID>
     <Discription>KY58 - Mode switch</Discription>
     <Type>Switch</Type>
-    <DcsID>783</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>511</ID>
@@ -4710,7 +5725,6 @@
     <ButtonID>7</ButtonID>
     <Discription>KY58 - Power switch</Discription>
     <Type>Switch</Type>
-    <DcsID>784</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>512</ID>
@@ -4718,7 +5732,6 @@
     <ButtonID>1</ButtonID>
     <Discription>Accelerometer Push to set</Discription>
     <Type>Switch</Type>
-    <DcsID>904</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>513</ID>
@@ -4726,7 +5739,6 @@
     <ButtonID>1</ButtonID>
     <Discription>DVADR - Function control toggle switch</Discription>
     <Type>Switch</Type>
-    <DcsID>789</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>514</ID>
@@ -4734,39 +5746,34 @@
     <ButtonID>1</ButtonID>
     <Discription>genericRadio selection switch</Discription>
     <Type>Switch</Type>
-    <DcsID>0</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>515</ID>
     <DeviceID>1000</DeviceID>
     <ButtonID>2</ButtonID>
-    <Discription>genericRadio Frequency 1 {0.0 to 2.0 in 0.1 steps}</Discription>
+    <Discription>genericRadio Frequency 1 (rotary) {0.0 to 2.0 in 0.1 steps}</Discription>
     <Type>Rotary</Type>
-    <DcsID>0</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>516</ID>
     <DeviceID>1000</DeviceID>
     <ButtonID>3</ButtonID>
-    <Discription>genericRadio Frequency 2 {0.0 to 2.0 in 0.1 steps}</Discription>
+    <Discription>genericRadio Frequency 2 (rotary) {0.0 to 2.0 in 0.1 steps}</Discription>
     <Type>Rotary</Type>
-    <DcsID>0</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>517</ID>
     <DeviceID>1000</DeviceID>
     <ButtonID>4</ButtonID>
-    <Discription>genericRadio Volumen {0.0 to 2.0 in 0.1 steps}</Discription>
+    <Discription>genericRadio Volumen (rotary) {0.0 to 2.0 in 0.1 steps}</Discription>
     <Type>Rotary</Type>
-    <DcsID>0</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>518</ID>
     <DeviceID>1000</DeviceID>
     <ButtonID>5</ButtonID>
-    <Discription>genericRadio Preset Channel {0.0 to 2.0 in 0.1 steps}</Discription>
+    <Discription>genericRadio Preset Channel (rotary) {0.0 to 2.0 in 0.1 steps}</Discription>
     <Type>Rotary</Type>
-    <DcsID>0</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>519</ID>
@@ -4774,7 +5781,6 @@
     <ButtonID>6</ButtonID>
     <Discription>genericRadio Load Button</Discription>
     <Type>Switch</Type>
-    <DcsID>0</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>520</ID>
@@ -4782,7 +5788,6 @@
     <ButtonID>7</ButtonID>
     <Discription>genericRadio Squelch Button</Discription>
     <Type>Switch</Type>
-    <DcsID>0</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>521</ID>
@@ -4790,7 +5795,6 @@
     <ButtonID>8</ButtonID>
     <Discription>genericRadio Manual-Preset Button</Discription>
     <Type>Switch</Type>
-    <DcsID>0</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>522</ID>
@@ -4798,7 +5802,6 @@
     <ButtonID>9</ButtonID>
     <Discription>genericRadio Power Button</Discription>
     <Type>Switch</Type>
-    <DcsID>0</DcsID>
   </Clickabledata>
   <Devices>
     <DeviceID>1</DeviceID>
