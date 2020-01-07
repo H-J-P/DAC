@@ -63,8 +63,8 @@
 			dM = dimming mode: 0 == off
 			dT = dimming time interval [sec.]
 			dV = dimming value
-	                Trype = ID or Special 
-			Format = decimal or float4
+	                Trype = ID or Special. Normally it is always ID.
+			Format = decimal or float4. Normally it is decimal. For dimming it is float4.
 			
 			For activation of automatic dimming: value > 0.5; dM != 0
 			Real dimming is only possible with LED-Driver 3, but for other LEDs you get 
