@@ -88,11 +88,11 @@
 			Table 'Device IDs' and 'Device IDs and Button IDs';
 	
 			Please look at the files device.lua and clickabledata.lua of your DCS-Modul. 
-			There are all infos you need.
-	
-			For example look at:
-	
+			There are all infos you need:
 			"... \Eagle Dynamics\DCS World\Mods\aircrafts\A-10C\Cockpit\Scripts\ ..."
-			
-			The infos for gauges are defined in the mainpanel_init.lua.
+
+			For more help look at:
+	                https://github.com/s-d-a/DCS-ExportScripts/wiki
+                        https://github.com/s-d-a/Ikarus/wiki
+
 			
