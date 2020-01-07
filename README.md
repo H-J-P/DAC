@@ -76,8 +76,7 @@
 			---------------------------------------------------------------------------
 			RadioDevice: Specifies the radio device to be queried. Under ID the Device ID of the radio must be specified.
 			Under Format the frequency format must be specified, e.g. MHz for megaherz.
-
-                        ListIndication: Specifies that values from displays are to be queried. Under ID the Indication ID for the query
+			ListIndication: Specifies that values from displays are to be queried. Under ID the Indication ID for the query
 			must be specified. Under Format the name of the return value must be specified.
 
                         Special: If data about the ExportScript module specific extensions should be queried. 
@@ -93,6 +92,6 @@
 
 			For more help look at:
 	                https://github.com/s-d-a/DCS-ExportScripts/wiki
-                        https://github.com/s-d-a/Ikarus/wiki
+                   
 
 			
