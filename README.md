@@ -63,13 +63,25 @@
 			dM = dimming mode: 0 == off
 			dT = dimming time interval [sec.]
 			dV = dimming value
-	
+	                Trype = ID or Special 
+			Format = decimal or float4
+			
 			For activation of automatic dimming: value > 0.5; dM != 0
 			Real dimming is only possible with LED-Driver 3, but for other LEDs you get 
 			a automatic blinking.
 			
 			One more thing: Please use only LED-Driver 2 or LED-Driver 3 on a Arcaze.
+                        
+			Tab 'Displays'
+			---------------------------------------------------------------------------
+			RadioDevice: Specifies the radio device to be queried. Under ID the Device ID of the radio must be specified.
+			Under Format the frequency format must be specified, e.g. MHz for megaherz.
 
+                        ListIndication: Specifies that values from displays are to be queried. Under ID the Indication ID for the query
+			must be specified. Under Format the name of the return value must be specified.
+
+                        Special: If data about the ExportScript module specific extensions should be queried. 
+			Under ID the corresponding ID from the extension file must be specified.
 	
 			Tab 'Masterdata'
 			---------------------------------------------------------------------------
